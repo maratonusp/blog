@@ -1,68 +1,50 @@
-title:            Blog Title
-description:      Describe your website here.
-disqus_shortname: neohpstrtheme
+title:            MaratonIME
+description:      Apoio à Maratona de Programação
+disqus_shortname: maratonime
 reading_time:     true
 words_per_minute: 200
-logo:             images/logo.png
+logo:             images/logo.jpg
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url: http://aronbordin.com/neo-hpstr-jekyll-theme
+baseurl: '/~maratona'
+#url: http://www.ime.usp.br/~maratona
+url: http://localhost:4000/~maratona
 
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'About'
+  - title: 'Sobre'
     url: '/about'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
+  - title: 'História'
+    url: '/categories/#historia'
+  - title: 'Fotos'
+    url: '/galeria'
+  - title: 'Categorias'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'highlighter'
-        url: '/code-highlighting-post/'
-      - title: 'intro'
-        url: '/readability-post/'
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: aron_bordin
-  facebook:
-  github: aron-bordin
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
+  name:           MaratonIME
+  site:           http://www.ime.usp.br/~maratonime/
+  bio:            "Apoio à Maratona de Programação"
+  avatar:         images/logo.jpg
 
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://github.com/victorsenam/blog-maratonime"
+
 # Background image to be tiled on all pages
-background:
+background: images/logo.jpg
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-46201590-4
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Brazil/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown

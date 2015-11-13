@@ -19,16 +19,16 @@ body {
 
 // Colors
 // --------------------------------------------------
-$base-color				   : rgba(#222,0.8);
-$header-color				 : rgba(#000,0.8);
+$base-color				 : #e74c3c;
+$header-color		     : $base-color;
 $sub-item-color			 : rgba(#000, 0.1);
-$header-margin			 : #F45145;
-$menu-top				 		 : white;
-$menu-overflow			 : #2E2E2E;
+$header-margin			 : $base-color;
+$menu-top				 : white;
+$menu-overflow			 : white;
 $body-color      		 : #e8e8e8;
 $text-color      		 : rgba(#222,0.8);
-$comp-color 	 		   : complement(#222);
-$border-color    		 : lighten(#222,60);
+$comp-color 	 		 : complement(#222);
+$border-color    		 : lighten(#222,10);
 $white           		 : #fff;
 $black           		 : #000;
 $link-color 		     : rgba(#222,0.8);
