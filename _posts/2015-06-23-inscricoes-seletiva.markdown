@@ -5,7 +5,7 @@ permalink: seletiva-2015
 date: 2015-06-23 21:44:00
 ---
 
-![Banner Maratona]({{ site.baseurl }}/assets/post-files/2015-06-23-inscricoes-seletiva/banner-maratona-2015.jpg)
+![Banner Maratona]({{ site.url }}/assets/post_files/2015-06-23-inscricoes-seletiva/banner-maratona-2015.jpg)
 
 Chegou a hora! Estão abertas as inscrições para a Seletiva organizada pelo IME que vai acontecer no dia 15 de agosto. Os cinco times vencedores irão representar a USP (Campus Butantã) na [Maratona de Programação da SBC](http://maratona.ime.usp.br/) no dia 12 de setembro e ajudar a USP a chegar cada vez mais longe na programação competitiva.  
   
@@ -25,9 +25,9 @@ Este evento é parte das classificatórias regionais para as finais mundiais do 
 ## A Seletiva
 Este ano, a seletiva tem o apoio e patrocínio de:
 
-[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/caelum.png" style="width:30%; height:30%">](http://www.caelum.com.br/)
-[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/tecsinapse.png" style="width:30%; height:30%">](http://www.tecsinapse.com.br/)
-[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/tfg.png" style="width:30%; height:30%">](http://www.tfgco.com/)
+[<img src="{{ site.url }}/assets/post_files/2015-06-23-inscricoes-seletiva/caelum.png" style="width:30%; height:30%">](http://www.caelum.com.br/)
+[<img src="{{ site.url }}/assets/post_files/2015-06-23-inscricoes-seletiva/tecsinapse.png" style="width:30%; height:30%">](http://www.tecsinapse.com.br/)
+[<img src="{{ site.url }}/assets/post_files/2015-06-23-inscricoes-seletiva/tfg.png" style="width:30%; height:30%">](http://www.tfgco.com/)
 
 Serão classificados para a Maratona da SBC cinco times seguindo o seguinte critério: Os três melhores times se classificam, depois deles, o melhor time ainda não classificado formado somente por pessoas do primeiro ou segundo ano da graduação e, depois, o melhor time ainda não classificado formado somente por alunos do primeiro ano de graduação.  
 Para poder se inscrever, seu time deve ser elegível pelos [critérios da SBC](http://maratona.ime.usp.br/regras15.html). Os times são formados por três alunos que deverão ter iniciado seus estudos universitários no ano de 2011 ou posterior e ter nascido no ano de 1992 ou posterior.  
