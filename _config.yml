@@ -29,6 +29,7 @@ owner:
   site:           http://www.ime.usp.br/~maratonime/
   bio:            "Apoio à Maratona de Programação"
   avatar:         images/logo.jpg
+  facebook:       maratonIME
 
 social:
   - title: "github"
