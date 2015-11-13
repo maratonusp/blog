@@ -6,9 +6,9 @@
     <ul>
       <li class="header-item-title header-toggle "><a href="#menu"><h2><i class="fa fa-bars"></i></h2></a></li>
       <li class="header-item-title">
-        <a href="{{site.url}}/">
+        <a href="{{site.url}}">
           {% if site.logo %}
-            <img class="logo" src="{{site.url}}/{{ site.logo }}" alt="{{ site.title }}">
+            <img class="logo" src="{{site.url}}{{ site.logo }}" alt="{{ site.title }}">
           {% endif %}
         </a>
       </li>
@@ -23,7 +23,7 @@
             <ul class="header-submenu">
               {% for item in (0..site.categories.size) %}{% unless forloop.last %}
                 {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
-                  <li class="sub-item"><a href="/categories/#{{this_word}}">{{this_word}}</a></li>
+                  <li class="sub-item"><a href="{{site.url}}categories/#{{this_word}}">{{this_word}}</a></li>
               {% endunless %}{% endfor %}
             </ul>
           </li>
