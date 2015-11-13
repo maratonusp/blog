@@ -2,6 +2,7 @@
 layout: post
 title: "Resultados do Simulado de Calouros 2015"
 date: 2015-04-27 18:19:00
+categories: [noticias]
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title: "Estão Abertas as Inscrições para a Seletiva 2015"
 permalink: seletiva-2015
 date: 2015-06-23 21:44:00
+categories: [noticias]
 ---
 
 ![Banner Maratona]({{ site.url }}/assets/post_files/2015-06-23-inscricoes-seletiva/banner-maratona-2015.jpg)
