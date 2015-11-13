@@ -5,7 +5,7 @@ permalink: seletiva-2015
 date: 2015-06-23 21:44:00
 ---
 
-![Banner Maratona]({{ site.baseurl }}/assets/img/banner-maratona-2015.jpg)
+![Banner Maratona]({{ site.baseurl }}/assets/post-files/2015-06-23-inscricoes-seletiva/banner-maratona-2015.jpg)
 
 Chegou a hora! Estão abertas as inscrições para a Seletiva organizada pelo IME que vai acontecer no dia 15 de agosto. Os cinco times vencedores irão representar a USP (Campus Butantã) na [Maratona de Programação da SBC](http://maratona.ime.usp.br/) no dia 12 de setembro e ajudar a USP a chegar cada vez mais longe na programação competitiva.  
   
