@@ -4,27 +4,10 @@ title: Sobre o MaratonIME
 comments: true
 modified: 2014-12-24
 ---
+O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Os treinos que oferecemos são voltados à Maratona de Programação e Olimpíada Brasileira de Informática. Estas reuniões são destinadas tanto a novatos na área da computação quanto a olimpíadas e veteranos da Maratona.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Para quem não teve nenhum ou superficial contato com programação, oferecemos aulas durante esses treinos, na qual ensinamos noções básicas de programação e sintaxe da linguagem C. Conforme o aluno vai progredindo vamos introduzindo novos conteúdos de caráter mais computacional por meio de problemas clássicos de lógica e matemática, foco da OBI.
 
-## What HPSTR brings to the table:
-
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Aqueles que já tem maior contato com problemas computacionais, também são bem-vindos. Apresentamos problemas de ênfase mais teórica, típica da Maratona de Programação, com abordagens práticas a assuntos como Programação Dinâmica, Estrutura de Dados e Grafos.
