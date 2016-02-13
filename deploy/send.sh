@@ -15,13 +15,12 @@ read DEST
 # Seta o url de build como a do servidor
 tail _config.yml -n+2 > deploy/_temp_config.yml
 cat deploy/host-remote deploy/_temp_config.yml > _config.yml
-cat _config.yml
 
 # Build
 jekyll build
 
 # Retorna a url de build para local
-#cat deploy/host-local deploy/_temp_config.yml > _config.yml
+cat deploy/host-local deploy/_temp_config.yml > _config.yml
 rm deploy/_temp_config.yml
 
 # Envia o arquivo pro usuário
