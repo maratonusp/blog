@@ -19,8 +19,5 @@ Todos os posts estão em `_posts`. Basta copiar um dos posts já existentes e ad
 Com o jekyll instalado, rode `jekyll serve` e visite [http://localhost:4000](http://localhost:4000). Voilá.
 
 ## Atualizando o servidor
-Eu não consegui inventar um jeito bom de atualizar o servidor, se alguém tiver um melhor, sugira. No momento o que eu faço é compilar o site localmente e enviar para a máquina.
-
-1. No arquivo `_config.yml`, mude a url do projeto de `http://localhost:4000/~maratona/` para `http://www.ime.usp.br/~maratona`
-2. Rode `jekyll build`
-3. No servidor, substitua o conteúdo de `www` pelo conteúdo da pasta `_site` que foi gerada no passo 2
+Existe um script para atualizar o servidor em `deploy/send.sh`. Você precisa de algum usuário da Rede IME com acesso à conta da maratona.  
+O script vai pedir sua senha duas vezes. Leia antes de executar.
