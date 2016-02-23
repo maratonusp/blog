@@ -7,7 +7,7 @@ categories: [treinos]
 ---
 
 Olá maratonistas! Aqui estão os resultados e soluções dos contests individuais 
-que aconteceram na última sexta-feira, 19. Aqui estão os link dos contests:
+que aconteceram na última sexta-feira, 19. Aqui estão os links dos contests:
 
 ## [Div 1 - Placar](https://www.maratonando.com.br/contest/56bbb77457fe25de1001dcd6)
 - [A - Pairsumonious Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1143)
@@ -25,7 +25,7 @@ que aconteceram na última sexta-feira, 19. Aqui estão os link dos contests:
 - [E - Stringer](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2705)
 - [F - Enter the Dragon](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2978)
 
-Os comentários das soluções pelo nosso coach Renzo podem ser encontradas aqui:  
+Os comentários das soluções pelo nosso coach Renzo podem ser encontrados aqui:  
 [Soluções Div 1]({{ site.baseurl }}/assets/post_files/2016-02-23-solucoes-contests-02-19/div1.pdf)  
 [Soluções Div 2]({{ site.baseurl }}/assets/post_files/2016-02-23-solucoes-contests-02-19/div2.pdf)  
 
