@@ -36,9 +36,6 @@ social:
   - title: "github"
     url: "https://github.com/victorsenam/blog-maratonime"
 
-# Background image to be tiled on all pages
-background: images/logo.jpg
-
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-46201590-4
 google_verify:
