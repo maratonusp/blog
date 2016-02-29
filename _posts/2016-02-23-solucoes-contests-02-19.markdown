@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Soluções do treino de 19/02/16!"
-permalink: treino190216
 date: 2016-02-23 13:44:00
 categories: [treinos]
 ---
