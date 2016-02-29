@@ -14,6 +14,8 @@ menu:
     url: ''
   - title: 'Sobre'
     url: 'about'
+  - title: 'Depoimentos'
+    url: 'depoimentos'
 #  - title: 'História'
 #    url: 'categories/#historia'
 #  - title: 'Fotos'
