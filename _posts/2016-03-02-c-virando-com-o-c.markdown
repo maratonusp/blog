@@ -2,7 +2,7 @@
 layout: post
 title: "C virando com C"
 date: 2016-03-02 06:55:36
-categories: [aulas,treinos]
+categories: [aulas]
 ---
 
 Olá maratonistas!
