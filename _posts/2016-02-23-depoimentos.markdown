@@ -6,7 +6,7 @@ date: 2016-02-23 15:52:00
 categories: [miscelania]
 ---
 
-O que foi a maratona na graduação dos nossos ex-competidores? Veja eles contando sobre seu envolvimento, experiência e motivação em participar das competições de programação, e ainda, inteiramente grátis, veja também as vantagens de se treinar ditas por quem sentiu na pele a emoção de gnhar um balão.
+O que foi a maratona na graduação dos nossos ex-competidores? Veja eles contando sobre seu envolvimento, experiência e motivação em participar das competições de programação, e ainda, inteiramente grátis, veja também as vantagens de se treinar ditas por quem sentiu na pele a emoção de ganhar um balão.
 
 {% include depoimentos.html %}
 
