@@ -26,3 +26,6 @@ ao redor da sala que vocês estudam todo dia.
 Esperamos __todos__ vocês.
 
 :D
+
+## Links Importantes
+- [Slides](http://slides.com/nathanproenca/c-virando-com-c)
