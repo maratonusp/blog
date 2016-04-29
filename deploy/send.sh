@@ -13,7 +13,7 @@ echo "Insira um caminho para onde enviar a pasta _site dentro do seu usuário da
 read DEST
 
 # Seta o url de build como a do servidor
-tail _config.yml -n+2 > deploy/_temp_config.yml
+tail -n+2 _config.yml > deploy/_temp_config.yml
 cat deploy/host-remote deploy/_temp_config.yml > _config.yml
 
 # Build
