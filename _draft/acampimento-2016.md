@@ -5,7 +5,7 @@ layout: post
 ---
 Esse ano o AcampIMEnto, nosso treino durantes as férias, ocorreu de 4 à 15 de julho, e teve dois níveis, Iniciantes e Veteranos. Times de várias universidades, como USP - São Carlos e UNICAMP, vieram participar.
 
-Os Iniciantes ficaram sob a tutela do dorminhoco [Yan Couto](http://codeforces.com/profile/ItsYanBitches) e o coach-lindo-mas-pega-pesado [Renzo Gomez](http://codeforces.com/profile/renzo1805) . Os Veteranos foram orientados pela lenda [Marcos Kawakami](http://codeforces.com/profile/marcoskwkm) e o mito [Arthur Nascimento](http://codeforces.com/profile/arthur.nascimento).
+Os Iniciantes ficaram sob a tutela do dorminhoco [Yan Couto](http://codeforces.com/profile/ItsYanBitches) e do coach-lindo-mas-pega-pesado [Renzo Gomez](http://codeforces.com/profile/renzo1805) . Os Veteranos foram orientados pela lenda [Marcos Kawakami](http://codeforces.com/profile/marcoskwkm) e o mito [Arthur Nascimento](http://codeforces.com/profile/arthur.nascimento).
 
 Obrigado a todos que participaram e ajudaram a organizar. Ano que vem tem mais!
 Aos que participaram, lembrem-se de resolver os problemas que não passaram em prova, é uma parte muito importante de aprender. E nos chamem para os seus acampamentos :P
@@ -15,15 +15,25 @@ Aos que participaram, lembrem-se de resolver os problemas que não passaram em p
 Para os que não participaram, segue a lista de contests que foram simulados:
 
 Semana 1:
-- S01E01: [Iniciantes](https://www.codepit.io/#/contest/577454c2de9463a4096156ec/view) - [Veteranos](https://www.codepit.io/#/contest/577a5c08de9463a409615955/view)
-- S01E02: [Iniciantes](https://www.codepit.io/#/contest/577aff2baca9278a096e98d8/view) - [Veteranos](https://www.codepit.io/#/contest/577add29aca9278a096e98cb/view)
-- S01E03: [Iniciantes](https://www.codepit.io/#/contest/577c3274de9463a409615c66/view) - [Veteranos](http://codeforces.com/gym/100523)
-- S01E04: [Iniciantes](http://codeforces.com/gym/100989) - [Veteranos](https://www.codepit.io/#/contest/577dc672de9463a409615d00/view)
-- S01E05: [Iniciantes](https://www.codepit.io/#/contest/577f3391e544d21b00a3111c/view) - [Veteranos](http://codeforces.com/gym/100492)
+
+* S01E01: [Iniciantes](https://www.codepit.io/#/contest/577454c2de9463a4096156ec/view) - [Veteranos](https://www.codepit.io/#/contest/577a5c08de9463a409615955/view)
+
+* S01E02: [Iniciantes](https://www.codepit.io/#/contest/577aff2baca9278a096e98d8/view) - [Veteranos](https://www.codepit.io/#/contest/577add29aca9278a096e98cb/view)
+
+*  S01E03: [Iniciantes](https://www.codepit.io/#/contest/577c3274de9463a409615c66/view) - [Veteranos](http://codeforces.com/gym/100523)
+
+*  S01E04: [Iniciantes](http://codeforces.com/gym/100989) - [Veteranos](https://www.codepit.io/#/contest/577dc672de9463a409615d00/view)
+
+*  S01E05: [Iniciantes](https://www.codepit.io/#/contest/577f3391e544d21b00a3111c/view) - [Veteranos](http://codeforces.com/gym/100492)
 
 Semana 2:
-- S02E01: [Iniciantes](https://www.codepit.io/#/contest/5782e1cd824306170007f5b1/view) - [Veteranos](https://www.codepit.io/#/contest/5783b697dfee8a1800fb3f6b/view)
-- S02E02: [Iniciantes](https://www.codepit.io/#/contest/578469f7167b861700f98202/view) - [Veteranos](http://codeforces.com/group/OizhfQGlzS/contest/207901)
-- S02E03: [Iniciantes](https://www.codepit.io/#/contest/57852a85dfee8a1800fb3fba/view) - [Veteranos](http://codeforces.com/group/OizhfQGlzS/contest/207912)
-- S02E04: [Iniciantes](https://www.codepit.io/#/contest/5786743ee8ad441700f7e2d6/view) - [Veteranos](http://codeforces.com/group/OizhfQGlzS/contest/207914)
-- S02E05: [Iniciantes](https://www.codepit.io/#/contest/5787e119a3eb7e1700d878ba/view) - [Veteranos](http://codeforces.com/group/kZPk3ZTzR5/contest/101041)
+
+*  S02E01: [Iniciantes](https://www.codepit.io/#/contest/5782e1cd824306170007f5b1/view) - [Veteranos](https://www.codepit.io/#/contest/5783b697dfee8a1800fb3f6b/view)
+
+*  S02E02: [Iniciantes](https://www.codepit.io/#/contest/578469f7167b861700f98202/view) - [Veteranos](http://codeforces.com/group/OizhfQGlzS/contest/207901)
+
+*  S02E03: [Iniciantes](https://www.codepit.io/#/contest/57852a85dfee8a1800fb3fba/view) - [Veteranos](http://codeforces.com/group/OizhfQGlzS/contest/207912)
+
+*  S02E04: [Iniciantes](https://www.codepit.io/#/contest/5786743ee8ad441700f7e2d6/view) - [Veteranos](http://codeforces.com/group/OizhfQGlzS/contest/207914)
+
+*  S02E05: [Iniciantes](https://www.codepit.io/#/contest/5787e119a3eb7e1700d878ba/view) - [Veteranos](http://codeforces.com/group/kZPk3ZTzR5/contest/101041)
