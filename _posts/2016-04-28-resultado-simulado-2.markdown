@@ -1,8 +1,9 @@
 ---
+title: Resultados do Simulado de Calouros 2016
+date: '2016-04-28 23:02:00'
 layout: post
-title: "Resultados do Simulado de Calouros 2016"
-date: 2016-04-28 23:02:00
-categories: [noticias]
+categories:
+- noticias
 ---
 
 
@@ -17,8 +18,7 @@ acessados pelos links abaixo.
 - [Placar]({{ site.baseurl }}/assets/post_files/2016-04-28-resultado-simulado-2/simulado_2016_placar.png)
 - [Prova]({{ site.baseurl }}/assets/post_files/2016-04-28-resultado-simulado-2/simulado_2016_prova.pdf)
 - Em breve teremos comentários sobre as soluções dos problemas!
-- Os problemas podem ser enviados [aqui](http://codeforces.com/gym/207055). Entretanto, é preciso ser autorizado (quem fez a prova já está). Mandem
-um email para yancouto@gmail.com com seu usuário do Codeforces e serão autorizados o mais rápido possível.
+- Os problemas podem ser enviados [aqui](http://codeforces.com/gym/100985).
 <!--- [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2016-04-28-resultado-simulado-2/simulado__2016_comentario.pdf) -->
 
 Parabéns a todas as equipes! Os ganhadores foram:
