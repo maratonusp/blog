@@ -37,12 +37,8 @@ comments: false
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
-  <div class="entry-content"> a
-    {% if post.content contains "" %}
-      {{ post.content | split:"" | first % }}
-    {% else %}
+  <div class="entry-content">
       {{ post.content }}
-    {% endif %}
   </div>
 </article>
 <p>{% endfor %}</p>
