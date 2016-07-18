@@ -13,35 +13,40 @@ tags:
 - icpc
 comments: false
 ---
-<p>{% for post in paginator.posts %}</p>
+{% for post in paginator.posts %}
 <article class="hentry">
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
-      </div>
+      </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
-      <time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{% include /time.html %}</a></time><a href="{{ site.url }}/about/" title="Sobre o {{ site.owner.name }}">{{ site.owner.name }}</a>
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{% include /time.html %}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="Sobre o {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
       {% if site.reading_time %}
-      
-        
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
         {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
         Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
-      
+      </span><!-- /.entry-reading-time -->
       {% endif %}
-    </div>
+    </div><!-- /.entry-meta -->
     {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
   <div class="entry-content">
+    {% if post.content contains "<!-- more -->" %}
+    {{ post.content | split:"<!-- more -->" | first % }}
+    {% else %}
       {{ post.content }}
-  </div>
-</article>
-<p>{% endfor %}</p>
+    {% endif %}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}
+
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
@@ -55,7 +60,7 @@ comments: false
   <ul class="inline-list">
     <li>
       {% if paginator.page == 1 %}
-        1
+        <span class="current-page">1</span>
       {% else %}
         <a href="{{ site.url }}">1</a>
       {% endif %}
@@ -63,7 +68,7 @@ comments: false
     {% for count in (2..paginator.total_pages) %}
       <li>
         {% if count == paginator.page %}
-          {{ count }}
+          <span class="current-page">{{ count }}</span>
         {% else %}
           <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
         {% endif %}
@@ -75,4 +80,4 @@ comments: false
   {% else %}
     Next
   {% endif %}
-</div>
+</div><!-- /.pagination -->
