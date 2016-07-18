@@ -27,7 +27,7 @@ comments: false
       
         
         {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
-        Reading time ~{% if readtime &lt;= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+        Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
       
       {% endif %}
     </div>
