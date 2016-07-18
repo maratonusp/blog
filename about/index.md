@@ -2,7 +2,7 @@
 title: Sobre o MaratonIME
 layout: page
 comments: true
-modified: '2014-12-24'
+modified: '2014-12-24 00:00:00'
 ---
 O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.
 
