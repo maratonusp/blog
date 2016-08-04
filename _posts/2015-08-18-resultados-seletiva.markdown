@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Resultados da Seletiva 2015"
+permalink: seletiva-2015
 date: 2015-08-18 18:19:00
 categories: [noticias]
 ---

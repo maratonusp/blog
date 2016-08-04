@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Estão Abertas as Inscrições para a Seletiva 2015"
-permalink: seletiva-2015
 date: 2015-06-23 21:44:00
 categories: [noticias]
 ---
