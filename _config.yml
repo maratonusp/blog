@@ -15,6 +15,7 @@ defaults:
         type: post
     values:
         categories: []
+        permalink: 
 
 menu:
   - title: 'Home'
