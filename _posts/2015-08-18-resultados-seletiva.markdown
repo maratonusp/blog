@@ -1,9 +1,10 @@
 ---
+title: Resultados da Seletiva 2015
+date: '2015-08-18 18:19:00'
 layout: post
-title: "Resultados da Seletiva 2015"
 permalink: seletiva-2015
-date: 2015-08-18 18:19:00
-categories: [noticias]
+categories:
+- noticias
 ---
 
 A Seletiva 2015 da USP para a Maratona de Programação teve a participação
