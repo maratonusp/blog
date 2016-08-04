@@ -10,11 +10,11 @@ logo:             images/logo.jpg
 baseurl: '/~maratona'
 
 defaults:
-    -scope:
-        path: ""
+  - scope:
+        path: "_posts/"
     values:
         categories: []
-        permalink: /:categories/:title/
+        permalink: 
 
 menu:
   - title: 'Home'
