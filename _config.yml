@@ -12,10 +12,10 @@ baseurl: '/~maratona'
 defaults:
   - scope:
         path: ""
-        type: post
+        type: posts
     values:
         categories: []
-        permalink: 
+        permalink: /:categories/:title
 
 menu:
   - title: 'Home'
