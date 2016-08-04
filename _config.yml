@@ -18,8 +18,10 @@ defaults:
         permalink: /:categories/:title
 
 menu:
-  - title: 'Home'
-    url: ''
+#  - title: 'Home'
+#    url: ''
+  - title: 'Seletiva'
+    url: 'seletiva-2016'
   - title: 'Sobre'
     url: 'about'
   - title: 'Depoimentos'
