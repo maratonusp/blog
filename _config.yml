@@ -12,7 +12,7 @@ baseurl: '/~maratona'
 defaults:
   - scope:
         path: ""
-        type: posts
+        type: post
     values:
         categories: []
 
