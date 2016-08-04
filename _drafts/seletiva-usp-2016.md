@@ -21,7 +21,7 @@ Este evento é parte das classificatórias regionais para as finais mundiais do 
 ## A Seletiva
 Este ano, a seletiva tem o apoio e patrocínio de:
 
-![Alura]({{ site.baseurl }}/forestryio/images/patrocinio.png)
+[<img src="{{ site.baseurl }}/forestryio/images/patrocinio.png" style="width:30%; height:30%">](http://www.alura.com.br/)
 
 Serão classificados para a Maratona da SBC cinco times seguindo o seguinte critério: Os três melhores times se classificam, depois deles, o melhor time ainda não classificado formado somente por pessoas do primeiro ou segundo ano da graduação e, depois, o melhor time ainda não classificado formado somente por alunos do primeiro ano de graduação.  
 Para poder se inscrever, seu time deve ser elegível pelos [critérios da SBC](http://maratona.ime.usp.br/regras16.html). Os times são formados por três alunos que deverão ter iniciado seus estudos universitários no ano de 2012 (a contar do início do primeiro curso universitário do aluno) ou posterior e ter nascido no ano de 1993 ou posterior.  
