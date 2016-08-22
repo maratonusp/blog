@@ -21,3 +21,7 @@ Com o jekyll instalado, rode `jekyll serve` e visite [http://localhost:4000](htt
 ## Atualizando o servidor
 Existe um script para atualizar o servidor em `deploy/send.sh`. Você precisa de algum usuário da Rede IME com acesso à conta da maratona.  
 O script vai pedir sua senha duas vezes. Leia antes de executar.
+
+## SSH Tunneling
+Esse comando pode ser útil para editar em servidores remotos (rede linux) e testar localmente:  
+``ssh -f user@personal-server.com -L 2000:localhost:4000 -N``
