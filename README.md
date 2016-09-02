@@ -19,8 +19,7 @@ Todos os posts estão em `_posts`. Basta copiar um dos posts já existentes e ad
 Com o jekyll instalado, rode `jekyll serve` e visite [http://localhost:4000](http://localhost:4000). Voilá.
 
 ## Atualizando o servidor
-Existe um script para atualizar o servidor em `deploy/send.sh`. Você precisa de algum usuário da Rede IME com acesso à conta da maratona.  
-O script vai pedir sua senha duas vezes. Leia antes de executar.
+Apenas dê commit nas alterações que nosso servidor de rebuilda automaticamente :)
 
 ## SSH Tunneling
 Esse comando pode ser útil para editar em servidores remotos (rede linux) e testar localmente:  
