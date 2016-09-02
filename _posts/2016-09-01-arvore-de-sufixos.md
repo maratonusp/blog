@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "Árvore de Sufixos (parte 1)"
-date: 2016-09-01 21:00:00
-categories: [aulas]
+date: '2016-09-01 21:00:00'
+layout: post
+categories:
+- aulas
 ---
 
 Mais uma aula do MaratonIME! Preparada e apresentada pelo [Yan Couto](http://codeforces.com/profile/ItsYanBitches), sobre [Árvores de sufixos](https://youtu.be/tz3mDyI42Qw). Numa próxima aula, veremos como construir a árvore em tempo linear. 
