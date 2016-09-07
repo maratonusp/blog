@@ -29,21 +29,21 @@ mais elegíveis ou por não serem de alunos da USP.
 
 
 ## Times que competiram por vaga
-- **Sua Mãe**: Giovana Gomes Delfino, Yan Soares Couto, Gabriel Fernandes;
-- **Filhos de Turing**: Victor Sena Molero, Nathan Benedetto Proença, Bruno Pasqualotto Cavalar;
-- **Carteado**: Victor de Oliveira Colombo, Marcelo Tadeu de Sá Oliveira Sales, Ramon Silva de Lima;
-- **NoStyle**: Ian Elmôr Lang, Ricardo Lira da Fonseca, Rodrigo Vidal Zobaran;
-- **Polimeros**: Lucas Moreira Santos, Victor Aliende da Matta, Luis Gustavo Bitencourt Almeida;
-- **Nao é a São Silvestre?**: Gabriel de Russo, Vinicius Agostini, Germano Neuenfeld;
-- **Kerberos**: Gustavo Chicato Wandeur, Gustavo Henrique Muriel Zanon, Leonardo Pereira Macedo;
-- **UINDOUS**: Felipe Valencia de Almeida, Andrea Erina Komo, Lucas Kogachi;
-- **Thread**: Rodrigo Ribeiro Santos de Carvalho, Matheus Tavares Bernardino, Lucas Seiki Oshiro;
-- **ThunderMaratona**: Douglas Mitsuo Yamada Yoshida, Tiago Koji Castro Shibata, Sadi Kneipp Neto;
-- **Favo 10110**: Lucas Magno Dantas Ramos, Leonardo dos Reis Gama, Gabriel Tiago Galdino;
-- **using pants;**: Gabriel Griep, Luis Fernando Wadt Assis, Marcos Santos Alfieri;
-- **Gun's N Codes**: Víctor de Sousa Lamarca, Rodrigo Anjos de Souza, Thomas Palmeira Ferraz;
+- **O XOR é livre**: Victor Sena Molero, Gabriel Russo de Carmo, Nathan Benedetto Proença;
+- **Câde o baiano?**: Victor de Oliveira Colombo, Ramon Silva de Lima, André Amaral de Sousa;
+- **Frango Sort**: Rodrigo Ribeiro Santos de Carvalho, Matheus Tavares Bernardino, Lucas Seiki Oshiro;
+- **M3N1PC**: Breno Helfstein Moura, Enzo Hideki Nakamura, Raphael dos Reis Gusmão;
+- **da mata e das florestas**: Victor Aliende da Matta, Leonardo de Carvalho Freitas Padilha Aguilar, Victor Andreas Sprengel;
+- **Dijkstragédia**: Bruno Daiki Yamada, Gabriel Ferreira Guilhoto, Yara Grassi Gouffon;
+- **Coprimes**: Luis Gustavo Bitencourt Almeida, Germano Huning Neuenfeld, Thiago Estrela Montenegro;
+- **objective-AC**: Víctor de Sousa Lamarca, Leonardo Akira Shimabukuro, Tiago Martins Nápoli;
+- **Turistas**: Lucas Stefan Abe, Fábio Henrique Kiyoiti dos Santos Tanaka, Pedro Sola Pimentel;
+- **Ratos do Trovão**: Daniel Nery Silva de Oliveira, Tiago Koji Castro Shibata, Sadi Kneipp Neto;
+- **Vai dar não**: Vitor Yuji Murata, Allan Amancio Rocha, Guilherme Costa Vieira;
+- **Ika**: Pedro Bortolli, Pedro Pereira, João Gabriel;
+- **Code Breakers**: Caroline Sayuri Kagohara, Thaís Miky Kuroda, Luccio Lee;
 - **Batatá**: Renato Cordeiro Ferreira, Mateus Barros Rodrigues, Lucas Dário;
-- **Agora vai**: Wagner Ferreira Alves, Daniel Quadros de Miranda, Pedro Alves de Medeiros Scocco.
+- **UINDOWS**: Lucas Kogachi, Andrea Erina Komo, Jonathan Yuiti Suzuki.
 
 ## Times que não competiram por vaga
 
