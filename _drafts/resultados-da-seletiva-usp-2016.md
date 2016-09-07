@@ -23,7 +23,7 @@ mais elegíveis ou por não serem de alunos da USP.
 - [Placar]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html)
 - [Estatísticas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/stat.html)
 - [Prova]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015.pdf)
-- [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf) (finalmente!)
+- [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf) 
 - [Entradas e saídas dos problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.bz2)
 
 ## Times que competiram por vaga
