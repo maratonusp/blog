@@ -4,10 +4,10 @@ date: '2016-09-07 18:38:00'
 layout: post
 ---
 
-A Seletiva 2015 da USP para a Maratona de Programação teve a participação
-de 15 times competido por uma das 5 vagas para a Primeira Fase da Maratona
-de Programação que ocorrerá em 12 de setembro de 2015.
-Também participaram 7 times que não competiam pelas vagas, por não serem
+A Seletiva 2016 da USP para a Maratona de Programação teve a participação
+de 14 times competido por uma das 5 vagas para a Primeira Fase da Maratona
+de Programação que ocorrerá este sábado 10 de setembro de 2016.
+Também participaram 6 times que não competiam pelas vagas, por não serem
 mais elegíveis ou por não serem de alunos da USP.
 
 
@@ -25,8 +25,6 @@ mais elegíveis ou por não serem de alunos da USP.
 - [Prova]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015.pdf)
 - [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf) (finalmente!)
 - [Entradas e saídas dos problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.bz2)
-- [Fotos da competição](https://www.facebook.com/media/set/?set=a.907386099342104.1073741838.609146922499358&type=3)
-
 
 ## Times que competiram por vaga
 - **O XOR é livre**: Victor Sena Molero, Gabriel Russo de Carmo, Nathan Benedetto Proença;
@@ -43,14 +41,14 @@ mais elegíveis ou por não serem de alunos da USP.
 - **Ika**: Pedro Bortolli, Pedro Pereira, João Gabriel;
 - **Code Breakers**: Caroline Sayuri Kagohara, Thaís Miky Kuroda, Luccio Lee;
 - **Batatá**: Renato Cordeiro Ferreira, Mateus Barros Rodrigues, Lucas Dário;
-- **UINDOWS**: Lucas Kogachi, Andrea Erina Komo, Jonathan Yuiti Suzuki.
+- **UINDOWS**: Lucas Kogachi, Andrea Erina Komo, Jonathan Yuiti Suzuki;
+- **sudo apt-get AC**: Pedro Teotonio de Sousa, Iuri Grangeiro Carvalho, Gabriel Oliveira Lefundes.
 
 ## Times que não competiram por vaga
 
-- **All Clear**: Robert Alonso Choque Aduviri, Joel Edu Castro Sanchez, Grover Enrique Guzman Castro;
-- **Decarona**: Ivan Henrique Petrin, Mateus Bellomo, Matheus Ataide;
-- **Centozebra Impalatriz**: Gustavo Spelzon Caparica, Bruno de Oliveira Endo, José Young Rodrigues;
-- **Facens**: Lucas Alessandro de Oliveira Soares, Guilherme Antunes Romani, André Breda Carneiro;
-- **Tempestade de Ozz**: Juliano Maia da Cruz Leite, Leandro Müller Domingues, Raul Alves da Cunha Silveira Gioielli;
-- **NullPointerException**: Marcelo Baiano Pastorino Trylesinski, Natanel Magalhães Cardoso;
-- **UFABC**: Alexandre Gonzalez Tanaka, José Thiago dos Santos Moreira, Gabriel Durynek.
+- **UFABC sudo balloon**: Gabriel Durynek, Alexandre Tanaka, José Thiago Moreira;
+- **Decarona**: Ivan Henrique Petrin, Matheus Oliveira;
+- **UFABC Garotos de Programa**: Bruno Menezes Gottardo Ladeia, Guilherme Naziozeno, Bryan Bialokur da Cruz;
+- **NoTeam**: Anderson Andrei da Silva;
+- **Free Food**: Gabriel Fernandes de Oliveira, Alessandro Wagner Palmeira;
+- **UFABC++**: Alexandre de Sousa Santos, Diego Pereira de Lima, Rodrigo Hiroaki Ideyama.
