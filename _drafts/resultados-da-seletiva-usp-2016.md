@@ -20,11 +20,12 @@ mais elegíveis ou por não serem de alunos da USP.
 
 
 ## Placar, estatísticas, problemas, etc.
-- [Placar]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html)
-- [Estatísticas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/stat.html)
-- [Prova]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015.pdf)
-- [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf) 
-- [Entradas e saídas dos problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.bz2)
+- [Placar](https://dl.dropboxusercontent.com/u/30620545/detailedscore.html)
+- [Estatísticas](https://dl.dropboxusercontent.com/u/30620545/stats.html)
+- [Prova](https://dl.dropboxusercontent.com/u/30620545/caderno.pdf)
+- [Comentários sobre os problemas](https://dl.dropboxusercontent.com/u/30620545/comentarios.pdf) 
+- [Entradas e saídas dos problemas](https://dl.dropboxusercontent.com/u/30620545/io.zip)
+- [Soluções dos juízes](https://dl.dropboxusercontent.com/u/30620545/solutions.zip)
 
 ## Times que competiram por vaga
 - **O XOR é livre**: Victor Sena Molero, Gabriel Russo de Carmo, Nathan Benedetto Proença;
