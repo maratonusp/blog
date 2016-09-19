@@ -20,6 +20,6 @@ Mais uma aula do MaratonIME! Preparada e apresentada pelo [Yan Couto](http://cod
 
 ## Créditos
 - Professor: Yan Couto
-- Câmera: Renzo Diaz
+- Câmera: Renzo Gómez
 - Edição: Victor Colombo
 
