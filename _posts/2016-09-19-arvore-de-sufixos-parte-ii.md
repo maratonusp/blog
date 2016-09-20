@@ -1,5 +1,5 @@
 ---
-title: "Árvore de Sufixos (parte II)"
+title: "Árvore de Sufixos (parte 2)"
 date: '2016-09-19 20:38:00'
 categories:
 - aulas
@@ -9,7 +9,7 @@ layout: post
 
 Finalmente está disponível a última parte da aula sobre [Árvores de Sufixos](https://www.youtube.com/watch?v=24MnCm2y-BQ&feature=youtu.be) preparada e apresentada pelo [Yan Couto](http://codeforces.com/profile/ItsYanBitches). Nesta aula aprenderemos a como construir uma árvore de sufixos em tempo linear.
 
-{% youtube tz3mDyI42Qw %}  
+{% youtube 24MnCm2y-BQ %}  
 
 ## Tópicos da Aula
 - Árvore de sufixos em O(n)
