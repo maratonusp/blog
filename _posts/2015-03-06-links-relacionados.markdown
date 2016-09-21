@@ -1,8 +1,9 @@
 ---
+title: Links Relacionados
+date: '2015-03-06 18:21:00'
 layout: post
-title: "Links Relacionados"
-date: 2015-03-06 18:21:00
-categories: [miscelania]
+categories:
+- miscelania
 ---
 
 - [Página da Seletiva IME-USP](http://www.ime.usp.br/~cef/XVIIImaratona/)

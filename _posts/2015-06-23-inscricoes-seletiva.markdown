@@ -1,6 +1,6 @@
 ---
 title: Estão Abertas as Inscrições para a Seletiva 2015
-date: '2015-06-23 21:44:00'
+date: '2015-06-23 00:00:00'
 layout: post
 categories:
 - noticias

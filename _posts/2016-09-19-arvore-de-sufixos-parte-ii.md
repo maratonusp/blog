@@ -1,6 +1,6 @@
 ---
 title: "Árvore de Sufixos (parte 2)"
-date: '2016-09-19 20:38:00'
+date: '2016-09-19 00:00:00'
 categories:
 - aulas
 permalink: "/:categories/:title"

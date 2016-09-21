@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "Árvores de DFS, Pontes e Pontos de Articulação"
-date: 2016-03-21 14:30:00
-categories: [aulas]
+date: '2016-03-21 14:30:00'
+layout: post
+categories:
+- aulas
 ---
 
 Agora o MaratonIME disponibiliza suas aulas no [YouTube](https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB) :D  

@@ -1,6 +1,6 @@
 ---
 title: Resultados do Simulado de Calouros 2016
-date: '2016-04-28 23:02:00'
+date: '2016-04-28 00:00:00'
 layout: post
 categories:
 - noticias
