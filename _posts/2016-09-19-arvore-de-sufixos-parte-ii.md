@@ -28,5 +28,5 @@ Finalmente está disponível a última parte da aula sobre [Árvores de Sufixos]
 ## Créditos
 - Professor: Yan Couto
 - Câmera: Renzo Gómez
-- Edição: Germano Neuefeld
+- Edição: Germano Neuenfeld
 
