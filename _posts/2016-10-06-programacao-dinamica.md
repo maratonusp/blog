@@ -25,8 +25,8 @@ Está disponível a aula de Programação Dinâmica, preparada e apresentada pel
 - [Edit distance](http://www.spoj.com/problems/EDIST/)
 - [Boredom](http://codeforces.com/problemset/prob...)
 - [Baile de Formatura](https://www.urionlinejudge.com.br/jud...)
-- [Palindrome](http://br.spoj.com/problems/PAL/)
 - [Magic Grid](http://www.spoj.com/problems/AMR11A/)
+- [Palindrome](http://br.spoj.com/problems/PAL/)
 
 ## Créditos
 - Professor: Victor Colombo
