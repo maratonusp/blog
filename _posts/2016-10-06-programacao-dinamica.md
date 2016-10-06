@@ -1,7 +1,8 @@
 ---
 title: Programação Dinâmica
 date: '2016-10-06 11:35:00'
-categories: []
+categories:
+- aulas
 permalink: "/:categories/:title"
 layout: post
 ---
