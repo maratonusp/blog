@@ -19,7 +19,7 @@ Todos os posts estão em `_posts`. Basta copiar um dos posts já existentes e ad
 Com o jekyll instalado, rode `jekyll serve` e visite [http://localhost:4000](http://localhost:4000). Voilá.
 
 ## Atualizando o servidor
-Apenas dê commit nas alterações que nosso servidor de rebuilda automaticamente :)
+Rode `update.sh`.
 
 ## SSH Tunneling
 Esse comando pode ser útil para editar em servidores remotos (rede linux) e testar localmente:  
