@@ -1,8 +1,9 @@
 ---
+title: O MaratonIME
+date: '2015-03-06 18:17:00'
 layout: post
-title: "O MaratonIME"
-date: 2015-03-06 18:17:00
-categories: [miscelania]
+categories:
+- miscelania
 ---
 
 O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.

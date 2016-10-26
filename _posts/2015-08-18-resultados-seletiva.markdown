@@ -1,6 +1,6 @@
 ---
 title: Resultados da Seletiva 2015
-date: '2015-08-18 18:19:00'
+date: '2015-08-18 00:00:00'
 layout: post
 permalink: seletiva-2015
 categories:

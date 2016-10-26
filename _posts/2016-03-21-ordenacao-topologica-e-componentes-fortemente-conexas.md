@@ -1,8 +1,9 @@
 ---
+title: Ordenação Topológica e Componentes Fortemente Conexas
+date: '2016-03-21 14:30:00'
 layout: post
-title: "Ordenação Topológica e Componentes Fortemente Conexas"
-date: 2016-03-21 14:30:00
-categories: [aulas]
+categories:
+- aulas
 ---
 
 A segunda vídeo-aula do MaratonIME chegou! Preparada e apresentada pelo [Yan Couto](http://codeforces.com/profile/ItsYanBitches) sobre [Ordenação Topológica e Componentes Fortemente Conexas](https://youtu.be/gEmxF3iH2nA). 

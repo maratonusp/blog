@@ -1,8 +1,9 @@
 ---
+title: C virando com C
+date: '2016-03-02 06:55:36'
 layout: post
-title: "C virando com C"
-date: 2016-03-02 06:55:36
-categories: [aulas]
+categories:
+- aulas
 ---
 
 Olá maratonistas!

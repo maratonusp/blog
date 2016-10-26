@@ -1,9 +1,10 @@
 ---
+title: Calendário do MaratonIME!
+date: '2016-02-05 23:08:00'
 layout: post
-title: "Calendário do MaratonIME!"
 permalink: calendario
-date: 2016-02-05 23:08:00
-categories: [miscelania]
+categories:
+- miscelania
 ---
 
 MaratonIMEndário, calendaratonIME, ou sejá lá o que for...

@@ -1,8 +1,9 @@
 ---
+title: Soluções do treino de 19/02/16!
+date: '2016-02-23 13:44:00'
 layout: post
-title: "Soluções do treino de 19/02/16!"
-date: 2016-02-23 13:44:00
-categories: [treinos]
+categories:
+- treinos
 ---
 
 Olá maratonistas! Aqui estão os resultados e soluções dos contests individuais 

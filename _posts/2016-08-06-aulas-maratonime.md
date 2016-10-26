@@ -1,6 +1,6 @@
 ---
 title: Aulas MaratonIME
-date: '2016-08-05 23:45:00'
+date: '2016-08-05 00:00:00'
 categories:
 - aulas
 permalink: "/:categories/:title"

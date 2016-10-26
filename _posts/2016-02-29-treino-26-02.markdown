@@ -1,8 +1,9 @@
 ---
+title: Treino de 26/02/2016
+date: '2016-02-26 13:44:00'
 layout: post
-title: "Treino de 26/02/2016"
-date: 2016-02-26 13:44:00
-categories: [treinos]
+categories:
+- treinos
 ---
 
 Olar! Aqui está a [lista de Problemas (e scoreboard)](https://docs.google.com/spreadsheets/d/1cUfQFUy7nLe1xiK5tqNhD7Og9FXGJKgmrvvOxnWan9E/edit#gid=0) do treino, convenientemente linkada nesse [tinyurl maravilhoso](http://tinyurl.com/maratonalista).  
