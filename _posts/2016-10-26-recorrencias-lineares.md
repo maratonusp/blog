@@ -3,7 +3,7 @@ title: Recorrências Lineares
 date: '2016-10-26 20:19:00'
 categories: []
 permalink: "/:categories/:title"
-layout: ''
+layout: post
 ---
 Pronto para calcular o fibonacci de 1 bilhão? Ou só quer saber se 12^3456789 é congruente a 7 mod 23?
 
