@@ -11,10 +11,12 @@
 # Cheque se você tem rsync na sua máquino local e na rede IME (acho que tem por padrão na rede IME)
 # Tenha certeza que o seu usuário consegue acessar o usuario da maratona (rode sudo -u maratona -i)
 
-echo -e "\033[0;32m[Insira um usuário válido da Rede IME com acesso ao usuário da maratona (usuario@ime.usp.br)]\033[0m"
+echo -e "\033[0;32m[Insira um usuário válido da Rede IME com acesso ao usuário da maratona (exemplo: usuario)]\033[0m"
 read USER
-echo -e "\033[0;32m[Insira um caminho para onde enviar a pasta _site dentro do seu usuário da Rede IME (ex: ~/)]\033[0m"
-read DEST
+#echo -e "\033[0;32m[Insira um caminho para onde enviar a pasta _site dentro do seu usuário da Rede IME (exemplo: /home/gradmac/$USER/_site/)]\033[0m"
+DEST=/home/gradmac/$USER/_temp_site_maratona/
+
+USER=$USER@ime.usp.br
 
 # Atualiza o repo
 echo -e "\033[0;32m[Sincronizando o site com o GitHub]\033[0m"
@@ -26,8 +28,8 @@ jekyll build
 
 # Envia o arquivo pro usuário
 echo -e "\033[0;32m[Enviando arquivos para a rede IME]\033[0m"
-rsync _site $USER:$DEST -r
+rsync _site/ $USER:$DEST -r
 
 # Envia o arquivo para o servidor final
 echo -e "\033[0;32m[Copiando arquivos para o servidor final]\033[0m"
-ssh $USER "sudo -u maratona rsync $DEST/_site/ /home/specmac/maratona/www -r"
+ssh $USER "sudo -u maratona rsync $DEST /home/specmac/maratona/www -r"
