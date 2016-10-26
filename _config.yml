@@ -1,4 +1,4 @@
-url: http://www.ime.usp.br/~maratona/
+url: http://www.ime.usp.br/~maratona
 
 description:      Apoio à Maratona de Programação
 disqus_shortname: maratonime
@@ -21,23 +21,23 @@ menu:
 #  - title: 'Home'
 #    url: ''
   - title: 'Seletiva'
-    url: 'seletiva-2016'
+    url: '/seletiva-2016'
   - title: 'Sobre'
-    url: 'about'
+    url: '/about'
   - title: 'Depoimentos'
-    url: 'depoimentos'
+    url: '/depoimentos'
 #  - title: 'História'
 #    url: 'categories/#historia'
 #  - title: 'Fotos'
 #    url: 'galeria'
   - title: 'Categorias'
-    url: 'categories'
+    url: '/categories'
     type: 'categories'
 
 # Owner/author information
 owner:
   name:           MaratonIME
-  site:           http://www.ime.usp.br/~maratonime/
+  site:           http://www.ime.usp.br/~maratona/
   bio:            "Apoio à Maratona de Programação"
   avatar:         images/logo.jpg
   facebook:       maratonIME
