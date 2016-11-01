@@ -29,4 +29,4 @@ Esperamos __todos__ vocês.
 :D
 
 ## Links Importantes
-- [Slides](https://slides.com/nathanproenca/c-virando-com-c)
+- [Slides](http://slides.com/nathanproenca/c-virando-com-c)

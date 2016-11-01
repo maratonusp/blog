@@ -17,15 +17,15 @@ A aula de Exponenciação Rápida e Recorrências Lineares já está disponível
 - Recorrências Lineares
 
 ## Exercícios
-- [MPOW](https://www.spoj.com/problems/MPOW/)
-- [SMOK](https://codeforces.com/gym/101081/problem/G)
-- [CACHE13](https://br.spoj.com/problems/CACHE13/)
+- [MPOW](http://www.spoj.com/problems/MPOW/)
+- [SMOK](http://codeforces.com/gym/101081/problem/G)
+- [CACHE13](http://br.spoj.com/problems/CACHE13/)
 - [Ônibus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1474)
 - [Tribonacci](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3914)
-- [Sasha and arrays](https://codeforces.com/problemset/problem/718/C)
+- [Sasha and arrays](http://codeforces.com/problemset/problem/718/C)
 - [Kisses and Hugs](https://www.codechef.com/problems/CKISSHUG)
-- [A Wonderful Chocolate](https://www.codechef.com/problems/CBARS)
-- [FIBOSUM](https://www.spoj.com/problems/FIBOSUM/)
+- [A Wonderful Chocolate](http://www.codechef.com/problems/CBARS)
+- [FIBOSUM](http://www.spoj.com/problems/FIBOSUM/)
 - [CHMOD](https://www.codechef.com/problems/CHMOD)
 
 ## Créditos

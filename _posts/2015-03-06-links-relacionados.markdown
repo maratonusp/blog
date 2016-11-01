@@ -6,7 +6,7 @@ categories:
 - miscelania
 ---
 
-- [Página da Seletiva IME-USP](https://www.ime.usp.br/~cef/XVIIImaratona/)
-- [Maratona de Programação](https://maratona.ime.usp.br/)
-- [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/)
-- [Olimpíada Brasileira de Matemática](https://www.obm.org.br/)
+- [Página da Seletiva IME-USP](http://www.ime.usp.br/~cef/XVIIImaratona/)
+- [Maratona de Programação](http://maratona.ime.usp.br/)
+- [Olimpíada Brasileira de Informática](http://olimpiada.ic.unicamp.br/)
+- [Olimpíada Brasileira de Matemática](http://www.obm.org.br/)
