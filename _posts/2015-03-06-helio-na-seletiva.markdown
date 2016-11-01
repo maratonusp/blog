@@ -6,5 +6,5 @@ categories:
 - noticias
 ---
 
-- [Matéria da Folha](http://f5.folha.uol.com.br/estranho/1067310-balao-de-festa-de-aniversario-ameaca-gas-helio-de-extincao.shtml)
-- [Matéria do Jornal da Ciência](http://www.jornaldaciencia.org.br/Detalhe.jsp?id=73027)
+- [Matéria da Folha](https://f5.folha.uol.com.br/estranho/1067310-balao-de-festa-de-aniversario-ameaca-gas-helio-de-extincao.shtml)
+- [Matéria do Jornal da Ciência](https://www.jornaldaciencia.org.br/Detalhe.jsp?id=73027)
