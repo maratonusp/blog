@@ -1,4 +1,4 @@
-url: http://www.ime.usp.br/~maratona
+url: https://www.ime.usp.br/~maratona
 
 description:      Apoio à Maratona de Programação
 disqus_shortname: maratonime
@@ -37,7 +37,7 @@ menu:
 # Owner/author information
 owner:
   name:           MaratonIME
-  site:           http://www.ime.usp.br/~maratona/
+  site:           https://www.ime.usp.br/~maratona/
   bio:            "Apoio à Maratona de Programação"
   avatar:         images/logo.jpg
   facebook:       maratonIME
