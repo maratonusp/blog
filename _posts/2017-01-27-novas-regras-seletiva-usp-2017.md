@@ -31,6 +31,10 @@ Serão 6 provas individuais que ocorrerão durante o primeiro semestre do ano co
 
 - Cada problema resolvido durante a prova conta 1 ponto na classificação individual. Cada problema resolvido após a prova conta 0.5 ponto. 
 
+- Os critérios de desempate são, nessa ordem:
+    - Maior quantidade de problemas resolvidos nas provas presenciais.
+    - Menor somatório de penalidade (segundo as regras da Maratona de Programação) das provas presenciais.
+    - Sorteio
 
 ## Calendário das provas individuais 
 
