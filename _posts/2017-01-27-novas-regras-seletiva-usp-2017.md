@@ -15,7 +15,7 @@ Com a intenção de melhorar o treinamento dos alunos que participam nas competi
 
 2. No mês de agosto teremos a prova "Seletiva USP", nos moldes da prova oficial da Maratona de Programação. As duas melhores equipes representarão a USP. Das demais, a melhor equipe formada apenas por alunos de primeiro ano (sem experiência prévia autodeclarada) também representará a USP.
 
-3. As vagas restantes serão decidas ao longo do primeiro semestre do ano corrente mediante a um conjunto de provas individuais. Cada prova contabilizará pontos aos alunos participantes (mais detalhes na próxima seção). Os 6 alunos com maior pontuação acumulada nessas provas que não se classificaram pelo item 2 formarão duas equipes que representarão a USP. A formação dessas equipes fica a livre escolha dos alunos classificados.
+3. As vagas restantes serão decidas ao longo do primeiro semestre do ano corrente mediante um conjunto de provas individuais. Cada prova contabilizará pontos aos alunos participantes (mais detalhes na próxima seção). Os 6 alunos com maior pontuação acumulada nessas provas que não se classificaram pelo item 2 formarão duas equipes que representarão a USP. A formação dessas equipes fica a livre escolha dos alunos classificados.
 
 ## Provas Individuais 
 
