@@ -48,5 +48,5 @@ Segue o calendário das provas do ano de 2017:
 | 4a. prova      | 13 de maio    |
 | 5a. prova      | 3 de junho    |
 | 6a. prova      | 24 de junho   |
-
+| Seletiva USP   | 12 de agosto  |
 
