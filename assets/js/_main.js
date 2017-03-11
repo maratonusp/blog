@@ -61,7 +61,7 @@ $(document).ready(function(e) {
   });
 });
 
-//mobile menu
+// mobile menu
 $(document).ready(function(){
   $("#menu").attr('style', '');
   $("#menu").mmenu({
@@ -85,4 +85,19 @@ $(document).ready(function(){
       }
     ]
   });
+});
+
+// category listing
+var reloadCategoryListing = function () {
+  $("[name='category-listing']").show();
+  if (window.location.hash) {
+    $("[name='category-listing']").hide();
+    $("[name='category-listing'][data-name='" + window.location.hash.slice(1) + "']").show();
+  }
+};
+
+$(document).ready(function() {
+  reloadCategoryListing();
+  
+  $(window).bind('hashchange', reloadCategoryListing);
 });
