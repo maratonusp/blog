@@ -4,6 +4,7 @@ date: '2015-06-23 00:00:00'
 layout: post
 categories:
 - noticias
+- contests
 ---
 
 ![Banner Maratona]({{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/banner-maratona-2015.jpg)

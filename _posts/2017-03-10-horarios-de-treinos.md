@@ -2,7 +2,8 @@
 title: Horários dos Treinos do Semestre
 date: '2017-03-10 23:36:46'
 categories:
-- seletiva
+- treinos
+- noticias
 permalink: "/:categories/:title"
 layout: post
 ---

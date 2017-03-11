@@ -6,6 +6,7 @@ permalink: seletiva-2015
 categories:
 - seletiva
 - noticias
+- contests
 ---
 
 A Seletiva 2015 da USP para a Maratona de Programação teve a participação

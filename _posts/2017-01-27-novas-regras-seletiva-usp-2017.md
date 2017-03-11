@@ -3,6 +3,7 @@ title: Novas regras para a seleção de equipes da USP
 date: '2017-01-27 18:36:46'
 categories:
 - seletiva
+- noticias
 permalink: "/:categories/:title"
 layout: post
 ---
