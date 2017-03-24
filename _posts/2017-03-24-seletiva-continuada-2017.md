@@ -9,7 +9,7 @@ permalink: "/seletiva-continuada-2016"
 
 Os links para as provas da seletiva continuada de 2017 ficaram disponíveis nesse post.
 
-- Prova 1 - [Presencial](https://vjudge.net/contest/153496) | [Upsolving](https://vjudge.net/contest/153832)  
+- Prova 1 - [Presencial](https://www.vjudge.net/contest/153496) \| [Upsolving](https://www.vjudge.net/contest/153832)  
 - Prova 2 - 1 de abril  
 - Prova 3 - 22 de abril  
 - Prova 4 - 13 de maio  
