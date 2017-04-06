@@ -4,7 +4,7 @@ date: '2017-03-24 18:22:00'
 layout: post
 categories:
 - seletiva
-permalink: "/seletiva-continuada-2016"
+permalink: "/seletiva-continuada-2017"
 ---
 
 Os links para as provas da seletiva continuada de 2017 ficaram disponíveis nesse post.
