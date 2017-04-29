@@ -11,7 +11,7 @@ Os links para as provas da seletiva continuada de 2017 ficaram disponíveis ness
 
 - Prova 1 - [Presencial](https://vjudge.net/contest/153496) \| [Upsolving](https://vjudge.net/contest/153832)  
 - Prova 2 - [Presencial](https://vjudge.net/contest/154173) \| [Upsolving](https://vjudge.net/contest/154174)  
-- Prova 3 - 22 de abril  
+- Prova 3 - [Presencial](https://vjudge.net/contest/161132)
 - Prova 4 - 13 de maio  
 - Prova 5 - 12 de agosto  
 
