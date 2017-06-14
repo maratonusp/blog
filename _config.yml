@@ -21,6 +21,8 @@ defaults:
 menu:
 #  - title: 'Home'
 #    url: ''
+  - title: 'Winter Camp 17'
+    url: '/winter17'
   - title: 'Sobre'
     url: '/about'
   - title: 'Depoimentos'
