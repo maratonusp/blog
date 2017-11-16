@@ -24,7 +24,7 @@ git pull origin master
 
 # Build
 echo -e "\033[0;32m[Buildando com jekyll]\033[0m"
-jekyll build
+bundle exec jekyll build
 
 # Envia o arquivo pro usuário
 echo -e "\033[0;32m[Enviando arquivos para a rede IME]\033[0m"
