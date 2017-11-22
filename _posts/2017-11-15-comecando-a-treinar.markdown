@@ -10,9 +10,9 @@ Já nos fizeram essas perguntas várias vezes, então vamos deixar aqui um compi
 
 ### Ideia geral
 
-1. Aprender a linguagem, básicos de entrada/saída, e resolver problemas simples (você provavelmente já fez isso se está lendo isso).
+1. Aprender a linguagem, básicos de entrada/saída, e resolver problemas simples.
 1. Aprender tópicos simples, enquanto pratica. Recomendamos os tópicos: Guloso, Buscas em Grafos (BFS, DFS) e Programação Dinâmica simples.
-1. Nesse ponto, achamos mais útil treinar esses tópicos do que aprender novos. Participe de contests individuais e faça problemas que não são apenas aplicações diretas, e que combinam estas estratégias.
+1. Nesse ponto, achamos mais útil treinar esses tópicos do que aprender novos. Participe de contests individuais e faça problemas que não são apenas aplicações diretas, e que combinam estas estratégias. Peça ajuda para maratonistas mais experientes sempre que travar em algum problema.
 1. Aprenda os outros tópicos a medida que precisar deles em contests.
 
 ### Aprendendo novos tópicos
@@ -27,10 +27,11 @@ Quando estiver aprendendo um novo tópico:
 - Comece resolvendo vários problemas de aplicação direta, que não requerem saber nada a mais que aquele tópico.
 - Após isso, procure alguma lista de problemas daquele tópico, com problemas que combinam outros tópicos.
 - Enquanto está aprendendo, sempre code do zero a estrutura ou algoritmo. Não copie e cole o código do problema anterior. Isso ajuda a memorizar o código.
+- Não precisa fazer listas intermináveis de problemas. É bom só fazer até se sentir confortável com o tópico.
+- Não se vicie em fazer só listas. Também faça contests. Quando você faz uma lista, pode se predispor a resolver um problema de um jeito específico, e deixar de treinar a habilidade de resolver problemas (fazer observações até modelar o problema e achar uma solução).
 
 ### Praticando seu conhecimento
 
 Recomendo participar de contests em juízes onlines, **principalmente** no [Codeforces](http://codeforces.com/), que tem ótimos problemas. Outros sites com bons contests: [Codechef](https://www.codechef.com/) (enunciados esquisitos, que treinam seu entendimento) e [CS Academy](https://csacademy.com/) (enunciados curtos e diretos, não se acostume :P).
 
-Estes contests são em geral ordenados por dificuldade. Comece pelo mais fácil, e quando acabar, continue a fazer o Upsolving do contest (não precisa fazer até o final, só enquanto se sentir confortável). Nesse ponto, é útil perguntar para pessoas mais experientes como passar aquele problema que está um pouco acima do seu nível, e possivelmente aprender novos tópicos para conseguir fazer isso. Se não tem pessoas mais experientes na sua faculdade, [pergunte para nós :)](https://t.me/maratonimechat).
-
+Os problemas destes contests são em geral ordenados por dificuldade. Comece pelo mais fácil, e quando acabar, continue a fazer o Upsolving do contest (não precisa fazer até o final, só enquanto se sentir confortável). Nesse ponto, é útil perguntar para pessoas mais experientes como passar aquele problema que está um pouco acima do seu nível, e possivelmente aprender novos tópicos para conseguir fazer isso. Se não tem pessoas mais experientes na sua faculdade, [pergunte para nós :)](https://t.me/maratonimechat). Antes de perguntar, tente resolver o problema sozinho por algum tempo (talvez um dia) e, se não conseguir, peça ajuda. Lembre-se que o problema pode envolver algum tópico que você não conhece. Busque pedir por dicas que possam te ajudar a seguir a direção correta em vez de entregar o problema todo de uma vez.
