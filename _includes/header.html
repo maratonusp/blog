@@ -50,7 +50,7 @@
         <h2><span class="entry-date"><a href="https://t.me/maratonime">Canal do Telegram</a> </h2>
       {% endif %}
       {% if page.date %}
-        <h2><span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></h2>
+        <h2><span class="entry-date date published updated"><time datetime="{{ page.date | date_to_xmlschema }}">{% include /time.html %}</time></span></h2>
       {% endif %}
 
       {% if site.reading_time and page.layout == 'post' %}

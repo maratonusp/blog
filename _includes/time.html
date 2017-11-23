@@ -1,5 +1,7 @@
-{% assign date_month = post.date | date: "%-m" %}
-{{ post.date | date: "%-d" }} de
+{% if page %} {% assign from = page %} {% endif %}
+{% if post %} {% assign from = post %} {% endif %}
+{% assign date_month = from.date | date: "%-m" %}
+{{ from.date | date: "%-d" }} de
 {% case date_month %}
     {% when '1' %}Janeiro
     {% when '2' %}Fevereiro
@@ -14,4 +16,4 @@
     {% when '11' %}Novembro
     {% when '12' %}Dezembro
 {% endcase %}
-de {{ post.date | date: "%Y" }}
+de {{ from.date | date: "%Y" }}
