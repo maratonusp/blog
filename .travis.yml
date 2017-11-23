@@ -8,10 +8,12 @@ addons:
         packages:
             - python3
             - python3-pip
+            - sshpass
 
 before_install:
     - pip3 install --user -r requirements.txt
 
 script:
-    - ./scripts/check_new_posts.sh $MARATONIME_HELPER_TOKEN
+    - ./_scripts/check_new_posts.sh
+    - ./_scripts/deploy.sh
 
