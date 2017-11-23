@@ -1,6 +1,17 @@
 language: ruby
+branhces:
+    only: master
 rvm:
     - 2.1
+addons:
+    apt:
+        packages:
+            - python3
+            - python3-pip
+
+before_install:
+    - pip3 install --user -r requirements.txt
+
 script:
-    - jekyll build
+    - ./scripts/check_new_posts.sh $MARATONIME_HELPER_TOKEN
 
