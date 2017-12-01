@@ -1,7 +1,6 @@
 ---
 title: Depoimentos
-date: '2016-02-23 15:52:00'
-layout: post
+layout: page
 permalink: depoimentos
 categories:
 - miscelania

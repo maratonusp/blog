@@ -21,6 +21,8 @@ defaults:
 menu:
 #  - title: 'Home'
 #    url: ''
+  - title: 'Seletivas'
+    url: '/seletivas'
   - title: 'Winter Camp 17'
     url: '/winter17'
   - title: 'Sobre'
