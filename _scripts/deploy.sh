@@ -6,16 +6,12 @@
 ## POR QUE USAR ESTE SCRIPT
 # Travis
 
+if [ "$TRAVIS_BRANCH" != "master" ]; then
+	exit 0
+fi
+
 USER=$USER_IME@ime.usp.br
 DEST=/home/gradmac/$USER_IME/_temp_site_maratona/
-
-# Deps
-echo -e "\033[0;32m[Instalando dependências]\033[0m"
-bundle install
-
-# Build
-echo -e "\033[0;32m[Buildando com jekyll]\033[0m"
-bundle exec jekyll build
 
 # Envia o arquivo pro usuário
 echo -e "\033[0;32m[Enviando arquivos para a rede IME]\033[0m"
