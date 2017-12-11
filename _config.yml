@@ -1,5 +1,5 @@
-#url: https://www.ime.usp.br/~maratona
-url: http://localhost:4000/~maratona
+url: https://www.ime.usp.br/~maratona
+#url: http://localhost:4000/~maratona
 
 description:      Apoio à Maratona de Programação
 disqus_shortname: maratonime

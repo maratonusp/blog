@@ -12,6 +12,7 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
 <ul>
   <li> <a href="seletiva-2016"> Seletiva USP 2016 </a> | <a href="http://codeforces.com/gym/101064"> Codeforces Gym </a> </li>
   <li> <a href="seletiva-2015"> Seletiva USP 2015 </a> | <a href="http://codeforces.com/gym/101047"> Codeforces Gym </a> </li>
+  <li> <a href="https://www.ime.usp.br/~cef/XVIIImaratona/"> XVIII Maratona (2014) </a>  </li>
   <li> <a href="https://www.ime.usp.br/~cef/XVIImaratona/"> XVII Maratona (2013) </a>  </li>
   <li> <a href="https://www.ime.usp.br/~cef/XVImaratona/"> XVI Maratona (2012) </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/XVmaratona/"> XV Maratona (2011) </a> | <a href="http://codeforces.com/gym/101081"> Codeforces Gym </a> </li>
