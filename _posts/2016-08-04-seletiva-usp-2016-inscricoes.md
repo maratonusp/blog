@@ -5,7 +5,7 @@ categories:
 - seletiva
 - noticias
 - contests
-permalink: seletiva-2016
+permalink: seletiva-2016-inscricoes
 layout: post
 ---
 Estão abertas as inscrições para a Seletiva USP organizada pelo IME. Ela vai acontecer no dia 20 de agosto. Esta competição serve para determinar os cinco times que representarão a USP (Campus Butantã) na [Maratona de Programação da SBC](http://maratona.ime.usp.br/) no dia 10 de setembro, e ajudar a USP a chegar cada vez mais longe na programação competitiva.  

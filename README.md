@@ -19,6 +19,7 @@ Todos os posts estão em `_posts`. Basta copiar um dos posts já existentes e ad
 Com o jekyll instalado, rode `jekyll serve` e visite [http://localhost:4000](http://localhost:4000). Voilá.
 
 ## Atualizando o servidor
+Dê pull na branch `master` que o [http://travis-ci.org](Travis) cuida do resto.
 Rode `update.sh`.
 
 ## SSH Tunneling

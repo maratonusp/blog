@@ -31,6 +31,7 @@ mais elegíveis ou por não serem de alunos da USP.
 - [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf) (finalmente!)
 - [Entradas e saídas dos problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.bz2)
 - [Fotos da competição](https://www.facebook.com/media/set/?set=a.907386099342104.1073741838.609146922499358&type=3)
+- [Prova na Codeforces Gym](http://codeforces.com/gym/101047)
 
 
 ## Times que competiram por vaga

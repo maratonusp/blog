@@ -1,6 +1,4 @@
 language: ruby
-branhces:
-    only: master
 rvm:
     - 2.1
 addons:
@@ -14,6 +12,7 @@ before_install:
     - pip3 install --user -r requirements.txt
 
 script:
-    - ./_scripts/check_new_posts.sh
+    - ./_scripts/build.sh
     - ./_scripts/deploy.sh
+    - ./_scripts/check_new_posts.sh
 

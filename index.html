@@ -13,6 +13,22 @@ tags:
 - icpc
 comments: false
 ---
+{% if paginator.previous_page %}
+{% else %}
+<div id="hub">
+	<div class="hub_row">
+		<a target="_blank" href="http://tinyurl.com/bixecamplista"><article class="hub_listas"><div>Listas de Problemas</div></article></a>
+		<a target="_blank" href="https://t.me/maratonime"><article class="hub_telegram"><div>Canal do Telegram</div></article></a>
+		<a target="_blank" href="{{ site.url }}/seletivas"><article class="hub_seletiva"><div>Seletiva</div></article></a>
+	</div>
+	<div class="hub_row">
+		<a target="_blank" href="https://www.ime.usp.br/~maratona/winter17/"><article class="hub_winter"><div>Winter Camps</div></article></a>
+		<a target="_blank" href="https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB"><article class="hub_aulas"><div>Aulas</div></article></a>
+		<a target="_blank" href="{{ site.url }}/depoimentos"><article class="hub_depoimentos"><div>Depoimentos</div></article></a>
+	</div>
+</div>
+{% endif %}
+
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
