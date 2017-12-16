@@ -1,5 +1,5 @@
 ---
-title: Resultados da Seletiva 2015
+title: Resultados da Seletiva USP 2015
 date: '2015-08-18 00:00:00'
 layout: post
 permalink: seletiva-2015
@@ -15,6 +15,12 @@ de Programação que ocorrerá em 12 de setembro de 2015.
 Também participaram 7 times que não competiam pelas vagas, por não serem
 mais elegíveis ou por não serem de alunos da USP.
 
+## Placar, estatísticas, problemas, etc.
+- [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2015/detailedscore.html)
+- [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2015/caderno.pdf)
+- [Comentários sobre os problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2015/comentarios.pdf)
+- [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2015/data.tar.zz)
+- [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2015/io.tar.xz)
 
 ## Times classificados
 - Carteado (mudou nome para Canário Cardeal)
@@ -22,17 +28,6 @@ mais elegíveis ou por não serem de alunos da USP.
 - Filhos de Turing
 - ThunderMaratona (vaga para alunos do primeiro ou segundo ano)
 - Nao é a São Silvestre? (vaga para alunos do primeiro ano)
-
-
-## Placar, estatísticas, problemas, etc.
-- [Placar]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html)
-- [Estatísticas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/stat.html)
-- [Prova]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015.pdf)
-- [Comentários sobre os problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf) (finalmente!)
-- [Entradas e saídas dos problemas]({{ site.baseurl }}/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.bz2)
-- [Fotos da competição](https://www.facebook.com/media/set/?set=a.907386099342104.1073741838.609146922499358&type=3)
-- [Prova na Codeforces Gym](http://codeforces.com/gym/101047)
-
 
 ## Times que competiram por vaga
 - **Sua Mãe**: Giovana Gomes Delfino, Yan Soares Couto, Gabriel Fernandes;
@@ -60,3 +55,8 @@ mais elegíveis ou por não serem de alunos da USP.
 - **Tempestade de Ozz**: Juliano Maia da Cruz Leite, Leandro Müller Domingues, Raul Alves da Cunha Silveira Gioielli;
 - **NullPointerException**: Marcelo Baiano Pastorino Trylesinski, Natanel Magalhães Cardoso;
 - **UFABC**: Alexandre Gonzalez Tanaka, José Thiago dos Santos Moreira, Gabriel Durynek.
+
+## Patrocínio
+[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/caelum.png" style="width:30%">](http://www.caelum.com.br/)
+[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/tecsinapse.png" style="width:30%">](http://www.tecsinapse.com.br/)
+[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/tfg.png" style="width:30%">](http://www.tfgco.com/)
