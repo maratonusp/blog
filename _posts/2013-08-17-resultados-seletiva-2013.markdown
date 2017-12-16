@@ -16,7 +16,7 @@ mais elegíveis ou por não serem de alunos da USP.
 Outros 68 times participaram pela internet.
 
 ## Placar, estatísticas, problemas, etc.
-- Placar: [Só IME](https://www.ime.usp.br/~maratona/assets/seletivas/2013/final-ime2013soime.html) --- [Todos](https://www.ime.usp.br/~maratona/assets/seletivas/2013/finalime2013.html)
+- Placar: [Só IME](https://www.ime.usp.br/~maratona/assets/seletivas/2013/score/final-ime2013soime.html) --- [Todos](https://www.ime.usp.br/~maratona/assets/seletivas/2013/score/finalime2013.html)
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2013/caderno.pdf)
 - [Comentários sobre os problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2013/comentarios.pdf)
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2013/data.tar.xz)

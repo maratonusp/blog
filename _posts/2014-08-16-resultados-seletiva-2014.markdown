@@ -10,7 +10,7 @@ categories:
 ---
 
 ## Placar, estatísticas, problemas, etc.
-- [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2014/scoreboard.pdf)
+- [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2014/score/scoreboard.pdf)
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2014/caderno.pdf)
 - [Comentários sobre os problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2014/comentarios.pdf)
 - [Estatísticas](https://www.ime.usp.br/~maratona/assets/seletivas/2014/statistics.pdf)
