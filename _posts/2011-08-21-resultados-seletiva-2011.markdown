@@ -20,6 +20,7 @@ Outros 102 times participaram pela internet.
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2011/caderno.pdf)
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2011/data.tar.xz)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2011/io.tar.xz)
+- [Soluções dos juízes](https://www.ime.usp.br/~maratona/assets/seletivas/2011/solutions.tar.xz)
 
 ## Times que competiram por vaga
 - **ASA**: Stefano Tommasini, Antonio Roberto de Campos Junior, Alessandro Wagner Palmeira

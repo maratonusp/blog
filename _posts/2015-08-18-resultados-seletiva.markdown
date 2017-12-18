@@ -21,6 +21,7 @@ mais elegíveis ou por não serem de alunos da USP.
 - [Comentários sobre os problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2015/comentarios.pdf)
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2015/data.tar.zz)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2015/io.tar.xz)
+- [Soluções dos juízes](https://www.ime.usp.br/~maratona/assets/seletivas/2015/solutions.tar.xz)
 
 ## Times classificados
 - Carteado (mudou nome para Canário Cardeal)

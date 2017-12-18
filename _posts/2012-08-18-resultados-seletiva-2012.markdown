@@ -21,6 +21,7 @@ Outros 146 times participaram pela internet.
 - [Comentários sobre os problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2012/comentarios.pdf)
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2012/data.tar.xz)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2012/io.tar.xz)
+- [Soluções dos juízes](https://www.ime.usp.br/~maratona/assets/seletivas/2012/solutions.tar.xz)
 
 ## Times que competiram por vaga
 - **Triforce**: Daniel Paulino Alves, Felipe Yamaguti, Pedro Paulo Vezzá Campos
