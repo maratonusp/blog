@@ -13,11 +13,23 @@ de 19 times competido por vagas para a Primeira Fase da Maratona
 de Programação.
 Outros 25 times participaram presencialmente ou e 106 pela internet.
 
-## Placar, estatísticas, problemas, etc.
+O aquecimento da Seletiva de 2008 foi em outro dia, em uma prova maior que um aquecimento normal.
+
+## Placar, estatísticas, problemas, etc. do aquecimento
+- [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/score/score.html)
+- [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/caderno.pdf)
+- [Times inscritos](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/times.html)
+- [Dados (placar, estatísticas)](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/data.tar.xz)
+- [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/io.tar.xz)
+
+## Placar, estatísticas, problemas, etc. da prova principal
 - [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2008/score/score.html)
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2008/caderno.pdf)
 - [Times inscritos](https://www.ime.usp.br/~maratona/assets/seletivas/2008/times.pdf)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2008/io.tar.xz)
+- [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2008/data.tar.xz)
+
+No problema I (reunião) havia instâncias no set original em que o grafo de entrada era desconexo, o que não fazia sentido com a história do problema. Nos arquivos `in-apenas-conexos` e `out-apenas-conexos` foram geradas novas instâncias, todas conexas.
 
 Classificaram-se para representar o IME-USP na Maratona de Programação da SBC os times formados pelos seguintes alunos:
 - Breno Flesch Franco, Gabriel Ribeiro Da Cruz Peixoto, e Rafael Sato Suguiura;
