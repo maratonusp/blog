@@ -23,7 +23,7 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
   <li> <a href="seletiva-2006"> Seletiva IME 2006 </a> </li>
   <li> <a href="seletiva-2005"> Seletiva IME 2005 </a> </li>
   <li> <a href="seletiva-2004"> Seletiva IME 2004 </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/VIImaratona/"> VII Maratona (2003) </a> </li>
+  <li> <a href="seletiva-2003"> Seletiva IME 2003 </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/VImaratona/"> VI Maratona (2002) </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/Vmaratona/"> V Maratona (2001) </a> </li>
   <li>  <a href="http://maratona.ime.usp.br/2000/"> Eliminatória Sulamericana da ACM (2000) </a> </li>
