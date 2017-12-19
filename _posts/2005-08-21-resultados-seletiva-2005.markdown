@@ -17,7 +17,7 @@ Realizamos no domingo, 21 de agosto de 2005 a seletiva interna do IME-USP para a
 Além de times do IME-USP a Maratona contou com participantes do Curso de Ciências Moleculares da USP, e de outras universidades: Unicamp, UFRN e Universidade Anhembi-Morumbi. A prova foi aplicada simultaneamente no ICMC-USP de São Carlos com a participação de 4 equipes.
 
 ## Placar, estatísticas, problemas, etc.
-- [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2005/score/score.php.html)
+- [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2005/score/score.html)
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2005/caderno.pdf)
 - [Times inscritos](https://www.ime.usp.br/~maratona/assets/seletivas/2005/times.html)
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2005/data.tar.xz)
