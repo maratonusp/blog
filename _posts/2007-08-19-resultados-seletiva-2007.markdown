@@ -1,6 +1,6 @@
 ---
 title: Resultados da Seletiva IME 2007
-date: '2008-08-19 00:00:00'
+date: '2007-08-19 00:00:00'
 layout: post
 permalink: seletiva-2007
 categories:
