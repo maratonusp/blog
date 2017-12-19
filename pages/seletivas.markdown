@@ -21,7 +21,7 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
   <li> <a href="seletiva-2008"> Seletiva IME 2008 </a> </li>
   <li> <a href="seletiva-2007"> Seletiva IME 2007 </a> </li>
   <li> <a href="seletiva-2006"> Seletiva IME 2006 </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/IXmaratona/"> IX Maratona (2005) </a> </li>
+  <li> <a href="seletiva-2005"> Seletiva IME 2005 </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/VIIImaratona/"> VIII Maratona (2004) </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/VIImaratona/"> VII Maratona (2003) </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/VImaratona/"> VI Maratona (2002) </a> </li>
