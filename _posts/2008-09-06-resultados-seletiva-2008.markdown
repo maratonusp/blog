@@ -8,10 +8,9 @@ categories:
 - contests
 ---
 
-A Seletiva 2008 do IME para a Maratona de Programação teve a participação
-de 19 times competido por vagas para a Primeira Fase da Maratona
-de Programação.
-Outros 25 times participaram presencialmente ou e 106 pela internet.
+No último domingo, 17 de agosto, o IME realizou a 12a. Maratona de Programação, que funciona como seletiva de seus times para participar da Maratona de Programação da SBC. Neste ano tivemos a participação de 140 equipes de todo o país, dos quais 34 disputaram a competição no IME-USP e as restantes pela Internet.
+
+A prova da seletiva foi elaborada pelo Wanderley Guimarães, coach dos times do IME-USP, e utilizamos o sistema Boca de autoria do Prof. Cassio Campos para gerenciar a competição.
 
 O aquecimento da Seletiva de 2008 foi em outro dia, em uma prova maior que um aquecimento normal.
 

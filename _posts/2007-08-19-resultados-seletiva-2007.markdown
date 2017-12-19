@@ -8,16 +8,9 @@ categories:
 - contests
 ---
 
-A Seletiva 2007 do IME para a Maratona de Programação teve a participação
-de 98 times, presencialmente e pela internet.
+No domingo, 19 de agosto, o IME realizou a 11a. Maratona de Prograamação, que funciona como seletiva de seus times para participar da Maratona de Programação da SBC. Neste ano tivemos a participação de 98 equipes de todo o país, dos quais 32 disputaram a competição no IME-USP e as restantes pela Internet.
 
-Os 5 times classificados, que representarão o IME-USP na Maratona de Programação da SBC são formados pelos seguintes alunos:
-
-- Guilherme de Azevedo Silveira, Cristiane Maria Sato e Leonardo Bespalhuk Facci.
-- Hugo Corbucci, Marcio Takashi Iura Oshiro e Jeferson Rodrigues da Silva.
-- Mariana Vivian Bravo, Pedro Henrique Simões de Oliveira e Rafael Durbano Lobato.
-- Victor Kendy Harada, Marcelo Yamauchi e Andrew Toshiaki Nakayama Kurauchi.
-- Arthur Gabriel de Santana, Luiz Alexandre Barba Alvarenga e Natan Costa Lima.
+A prova da seletiva foi elaborada pelo Wanderley Guimarães, coach dos times do IME-USP, e utilizamos o sistema Boca de autoria do Prof. Cassio Campos para gerenciar a competição.
 
 O aquecimento da Seletiva de 2007 foi em outro dia, em uma prova maior que um aquecimento normal.
 
@@ -36,6 +29,15 @@ O aquecimento da Seletiva de 2007 foi em outro dia, em uma prova maior que um aq
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2007/data.tar.xz)
 - [Comentários sobre os problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2007/comentarios.html)
 - [Fotos](https://www.facebook.com/media/set/?set=a.1611164495630924.1073741844.609146922499358&type=1&l=af3cc12a7e) [(Backup)](https://www.ime.usp.br/~maratona/assets/seletivas/2007/fotos.tar.xz)
+
+Os 5 times classificados, que representarão o IME-USP na Maratona de Programação da SBC são formados pelos seguintes alunos:
+
+- Guilherme de Azevedo Silveira, Cristiane Maria Sato e Leonardo Bespalhuk Facci.
+- Hugo Corbucci, Marcio Takashi Iura Oshiro e Jeferson Rodrigues da Silva.
+- Mariana Vivian Bravo, Pedro Henrique Simões de Oliveira e Rafael Durbano Lobato.
+- Victor Kendy Harada, Marcelo Yamauchi e Andrew Toshiaki Nakayama Kurauchi.
+- Arthur Gabriel de Santana, Luiz Alexandre Barba Alvarenga e Natan Costa Lima.
+
 
 ## Errata
 - **Problema A**
