@@ -22,14 +22,14 @@ O aquecimento da Seletiva de 2008 foi em outro dia, em uma prova maior que um aq
 - [Dados (placar, estatísticas)](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/data.tar.xz)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2008/warmup/io.tar.xz)
 
+No problema I (reunião) havia instâncias no set original em que o grafo de entrada era desconexo, o que não fazia sentido com a história do problema. Nos arquivos `in-apenas-conexos` e `out-apenas-conexos` foram geradas novas instâncias, todas conexas.
+
 ## Placar, estatísticas, problemas, etc. da prova principal
 - [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2008/score/score.html)
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2008/caderno.pdf)
 - [Times inscritos](https://www.ime.usp.br/~maratona/assets/seletivas/2008/times.pdf)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2008/io.tar.xz)
 - [Dados (estatísticas, submissões, etc)](https://www.ime.usp.br/~maratona/assets/seletivas/2008/data.tar.xz)
-
-No problema I (reunião) havia instâncias no set original em que o grafo de entrada era desconexo, o que não fazia sentido com a história do problema. Nos arquivos `in-apenas-conexos` e `out-apenas-conexos` foram geradas novas instâncias, todas conexas.
 
 Classificaram-se para representar o IME-USP na Maratona de Programação da SBC os times formados pelos seguintes alunos:
 - Breno Flesch Franco, Gabriel Ribeiro Da Cruz Peixoto, e Rafael Sato Suguiura;

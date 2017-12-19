@@ -19,7 +19,7 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
   <li> <a href="seletiva-2010"> Seletiva IME 2010 </a> | <a href="http://codeforces.com/gym/101055"> Codeforces Gym </a> </li>
   <li> <a href="seletiva-2009"> Seletiva IME 2009 </a> </li>
   <li> <a href="seletiva-2008"> Seletiva IME 2008 </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XImaratona/"> XI Maratona (2007) </a> </li>
+  <li> <a href="seletiva-2007"> Seletiva IME 2007 </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/Xmaratona/"> X Maratona (2006) </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/IXmaratona/"> IX Maratona (2005) </a> </li>
   <li> <a href="https://www.ime.usp.br/~cef/VIIImaratona/"> VIII Maratona (2004) </a> </li>
