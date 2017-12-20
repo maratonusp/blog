@@ -8,16 +8,7 @@ categories:
 - contests
 ---
 
-Realizamos no domingo, 19 de agosto de 2001 a seletiva interna do IME-USP para a escolha dos times que representarão o instituto. Os times selecionados foram os seguintes:
-
-- Graduação
-	- Carlos Henrique Cardonha e Marcel Kenji de Carli Silva
-	- Antonio João Ferreira Francisco e David Paulo Pereira
-	- Jay Clei Garcia dos Santos e Alessandro Wilner
-- Pós Graduação
-	- Pedro Luiz Eira Velha
-	- Caetano Jimenez Carezzato
-	- Ricardo Bueno Cordeiro
+Realizamos no domingo, 20 de agosto de 2000 a seletiva interna do IME-USP para a escolha dos times que representarão o instituto.
 
 ## Placar, estatísticas, problemas, etc.
 - [Placar](https://www.ime.usp.br/~maratona/assets/seletivas/2000/score/placar.html)
