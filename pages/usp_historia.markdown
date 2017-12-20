@@ -2,11 +2,17 @@
 title: História da USP na Maratona de Programação
 layout: page
 permalink: usp_historia.html
+hubs:
+- url: $/usp_mundial
+  text: USP nas finais mundiais
+  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
+- url: $/historia
+  text: História
+  img: https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/13178974_1052436444837068_7849793169344886514_n.jpg?oh=a6d908919625aa11d50dfc7ec81e144b&oe=5A8AC708
+hubs_class: half
 ---
 
-A Maratona de Programação da USP é uma competição nos moldes do [International Collegiate Programming Contest](https://icpc.baylor.edu/icpc) realizada desde 1997\. Veja também nossa [participação em Finais Mundiais](usp_mundial.html).
-
-Times do IME-USP sempre participaram da Regional Sulamericana do Concurso da ACM:
+Times do IME-USP sempre participaram da Regional Sulamericana do Concurso da ACM.
 
 -   Fortaleza, novembro de 2014: o IME-USP formou times com a POLI que foram dirigidos pelo coach Marcio Oshiro e André Hahn Pereira:
     -   Time formado por Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini foi o primeiro colocado na sede de São Paulo, primeiro colocado no geral brasileiro e classificou-se para a final brasileira.

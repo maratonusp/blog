@@ -1,0 +1,7 @@
+{% if page.hubs %}
+<section id="hub">
+	{% for hub in page.hubs %}
+		<a href="{{ hub.url | replace: '$', site.url}}"><figure class="{{ page.hubs_class }}" style="background-image: url('{{ hub.img | replace: '$',site.url }}')" /><figcaption>{{ hub.text }}</figcaption></figure></a>
+	{% endfor %}
+</section>
+{% endif %}

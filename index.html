@@ -12,22 +12,29 @@ tags:
 - acm
 - icpc
 comments: false
+hubs:
+- url: http://tinyurl.com/bixecamplista
+  text: Listas de Problemas
+  img: $/images/wf-2017.jpg
+- url: https://t.me/maratonabrasil
+  text: Canal do Telegram
+  img: $/images/telegram-logo.jpg
+- url: $/seletivas
+  text: Seletivas
+  img: https://scontent-gru2-2.xx.fbcdn.net/v/t31.0-8/20901439_1507046532709388_6977990151762961000_o.jpg?oh=86e833fa07375db522e041a0c3f5e1c7&oe=5AD1B0AB
+- url: https://www.ime.usp.br/~maratona/winter17/
+  text: Winter Camps
+  img: https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/19904893_1469276866486355_870367890862236705_n.jpg?oh=5e594d9c87ec9b06099c4eb4777859c9&oe=5ACAFB97
+- url: https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB
+  text: Aulas
+  img: https://www.youtube.com/yt/about/media/images/brand-resources/icons/YouTube_icon_full-color.svg
+- url: "$/historia"
+  text: História
+  img: https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/13178974_1052436444837068_7849793169344886514_n.jpg?oh=a6d908919625aa11d50dfc7ec81e144b&oe=5A8AC708
+hubs_class: third
 ---
 {% if paginator.previous_page %}
-{% else %}
-<div id="hub">
-	<div class="hub_row">
-		<a target="_blank" href="http://tinyurl.com/bixecamplista"><article class="hub_listas"><div>Listas de Problemas</div></article></a>
-		<a target="_blank" href="https://t.me/maratonabrasil"><article class="hub_telegram"><div>Canal do Telegram</div></article></a>
-		<a target="_blank" href="{{ site.url }}/seletivas"><article class="hub_seletiva"><div>Seletivas</div></article></a>
-	</div>
-	<div class="hub_row">
-		<a target="_blank" href="https://www.ime.usp.br/~maratona/winter17/"><article class="hub_winter"><div>Winter Camps</div></article></a>
-		<a target="_blank" href="https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB"><article class="hub_aulas"><div>Aulas</div></article></a>
-		<a target="_blank" href="{{ site.url }}/historia"><article class="hub_depoimentos"><div>História</div></article></a>
-	</div>
-</div>
-{% endif %}
+{% else %} {% include hubs.html %} {% endif %}
 
 {% for post in paginator.posts %}
 <article class="hentry">

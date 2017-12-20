@@ -157,56 +157,45 @@ figure.center img{
 
 // Hub
 // --------------------------------------------------
-#hub {
+section#hub {
 	@include clearfix;
 	margin-bottom: 15px;
 	padding: 0;
-	.hub_row {
-		@include clearfix;
-		margin-bottom: 4px;
-		margin-top: 0;
-		text-align: center;
+	text-align: center;
 
-		.hub_prob { background-image: url('../../images/wf-2017.jpg'); }
-		.hub_listas { background-image: url('../../images/wf-2017.jpg'); }
-		.hub_telegram { background-image: url('../../images/telegram-logo.jpg'); }
-		.hub_seletiva { background-image: url('https://scontent-gru2-2.xx.fbcdn.net/v/t31.0-8/20901439_1507046532709388_6977990151762961000_o.jpg?oh=86e833fa07375db522e041a0c3f5e1c7&oe=5AD1B0AB'); }
-		.hub_winter { background-image: url('https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/19904893_1469276866486355_870367890862236705_n.jpg?oh=5e594d9c87ec9b06099c4eb4777859c9&oe=5ACAFB97'); }
-		.hub_aulas { background-image: url('https://www.youtube.com/yt/about/media/images/brand-resources/icons/YouTube_icon_full-color.svg'); }
-		.hub_depoimentos { background-image: url('https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/13178974_1052436444837068_7849793169344886514_n.jpg?oh=a6d908919625aa11d50dfc7ec81e144b&oe=5A8AC708'); }
+	figure {
+		color: black;
+		padding: 0;
+		margin: 0;
+		margin-bottom: 10px;
+		height: 6em;
+		margin-left:2%;
+		float: left;
+		background-position: center;
+		@include background-size(150%);
+		@include transition(background-size 1s ease-out);
+		@include rounded(5px);
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 
-		article {
-			color: black;
-			padding: 0;
-			width: 31%;
+		&.third { width: 31%; }
+		&.half { width: 47%; }
+
+		figcaption {
+			font-size: 16px;
+			color:black;
+			padding-top: 2.3em;
 			margin: 0;
-			margin-bottom: 10px;
-			margin-left: 2%;
-			float: left;
-			background-position: center;
-			@include background-size(150%);
-			@include transition(background-size 1s ease-out);
-
-			div {
-				@include rounded(3px);
-				padding-top: 40px;
-				padding-left: 5px;
-				padding-right: 5px;
-				padding-bottom: 40px;
-				display: block;
-				width: 100%;
-				height: 100%;
-				@include background-alpha($white,0.9);
-				@include transition(opacity 800ms ease-out);
-			}
+			@include rounded(3px);
+			display: block;
+			width: 100%;
+			height: 100%;
+			@include background-alpha($white,0.9);
+			@include transition(opacity 800ms ease-out);
 		}
 
-		article:hover {
+		&:hover {
 			@include background-size(100%);
-
-			div {
-				opacity: 0;
-			}
+			figcaption { opacity: 0; }
 		}
 	}
 }

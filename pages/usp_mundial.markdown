@@ -2,6 +2,14 @@
 title: USP na Final Mundial
 layout: page
 permalink: usp_mundial.html
+hubs:
+- url: $/historia
+  text: História
+  img: https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/13178974_1052436444837068_7849793169344886514_n.jpg?oh=a6d908919625aa11d50dfc7ec81e144b&oe=5A8AC708
+- url: $/usp_historia
+  text: USP na Maratona de Programação
+  img: https://scontent.fcgh9-1.fna.fbcdn.net/v/t1.0-9/23621655_1950772751604780_3997067989440111852_n.jpg?oh=95b673adee686b7e8d520a07f03c17a3&oe=5ABBEC06
+hubs_class: half
 ---
 
 Os resultados de times do IME-USP nas Finais Mundiais
