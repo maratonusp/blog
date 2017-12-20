@@ -1,10 +1,12 @@
 ---
-title: Depoimentos
+title: História
 layout: page
-permalink: depoimentos
+permalink: historia
 categories:
 - miscelania
 ---
+
+Veja [a história da USP na Maratona de Programação]({{ site.url }}/usp_historia) em geral e [nas finais mundiais]({{ site.url }}/usp_mundial).
 
 O que foi a maratona na graduação dos nossos ex-competidores? Veja eles contando sobre seu envolvimento, experiência e motivação em participar das competições de programação, e ainda, inteiramente grátis, veja também as vantagens de se treinar ditas por quem sentiu na pele a emoção de ganhar um balão.
 
