@@ -12,24 +12,28 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
 <ul>
   <li> <a href="seletiva-2016"> Seletiva USP 2016 </a> | <a href="http://codeforces.com/gym/101064"> Codeforces Gym </a> </li>
   <li> <a href="seletiva-2015"> Seletiva USP 2015 </a> | <a href="http://codeforces.com/gym/101047"> Codeforces Gym </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XVIIImaratona/"> XVIII Maratona (2014) </a>  </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XVIImaratona/"> XVII Maratona (2013) </a>  </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XVImaratona/"> XVI Maratona (2012) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XVmaratona/"> XV Maratona (2011) </a> | <a href="http://codeforces.com/gym/101081"> Codeforces Gym </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XIVmaratona/"> XIV Maratona (2010) </a> | <a href="http://codeforces.com/gym/101055"> Codeforces Gym </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XIIImaratona/"> XIII Maratona (2009) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XIImaratona/"> XII Maratona (2008) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/XImaratona/"> XI Maratona (2007) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/Xmaratona/"> X Maratona (2006) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/IXmaratona/"> IX Maratona (2005) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/VIIImaratona/"> VIII Maratona (2004) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/VIImaratona/"> VII Maratona (2003) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/VImaratona/"> VI Maratona (2002) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/Vmaratona/"> V Maratona (2001) </a> </li>
-  <li>  <a href="http://maratona.ime.usp.br/2000/"> Eliminatória Sulamericana da ACM (2000) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/IVmaratona/"> IV Maratona (2000) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/IIImaratona/maratona.html"> III Maratona (1999) </a> </li>
-  <li>  <a href="http://www.ime.usp.br/~cef/acm/"> Eliminatória Sulamericana da ACM (1998) </a> </li>
-  <li>  <a href="https://www.ime.usp.br/~cef/IImaratona/maratona.html"> II Maratona (1998) </a> </li>
-  <li>  <a href="https://www.ime.usp.br/~cef/Imaratona/maratona.html"> I Maratona (1997) </a> </li>
+  <li> <a href="seletiva-2014"> Seletiva USP 2014 </a> </li>
+  <li> <a href="seletiva-2013"> Seletiva USP 2013 </a> </li>
+  <li> <a href="seletiva-2012"> Seletiva USP 2012 </a> </li>
+  <li> <a href="seletiva-2011"> Seletiva IME 2011 </a> | <a href="http://codeforces.com/gym/101081"> Codeforces Gym </a> </li>
+  <li> <a href="seletiva-2010"> Seletiva IME 2010 </a> | <a href="http://codeforces.com/gym/101055"> Codeforces Gym </a> </li>
+  <li> <a href="seletiva-2009"> Seletiva IME 2009 </a> </li>
+  <li> <a href="seletiva-2008"> Seletiva IME 2008 </a> </li>
+  <li> <a href="seletiva-2007"> Seletiva IME 2007 </a> </li>
+  <li> <a href="seletiva-2006"> Seletiva IME 2006 </a> </li>
+  <li> <a href="seletiva-2005"> Seletiva IME 2005 </a> </li>
+  <li> <a href="seletiva-2004"> Seletiva IME 2004 </a> </li>
+  <li> <a href="seletiva-2003"> Seletiva IME 2003 </a> </li>
+  <li> <a href="seletiva-2002"> Seletiva IME 2002 </a> </li>
+  <li> <a href="seletiva-2001"> Seletiva IME 2001 </a> </li>
+  <li> <a href="seletiva-2000"> Seletiva IME 2000 </a> </li>
+  <li> <a href="seletiva-1999"> Seletiva IME 1999 </a> </li>
+  <li> <a href="seletiva-1998"> Seletiva IME 1998 </a> </li>
+  <li> <a href="seletiva-1997"> Seletiva IME 1997 </a> </li>
 </ul>
+
+<h2> Extra </h2>
+<ul>
+  <li> <a href="http://www.ime.usp.br/~maratona/assets/seletivas/acm/"> Eliminatória Sulamericana da ACM (1998) </a> </li>
+</ul>
+
