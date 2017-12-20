@@ -25,11 +25,10 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
   <li> <a href="seletiva-2004"> Seletiva IME 2004 </a> </li>
   <li> <a href="seletiva-2003"> Seletiva IME 2003 </a> </li>
   <li> <a href="seletiva-2002"> Seletiva IME 2002 </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/Vmaratona/"> V Maratona (2001) </a> </li>
-  <li>  <a href="http://maratona.ime.usp.br/2000/"> Eliminatória Sulamericana da ACM (2000) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/IVmaratona/"> IV Maratona (2000) </a> </li>
-  <li> <a href="https://www.ime.usp.br/~cef/IIImaratona/maratona.html"> III Maratona (1999) </a> </li>
-  <li>  <a href="http://www.ime.usp.br/~cef/acm/"> Eliminatória Sulamericana da ACM (1998) </a> </li>
-  <li>  <a href="https://www.ime.usp.br/~cef/IImaratona/maratona.html"> II Maratona (1998) </a> </li>
-  <li>  <a href="https://www.ime.usp.br/~cef/Imaratona/maratona.html"> I Maratona (1997) </a> </li>
+  <li> <a href="seletiva-2001"> Seletiva IME 2001 </a> </li>
+  <li> <a href="seletiva-2000"> Seletiva IME 2000 </a> </li>
+  <li> <a href="seletiva-1999"> Seletiva IME 1999 </a> </li>
+  <li> <a href="http://www.ime.usp.br/~cef/acm/"> Eliminatória Sulamericana da ACM (1998) </a> </li>
+  <li> <a href="seletiva-1998"> Seletiva IME 1998 </a> </li>
+  <li> <a href="seletiva-1997"> Seletiva IME 1997 </a> </li>
 </ul>

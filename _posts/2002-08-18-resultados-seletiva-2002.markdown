@@ -26,3 +26,4 @@ Realizamos no domingo, 18 de agosto de 2002 a seletiva interna do IME-USP para a
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2002/io.tar.xz)
 - [Dados (estatísticas, submissões, etc.)](https://www.ime.usp.br/~maratona/assets/seletivas/2002/data.tar.xz)
 - [Soluções dos juízes](https://www.ime.usp.br/~maratona/assets/seletivas/2002/solutions.tar.xz)
+- [Fotos](https://www.facebook.com/media/set/?set=a.1611255402288500.1073741847.609146922499358&type=1&l=3d58cf9e8b) [(Backup)](https://www.ime.usp.br/~maratona/assets/seletivas/2002/fotos.tar.xz)
