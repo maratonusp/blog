@@ -131,7 +131,6 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
   {% elsif award == "latinamerica" %}<i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i>
   {% endif %}
 {% endfor %}
-<br>
 {% endif %}
 <a href="{% if item.score %}{{ item.score }}{% else %}http://static.kattis.com/icpc/wf{{ item.year }}/{% endif %}" title="placar"><i class="fa fa-th-list" title="Placar"></i> Colocação: {{ item.place }}</a><br>
 Time: {{ item.members }}. <br>
