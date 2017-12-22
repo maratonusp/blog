@@ -10,16 +10,134 @@ hubs:
   text: USP na Maratona de Programação
   img: https://scontent.fcgh9-1.fna.fbcdn.net/v/t1.0-9/23621655_1950772751604780_3997067989440111852_n.jpg?oh=95b673adee686b7e8d520a07f03c17a3&oe=5ABBEC06
 hubs_class: half
+history:
+- title: Phuket, Tailândia, maio de 2016
+  year: 2016
+  members: Yan Soares Couto, Giovana Gomes Delfino e Gabriel Fernandes de Oliveira
+  coaches: Renzo Gomez e Marcos Kawakami
+  img: https://farm8.staticflickr.com/7588/27009070516_a8383c5a0b_m.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/27009070516/in/album-2157668540482736/
+  place: 87
+
+- title: Marraquexe, Marrocos, maio de 2015
+  year: 2015
+  members: Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini
+  coaches: Marcio Oshiro e André Hahn Pereira
+  img: https://farm2.staticflickr.com/1596/25791248314_b714002e10_m.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/25791248314/in/album-72157664781781924/
+  place: 34
+
+- title: Ecaterimburgo, Rússia, junho de 2014
+  year: 2014
+  members: Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini
+  coaches: Marcio Oshiro e André Hahn Pereira
+  img: https://farm2.staticflickr.com/1671/26606492002_1c1ac0d258_m.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26606492002/in/album-72157667709469065/
+  place: 93
+
+- title: Varsóvia, Polônia, maio de 2012
+  year: 2012
+  members: Cear Gamboa Machado, Leonardo Marchetti e Lucas Piva
+  coaches: Marcio Oshiro
+  img: https://farm2.staticflickr.com/1530/26442781060_dd92d07f28_m.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26442781060/in/album-72157667576727741/
+  place: 75
+  
+- title: Orlando, Estados Unidos, abril de 2011
+  year: 2011
+  members: Atol Fortin, Natan Costa Lima e Tiago Madeira
+  coaches: Wanderley Guimarães
+  img: https://farm2.staticflickr.com/1719/26112411703_0761318b13_m.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26112411703/in/album-72157667747508785/
+  place: 42
+  score: https://icpc.baylor.edu/community/results-2011
+
+- title: Harbin, China, fevereiro de 2010
+  year: 2010
+  members: Raphael Ribas, Joel Uchoa e Gabriel Peixoto
+  coaches: Wanderley Guimarães
+  img: https://farm2.staticflickr.com/1713/26112795983_f6d9307c74_o.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26112795983/in/album-72157667578183701/
+  place: 14
+  score: https://icpc.baylor.edu/community/results-2010
+
+- title: Banff, Canadá, abril de 2008
+  year: 2008
+  members: Cristiane Maria Sato, Guilherme Azevedo Silveira e Leonardo B. Facci
+  coaches: Wanderley Guimarães
+  img: https://farm2.staticflickr.com/1445/26129763904_dd7c3d8cb9_o.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26129763904/in/album-72157667183078740/
+  place: 47
+  score: https://icpc.baylor.edu/community/results-2008
+
+- title: Tóquio, Japão, março de 2007
+  year: 2007
+  members: Fabricio S. Benevides, Leonardo B. Facci e Guilherme Azevedo Silveira
+  coaches: Carlos Henrique Cardonha
+  place: 26
+  score: https://icpc.baylor.edu/community/results-2007
+
+- title: Honolu, Hawaii, março de 2002
+  year: 2002
+  members: Pedro Luis Eira Velha, Carlos Henrique Cardonha e Marcel Kenji de Carli Silva
+  coaches: Carlos Henrique Cardonha
+  text: O time ganhou o "Java Challenge".
+  img: https://farm2.staticflickr.com/1695/26464528730_404beb10bb.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26464528730/in/album-72157667792330925/
+  place: Desconhecida
+  score: https://icpc.baylor.edu/community/results-2002
+
+- title: Vancouver, Canadá, março de 2001
+  year: 2001
+  members: Pedro Luis Eira Velha, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez
+  coaches: Aritanan B. G. Gruber
+  awards: 
+  - bronze
+  - latinamerica
+  img: https://farm2.staticflickr.com/1657/26737224965_026ce42d86.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26737224965/in/album-72157665424879804/
+  place: 14
+  score: https://icpc.baylor.edu/community/results-2001
+
+- title: Eindhoven, Holanda, março de 1999
+  year: 1999
+  members: Eduardo Garcia de Freitas, Marcio Grossi de Almeida e Sergio Gabriel Tavares
+  coaches: Aritanan B. G. Gruber
+  awards: 
+  - latinamerica
+  place: 28
+  score: https://icpc.baylor.edu/community/results-1999
 ---
 
-Os resultados de times do IME-USP nas Finais Mundiais
-do ICPC foram os seguintes:
--   [Eindhoven, Holanda em março de 1999](http://icpc.baylor.edu/past/icpc99/Finals/Tour/win/Win.html): nosso time formado pelo Eduardo Garcia de Freitas, Marcio Grossi de Almeida e Sergio Gabriel Tavares e dirigido pelo Aritanan B. G. Gruber foi [28\. colocado](http://icpc.baylor.edu/past/icpc99/Finals/Standings.htm) e campeão Latino-Americano do concurso.
--   [Vancouver, Canadá em março de 2001](http://icpc.baylor.edu/past/icpc2001/Finals/Tour/acm_aw2/acm_aw2.htm): nosso time era formado pelo Pedro Luis Eira Velha, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez e dirigido pelo Aritanan B. G. Gruber e obteve a [medalha de bronze](http://icpc.baylor.edu/past/icpc2001/Finals/medals.html) na competição com sua [14\. colocação](http://icpc.baylor.edu/past/icpc2001/Finals/Standings.html). Além disso, foi o campeão Latino-Americano do concurso.
--   [Honolulu, Hawaii em março de 2002](http://www.acm.inf.ethz.ch/ICPC02/tour/byuni8.html): nosso time era formado pelo Pedro Luis Eira Velha, Carlos Henrique Cardonha e Marcel Kenji de Carli Silva e dirigido pelo Aritanan B. G. Gruber. O time foi o campeão do "Java Challenge" e obteve [menção honrosa](http://icpc.baylor.edu/past/icpc2002/Finals/Standings.html) na competição.
--   [Tóquio, Japão em março de 2007](http://icpc.baylor.edu/dmt/media/indexed/07-DH_TP-_MG_0281%5BLO%5D.jpg): nosso time era formado pelo Fabricio S. Benevides, Leonardo B. Facci e Guilherme Azevedo Silveira e dirigido pelo Carlos Henrique Cardonha. O time obteve [26\. colocação](http://icpc.baylor.edu/past/icpc2007/Finals/Standings.html) na competição.
--   [Banff, Canadá em abril de 2008](http://icpc.baylor.edu/dmt/media/indexed/080408-JM-1300-_MG_9942%5BTN%5D.jpg): nosso time era formado por Cristiane Maria Sato, Guilherme Azevedo Silveira e Leonardo B. Facci e dirigido por Wanderley Guimarães. O time obteve a [47a. colocação na final.](http://icpc.baylor.edu/icpc/Finals/v2/default.asp?page=results)
--   [](http://icpc.baylor.edu/icpc/Finals/v2/default.asp?page=results)[Harbin, China em fevereiro de 2010](http://icpcdmt.ecs.baylor.edu/_MVY8VZPGuTU/S2xUk025YJI/AAAAAAAALzg/7Gf5sev-Nok/s512/Opening%20Ceremony_JM_38.jpg): nosso time era formado por Raphael Ribas, Joel Uchoa e Gabriel Peixoto e dirigido por Wanderley Guimarães. O time obteve a [14a. colocação na final.](http://cm.baylor.edu/ICPCFinalResults2010)
--   [](http://cm.baylor.edu/ICPCFinalResults2010)[Orlando, Estados Unidos, abril de 2011](http://cm.baylor.edu/gallery/MetaMorPic.html?album=2011&tag=team%24Universidade%20de%20S%E3o%20Paulo%20%20%20Instituto%20de%20Matem%E1tica%20e%20Estat%EDstica#5): nosso time era formado por Atol Fortin, Natan Costa Lima e Tiago Madeira e dirigido por Wanderley Guimarães. O time obteve a [42a. colocação na final.](http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Results%20World%20Finals%202011)
--   [Varsovia, Polonia, maio de 2012](http://icpc.baylor.edu/digital/photo/?album=2012&tag=team$University%20of%20S%C3%A3o%20Paulo%20%20%20Institute%20of%20Mathematics%20and%20Sta#3): nosso time era formado por Cesar Gamboa Machado, Leonardo Marchetti, e Lucas Piva e dirigido por Marcio Oshiro. O time obteve [menção honrosa na final.](http://cm.baylor.edu/ICPCWiki/Wiki.jsp?page=Results%20World%20Finals%202012)
--   [Ecaterimburgo, Russia, junho de 2014](https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg): nosso time era formado por Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini e dirigido por Marcio Oshiro e André Hahn Pereira. O time obteve [menção honrosa na final.](http://cm.baylor.edu/scoreboard)
+Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](https://icpc.baylor.edu/) foram os seguintes:
+- <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 1 (2001)
+- <i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i> Campeão da América Latina: 2 (1999,2001)
+
+<ul id="history-list">
+{% for item in page.history %}
+<li>
+{% if item.img %}
+  <a target="_blank" href="{{ item.img_href }}"><img src="{{ item.img }}"></a>
+{% endif %}
+<h4>
+ <a target="_blank" href="https://icpc.baylor.edu/community/history-icpc-{{ item.year }}">{{ item.title }}</a> 
+</h4>
+<p>
+{% if item.awards %}
+{% for award in item.awards %}
+  {% if award == "bronze" %}<i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i>
+  {% elsif award == "silver" %}<i class="fa fa-star" style="color:#c0c0c0" title="Medalha de prata"></i>
+  {% elsif award == "gold" %}<i class="fa fa-star" style="color:ffd700" title="Medalha de ouro"></i>
+  {% elsif award == "latinamerica" %}<i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i>
+  {% endif %}
+{% endfor %}
+<br>
+{% endif %}
+<a href="{% if item.score %}{{ item.score }}{% else %}http://static.kattis.com/icpc/wf{{ item.year }}/{% endif %}" title="placar"><i class="fa fa-th-list" title="Placar"></i> Colocação: {{ item.place }}</a><br>
+Time: {{ item.members }}. <br>
+Coaches: {{ item.coaches }}.
+{% if item.text %}<br>{{ item.text }}{% endif %}
+</p>
+</li>
+{% endfor %}
+</ul>
