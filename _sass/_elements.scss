@@ -202,9 +202,12 @@ section#hub {
 
 // History Lists
 // --------------------------------------------------
-ul#history-list {
+ul.history-list {
 	list-style-type: none;
 	padding: 0;
+	margin-top: .5em;
+
+	div { @include clearfix(); }
 
 	img {
 		float: left;
@@ -230,7 +233,10 @@ ul#history-list {
 		margin-bottom: .2em;
 	}
 
-	p {
-		margin-top: .2em;
-	}
+	p { margin-top: .2em; }
+}
+
+div.history-year {
+	h3 { margin: 1em 0 0 0; }
+	p { margin: 0; }
 }
