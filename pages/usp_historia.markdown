@@ -367,6 +367,7 @@ history:
   - members: Aritanan B.G. Gruber, Eduardo Garcia de Freitas e Sergio Gabriel Tavares
     place: Desconhecida
     name: IME-USP
+  text: Não houve sub-regional neste ano.
 
 - title: Belo Horizonte, dezembro de 1996
   url: http://maratona.ime.usp.br/hist/1996/
@@ -376,6 +377,7 @@ history:
   - members: Aritanan B. Garcia Gruber, Eduardo Teixeira Dias e Paulo José da Silva e Silva
     place: 3
     name: IME-USP
+  text: Não houve sub-regional neste ano.
 
 ---
 
