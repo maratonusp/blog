@@ -42,6 +42,15 @@ history:
   img: https://farm2.staticflickr.com/1530/26442781060_dd92d07f28_m.jpg
   img_href: https://www.flickr.com/photos/141939107@N06/26442781060/in/album-72157667576727741/
   place: 75
+
+- title: Orlando, Estados Unidos, abril de 2011
+  year: 2011
+  members: Ricardo Hahn Pereira, André Hahn Pereira e Gustavo Paccianotto Gouveia
+  coaches: Marcio Oshiro
+  img: https://farm2.staticflickr.com/1697/26110037414_f0ecc2e8f8.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26110037414/in/album-72157667747508785/
+  place: 42
+  score: https://icpc.baylor.edu/community/results-2011
   
 - title: Orlando, Estados Unidos, abril de 2011
   year: 2011
@@ -113,7 +122,7 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
 - <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 1 (2001)
 - <i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i> Campeão da América Latina: 2 (1999,2001)
 
-<ul id="history-list">
+<ul class="history-list">
 {% for item in page.history %}
 <li>
 {% if item.img %}
@@ -127,7 +136,7 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
 {% for award in item.awards %}
   {% if award == "bronze" %}<i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i>
   {% elsif award == "silver" %}<i class="fa fa-star" style="color:#c0c0c0" title="Medalha de prata"></i>
-  {% elsif award == "gold" %}<i class="fa fa-star" style="color:ffd700" title="Medalha de ouro"></i>
+  {% elsif award == "gold" %}<i class="fa fa-star" style="color:#ffd700" title="Medalha de ouro"></i>
   {% elsif award == "latinamerica" %}<i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i>
   {% endif %}
 {% endfor %}
