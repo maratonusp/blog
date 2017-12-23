@@ -70,6 +70,15 @@ history:
   place: 14
   score: https://icpc.baylor.edu/community/results-2010
 
+- title: Estocolmo, Suécia, abril de 2009
+  year: 2009
+  members: Ricardo Pereira, Gustavo Gouveia e Victor Lassance
+  coaches: Carlos Stein Naves de Brito
+  img: http://maratona.ime.usp.br/hist/2008/wf09/poli.jpg
+  img_href: http://maratona.ime.usp.br/hist/2008/wf09/poli.jpg
+  place: Desconhecida
+  score: https://icpc.baylor.edu/community/results-2009
+
 - title: Banff, Canadá, abril de 2008
   year: 2008
   members: Cristiane Maria Sato, Guilherme Azevedo Silveira e Leonardo B. Facci
