@@ -206,8 +206,13 @@ ul.history-list {
 	list-style-type: none;
 	padding: 0;
 	margin-top: .5em;
+	@include clearfix();
 
-	div { @include clearfix(); }
+
+	div { 
+		border-top: 1px solid lightgray;
+		@include clearfix(); 
+	}
 
 	img {
 		float: left;
@@ -217,14 +222,28 @@ ul.history-list {
 
 	li {
 		padding: 10px;
-		padding-left: 0;
 		overflow: auto;
 		@include transition(background-color .4s ease-out);
-		@include rounded(3px);
+		@include rounded(5px);
+		padding-left: .5em;
+		padding-right: 0;
 
-		&:hover {
-			background-color: lightgray;
+		border-right: 3px solid lightgray;
+		border-top: 1px solid lightgray;
+		width: 48%;
+		margin-right: 1%;
+		margin-left: 1%;
+		float: left;
+
+		&.big {
+			margin-left: 0;
+			float: none;
+			width: 100%;
+			border-right: 3px solid lighten($base-color,30);
+			border-top: 1px solid lighten($base-color,30);
 		}
+
+		&:hover { background-color: lightgray; }
 	}
 
 	h4 {
@@ -233,7 +252,10 @@ ul.history-list {
 		margin-bottom: .2em;
 	}
 
-	p { margin-top: .2em; }
+	p { 
+		margin-top: .2em; 
+		@include clearfix();
+	}
 }
 
 div.history-year {

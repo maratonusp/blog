@@ -19,7 +19,8 @@ history:
   - members: Arthur Ferreira do Nascimento, Yan Soares Couto e Victor Sena Molero
     name: ¯\_("/)_/¯
     img: http://maratona.ime.usp.br/resultados17/fotos/usp1.jpg
-    place: 1
+    rank-final: 1
+    rank-sub: 1
     awards:
     - champion
     - gold
@@ -27,10 +28,23 @@ history:
   - members: Gabriel Fernandes de Oliveira, Pedro Teotônio de Sousa e Nathan Benedetto Proença
     name: dog hits dog
     img: http://maratona.ime.usp.br/resultados17/fotos/usp2.jpg
-    place: 4
+    rank-final: 4
+    rank-sub: 18
     awards:
     - silver
-  text: Neste ano, levamos 6 times para a [sub-regional](http://maratona.ime.usp.br/vagas17.html) e ocupamos as 6 melhores colocações da sede. Os times foram ¯\\\_( "/ )\_/¯ (1o colocado), dog hits dog (18o colocado), Nem você acredita nisso (20o colocado, Breno Helfstein Moura, William Hideki Kondo e Jiang Zhi), O(mg) (28o colocado, Victor de Sousa Lamarca, Tiago Martins Napoli e Thiago Estrela Montenegro), midibuiado (39o colocado, Pedro Vitor Bortolli Santos, Iuri Grangeiro Carvalho e Enzo Hideki Nakamura) e Send Nodes (48o colocado, Giovanna Kobus Conrado, Leonardo Silvano Rezende e Victor Hugo Miranda Pinto).
+  - members: Breno Helfstein Moura, William Hideki Kondo e Jiang Zhi
+    name: Nem você acredita nisso 
+    rank-sub: 20
+  - members: Victor de Sousa Lamarca, Tiago Martins Napoli e Thiago Estrela Montenegro
+    name: O(mg)
+    rank-sub: 28
+  - members: Pedro Vitor Bortolli Santos, Iuri Grangeiro Carvalho e Enzo Hideki Nakamura
+    name: midibuiado
+    rank-sub: 39
+  - members: Giovanna Kobus Conrado, Leonardo Silvano Rezende e Victor Hugo Miranda Pinto
+    name: Send Nodes
+    rank-sub: 48
+  text: Sub-regional. [Informações](http://maratona.ime.usp.br/vagas17.html). 
 
 - title: Belo Horizonte, novembro de 2016
   url: http://maratona.ime.usp.br/resultados16/
@@ -39,8 +53,22 @@ history:
   teams:
   - members: Victor de Oliveira Colombo, Ramon Silva de Lima e André Amaral de Sousa
     name: Cadê o Baiano?
-    place: 11
-  text: Neste ano, levamos 5 times para a [sub-regional](http://maratona.ime.usp.br/vagas16.html). Cadê o Baiano? (7o lugar, 1o da sede), O XOR é livre (22o lugar, 2o da sede, Gabriel de Russo e Carmo, Nathan Benedetto Proença e Victor Sena Molero), sudo apt-get AC (77o lugar, 3o da sede, Pedro Teotônio de Sousa, Iuri Grangeiro Carvalho, Gabriel Oliveira Lefundes), The WA Dead (84o lugar, 4o da sede, Breno Helfstein Moura, Enzo Hideki Nakamura e Raphael dos Reis Gusmão) e da matta e das florestas (195o lugar, 9o da sede, Victor Aliende da Matta, Leonardo de Carvalho Freitas Padilha Aguiar e Victor Andreas Sprengel).
+    rank-final: 11
+    rank-sub: 7
+  - members: Gabriel de Russo e Carmo, Nathan Benedetto Proença e Victor Sena Molero
+    name: O XOR é livre
+    rank-sub: 22
+  - members: Pedro Teotônio de Sousa, Iuri Grangeiro Carvalho, Gabriel Oliveira Lefundes
+    name: sudo apt-get AC
+    rank-sub: 77
+  - members: Breno Helfstein Moura, Enzo Hideki Nakamura e Raphael dos Reis Gusmão
+    name: The WA Dead
+    rank-sub: 84
+  - members: Victor Aliende da Matta, Leonardo de Carvalho Freitas Padilha Aguiar e Victor Andreas Sprengel
+    name: da matta e das florestas
+    rank-sub: 195
+  text: Sub-regional. [Informações](http://maratona.ime.usp.br/vagas16.html). 
+  
 
 - title: São Paulo, novembro de 2015
   url: http://maratona.ime.usp.br/hist/2015/index.html
@@ -49,14 +77,14 @@ history:
   teams:
   - members: Yan Soares Couto, Giovana Gomes Delfino, Gabriel Fernandes de Oliveira
     name: Sua mãe
-    place: 5
+    rank-final: 5
     img: http://maratona.ime.usp.br/hist/2015/resultados/fotos/usp-sp.jpg
     awards: 
     - silver
     - wf
   - members: Victor de Oliveira Colombo, Marcelo Tadeu de Sá Oliveira Sales, Ramon Silva de Lima
     name: Canário Cardeal
-    place: 15
+    rank-final: 15
   text: Neste ano, levamos 4 times para a [sub-regional](http://maratona.ime.usp.br/hist/2015/primeira-fase/). [Placar](https://docs.google.com/spreadsheets/d/1c_jNKW_FwXi53aUNsx5qQp0MHna2vvs-io2veZBfXmo/edit#gid=41). Canário Cardeal (2o colocado, 1o da sede), Sua Mãe (5o colocado, 2o da sede), Filhos de Turing (12o colocado, 3o da sede, Bruno Pasqualotto Cavalar, Nathan Benedetto Proença, Victor Sena Molero) e Não é a São Silvestre? (47o colocado, 4o da sede, Gabriel de Russo e Carmo, Germano Hunning Neuenfeld e Vinicius Agostini).
 
 - title: Fortaleza, novembro de 2014
@@ -66,7 +94,7 @@ history:
   teams:
   - members: Marcos Kawakami, Stefano Tommasini, Antonio Roberto de Campos Junior
     name: I am root
-    place: 1
+    rank-final: 1
     img: http://maratona.ime.usp.br/hist/2014/resultados14/data/usp-campeao.jpg
     awards:
     - champion
@@ -74,7 +102,7 @@ history:
     - wf
   - members: Ramon Silva de Lima, Marcelo Sales, André Amaral de Souza
     name: Arquiduque Andorinha
-    place: 6
+    rank-final: 6
     img: http://maratona.ime.usp.br/hist/2014/resultados14/data/usp.jpg
     awards:
     - silver
@@ -87,14 +115,14 @@ history:
   teams:
   - members: Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini
     name: Bitelo
-    place: 2
+    rank-final: 2
     img: http://maratona.ime.usp.br/hist/2013/resultados13/usp1.jpg
     awards:
     - gold
     - wf
   - members: André Amaral de Sousa, Marcelo Tadeu de Sá Oliveira Sales e Guilherme Philippe Figueiredo
     name: Bpyym
-    place: 8
+    rank-final: 8
     img: http://maratona.ime.usp.br/hist/2013/resultados13/usp2.jpg
     awards:
     - bronze
@@ -108,13 +136,13 @@ history:
   - members: Guilherme Philippe Figueiredo, Marcelo Sales, André Amaral de Souza
     name: Vruum
     img: http://maratona.ime.usp.br/hist/2012/resultados12/poli.jpg
-    place: 7
+    rank-final: 7
     awards:
     - bronze
     - wf
   - members: Alessandro Palmeira, Antonio Roberto de Campos Junior e Stefano Tommasini
     name: ASA
-    place: 20
+    rank-final: 20
   text: O [placar](https://docs.google.com/spreadsheets/d/1mYaCQNM4EHEi_cuF9xHnjWqvbh-oO-egfJDi5OvmaG8/edit) da [sub-regional](http://maratona.ime.usp.br/hist/2012/primeira-fase/). Time formado por Alessandro Palmeira, Antonio Roberto de Campos Junior e Stefano Tommasini foi o segundo colocado na sede de São Paulo e classificou-se para a final brasileira, onde ficou na 20a. posição.  Time formado por José Ernesto Young Rodrigues, Gustavo Caparica e Bruno de Oliveira Endo foi o oitavo lugar na sede de São Paulo.  Time formado por Felipe Yamaguti, Pedro Paulo Vezza Campos e Daniel Alves Paulino foi o décimo lugar na sede de São Paulo.  Time formado por Gervasio Protasio dos Santos Neto, Vinicius Jorge Vendramini e Mateus Barros Rodrigues foi o décimo nono na sede de São Paulo.  Time formado por Gabriel Ferreira Guilhoto, Felipe Añez de Toledo e Renato Cordeiro Ferreira foi o vigésimo primeiro na sede de São Paulo.
 
 - title: Goiânia, novembro de 2011
@@ -125,13 +153,13 @@ history:
   - members: Cesar Gamboa Machado, Leonardo Marchetti e Lucas Piva
     name: Up
     img: http://maratona.ime.usp.br/hist/2011/ime8.jpg
-    place: 8
+    rank-final: 8
     awards:
     - bronze
     - wf
   - members: Alessandro Palmeira, Antonio Roberto de Campos Junior e Stefano Tommasini
     name: ASA
-    place: 12
+    rank-final: 12
   text: Time formado por Cesar Gamboa Machado, Leonardo Marchetti e Lucas Piva foi o vice-campeão da sede de São Paulo, e classificou-se para a final brasileira da competição onde terminou na oitava colocação medalha de bronze e classificou-se para as finais mundiais em Varsovia, em maio de 2012.  Time formado por Alessandro Palmeira, Antonio Roberto de Campos Junior e Stefano Tommasini foi o quarto colocado na sede de São Paulo e classificou-se para a final brasileira, onde ficou na 12a. posição.  Time formado por Renato Parente, Fabricio Puppi e Guilherme Puglia foi o quinto colocado na sede de São Paulo.  Time formado por Daniel Paulino Alves, Felipe Yamaguti e Leonardo Schaffer foi o 13o. colocado na sede de São Paulo.  Time formado por João Marco Maciel da Silva, Marcos Yamazaki e Paolo Carrara foi o 15o. colocado na sede de São Paulo.
 
 - title: Joinville, outubro de 2010
@@ -141,14 +169,14 @@ history:
   teams:
   - members: Ricardo Hahn Pereira, André Hahn Pereira, e Gustavo Paccianotto Gouveia
     name: RGA
-    place: 5
+    rank-final: 5
     img: http://maratona.ime.usp.br/hist/2010/poli.jpg
     awards:
     - silver
     - wf
   - members: Tiago Madeira, Atol Fortin Oliveira e Natan Costa Lima
     name: Isso é tudo pessoal
-    place: 6
+    rank-final: 6
     img: http://maratona.ime.usp.br/hist/2010/imeusp.jpg
     awards:
     - silver
@@ -162,7 +190,7 @@ history:
   teams:
   - members: Raphael Ribas, Joel Uchoa, e Gabriel Peixoto
     name: é muita grana
-    place: 3
+    rank-final: 3
     img: http://maratona.ime.usp.br/hist/2009/usp3.jpg
     awards:
     - gold
@@ -176,14 +204,14 @@ history:
   teams:
   - members: Ricardo Pereira, Gustavo Gouveia e Victor Lassance
     name: Guerreiros da Poli
-    place: 7
+    rank-final: 7
     img: http://maratona.ime.usp.br/hist/2008/fotos/DSC04041.JPG
     awards:
     - wf
     - bronze
   - members: Breno Flesch Franco, Gabriel Peixoto, Rafael Suguiura
     name: End Of List
-    place: 9
+    rank-final: 9
     img: http://maratona.ime.usp.br/hist/2008/fotos/DSC04039.JPG
     awards:
     - bronze
@@ -196,7 +224,7 @@ history:
   teams:
   - members: Leonardo Facci, Guilherme Silveira e Cristiane Sato
     name: Who wants to code forever?
-    place: 2
+    rank-final: 2
     img: http://maratona.ime.usp.br/hist/2007/ime-usp.jpg
     awards:
     - gold
@@ -210,7 +238,7 @@ history:
   teams:
   - members: Leonardo Facci, Guilherme Silveira e Fabricio Benevides
     name: A volta dos que não foram
-    place: 2
+    rank-final: 2
     img: http://maratona.ime.usp.br/hist/2006/final/fotos/ime-usp.jpg
     awards:
     - gold
@@ -224,7 +252,7 @@ history:
   teams:
   - members: Carlos Cardonha, Guilherme Silveira e Fabricio Benevides
     name: IME USP A
-    place: 3
+    rank-final: 3
     img: http://maratona.ime.usp.br/hist/2005/fotos/normal_medalha-terceiro.jpg
     awards:
     - gold
@@ -237,13 +265,13 @@ history:
   teams:
   - members: Carlos Cardonha, Guilherme Silveira, Marcel Silva
     name: IME USP A
-    place: 4
+    rank-final: 4
     img: http://maratona.ime.usp.br/hist/2004/fotos/img082.jpeg
     awards:
     - silver
   - members: Fabiano Sato, Wendel Scardua, Xieli Zhaofu
     name: IME USP B
-    place: 6
+    rank-final: 6
     img: http://maratona.ime.usp.br/hist/2004/fotos/img078.jpeg
     awards:
     - silver
@@ -256,19 +284,19 @@ history:
   teams:
   - members: Antonio João Ferreira Francisco, Carlos Henrique Cardonha e Marcel Kenji de Carli Silva
     name: IME USP A
-    place: 6
+    rank-final: 6
     img: http://maratona.ime.usp.br/hist/2003/fotos-2003/imea.jpg
     awards:
     - silver
   - members:  Paulo Eduardo de Azevedo Silveira, João Carlos Matsuzaka Costa e Guilherme de Azevedo Silveira
     name: IME USP B
-    place: 8
+    rank-final: 8
     img: http://maratona.ime.usp.br/hist/2003/fotos-2003/imeb.jpg
     awards:
     - bronze
   - members: Marcos Eduardo Bolelli Broinizi, Peter Kreslins Junior e Fernando Mario de Oliveira Filho
     name: IME USP C
-    place: 47
+    rank-final: 47
   text: Não houve sub-regional neste ano.
   
 - title: São Paulo, novembro de 2002
@@ -278,17 +306,17 @@ history:
   teams:
   - members: Antonio Francisco, Carlos Cardonha e Marcel Silva
     name: IME USP A
-    place: 7
+    rank-final: 7
     awards:
     - bronze
   - members: Caetano Carezzato, Marcos Broinizi e Peter Kreslins Junior
     name: IME USP B
-    place: 8
+    rank-final: 8
     awards:
     - bronze
   - members: Danilo Matheus Rubio Conde, Emilio de Camargo Francesquini e Marcio Rodrigo de Freitas Carneiro
     name: IME USP C
-    place: Desconhecida
+    rank-final: Desconhecida
   text: Não houve sub-regional neste ano.
 
 - title: São Paulo, novembro de 2001
@@ -299,16 +327,16 @@ history:
   - members: Pedro Luis Eira Velha, Carlos Cardonha e Marcel Kenji de Carli Silva
     name: IME USP A
     img: http://maratona.ime.usp.br/hist/2001/brime.jpg
-    place: 1
+    rank-final: 1
     awards:
     - champion
     - wf
   - members: Antonio João Ferreira Francisco, Caetano Jimenez Carezzato e David Paulo Pereira
     name: IME USP B
-    place: 23
+    rank-final: 23
   - members: Alessandro Wilner, Jay Clei do Santos e Ricardo Bueno Cordeiro
     name: IME USP C
-    place: 26
+    rank-final: 26
   text: Não houve sub-regional neste ano.
 
 - title: São Paulo, novembro de 2000
@@ -319,12 +347,12 @@ history:
   - members: Pedro Luis Eira Velha, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez
     name: IME-USP 1
     img: http://maratona.ime.usp.br/hist/2000/brime.jpg
-    place: 2
+    rank-final: 2
     awards:
     - wf
   - members: Caetano Jimenez Carezzato, Marcio Rodrigo de Freitas Carneiro e Wagner Dias
     name: IME-USP 2
-    place: 7
+    rank-final: 7
   text: Não houve sub-regional neste ano.
 
 - title: São Paulo, novembro de 1999
@@ -334,11 +362,11 @@ history:
   teams:
   - members: Eduardo Garcia de Freitas, Pedro Luis Eira Velha e João Alexandre Haddad
     img: http://maratona.ime.usp.br/hist/1999/furg-usp.jpg
-    place: 2
+    rank-final: 2
     name: IME-USP 1
   - members: Ronney Rodger de Castro, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez
     img: http://maratona.ime.usp.br/hist/1999/furg-usp.jpg
-    place: 3
+    rank-final: 3
     name: IME-USP 2
   text: Não houve sub-regional neste ano.
 
@@ -350,13 +378,13 @@ history:
   - members: Eduardo Garcia de Freitas, Marcio Grossi de Almeida e Sergio Gabriel Tavares
     name: IME-USP
     img: http://maratona.ime.usp.br/hist/1998/brime.jpg
-    place: 2
+    rank-final: 2
     awards:
     - wf
   - members: Ivan Jeukens, Ricardo Bittencourt Vidigal Leitão e Jan Leduc de Lara
     name: Poli-USP
     img: http://maratona.ime.usp.br/hist/1998/brpoli.jpg
-    place: 3
+    rank-final: 3
   text: Não houve sub-regional neste ano.
 
 - title: Campinas, novembro de 1997
@@ -365,7 +393,7 @@ history:
   coaches: Carlos E. Ferreira
   teams:
   - members: Aritanan B.G. Gruber, Eduardo Garcia de Freitas e Sergio Gabriel Tavares
-    place: Desconhecida
+    rank-final: Desconhecida
     name: IME-USP
   text: Não houve sub-regional neste ano.
 
@@ -375,7 +403,7 @@ history:
   coaches: Carlos E. Ferreira
   teams:
   - members: Aritanan B. Garcia Gruber, Eduardo Teixeira Dias e Paulo José da Silva e Silva
-    place: 3
+    rank-final: 3
     name: IME-USP
   text: Não houve sub-regional neste ano.
 
@@ -392,12 +420,11 @@ Infelizmente, não possuímos todas as informações sobre os times da Poli que 
 
 {% for year in page.history %}
 <div class="history-year">
-<hr>
 <h3><a target="_blank" href="{{ year.url }}">{{ year.title }}</a></h3>
 <p>Coaches: {{ year.coaches }}</p>
 <ul class="history-list">
 {% for team in year.teams %}
-<li>
+<li class="{% if team.rank-final %}big{% endif %}">
 {% if team.img %}<img src="{{ team.img }}">{% endif %}
 <h4>{% if team.name %}{{ team.name }}{% else %}Time sem nome{% endif %}</h4>
 {{ team.members }}
@@ -409,7 +436,8 @@ Infelizmente, não possuímos todas as informações sobre os times da Poli que 
   {% elsif award == "wf" %}<i class="fa fa-globe" style="color:green" title="Classificado para a ICPC"></i>
   {% endif %}
 {% endfor %} {% endif %}
-<br> Classificação: {{ team.place }}
+{% if team.rank-final %}<br> Classificação na final brasileira: {{ team.rank-final }}{% endif %}
+{% if team.rank-sub %}<br> Classificação na sub-regional: {{ team.rank-sub }}{% endif %}
 </li>
 {% endfor %}
 </ul>
