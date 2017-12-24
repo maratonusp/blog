@@ -281,11 +281,29 @@ history:
   - members: Raphael Ribas, Joel Uchoa, e Gabriel Peixoto
     name: é muita grana
     rank-final: 3
+    rank-sub: 1o na sede
     img: http://maratona.ime.usp.br/hist/2009/usp3.jpg
     awards:
     - gold
     - wf
-  text: time formado por Raphael Ribas, Joel Uchoa e Gabriel Peixoto foi o campeão da sede de São Paulo da primeira fase, classificando-se para a final brasileira, onde conseguiu o terceiro lugar e medalha de ouro , classificando-se para as finais mundiais da competição, que ocorreu em fevereiro de 2010 em Harbin, China.  time formado por José Vinicius Coletto, Gustavo Katague e Leonardo Marchetti, foi o vice-campeão da sede de São Paulo e classificou-se para a final brasileira da competição em que terminou com a 15a. colocação.  time formado por Lucas Piva, Gustavo Sacamoto e Cesar Gamboa foi o terceiro colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.  time formado por Tiago Madeira, Natan Lima e Atol Fortin foi o sexto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.  time formado por Ariane Haselmann, Tobias Sena e Santiago Oliveira foi o décimo colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.
+  - members: Vinicius Coletto, Gustavo Katague e Leonardo Marchetti
+    name: Só se der zebra
+    rank-final: 15
+    rank-sub: 2o na sede
+  - members: Membros desconhecidos
+    name: v.push_back(balloon)
+    rank-final: 18
+    rank-sub: 4o na sede
+  - members: Lucas Piva, Gustavo Sacamoto e Cesar Gamboa
+    name: Topcoders++
+    rank-sub: 3o na sede
+  - members: Tiago Madeira, Natan Lima e Atol Fortin
+    name: Bombeiros
+    rank-sub: 6o na sede
+  - members: Ariane Haselmann, Tobias Sena e Santiago Oliveira
+    name: Epidemicus
+    rank-sub: 10o na sede
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2009/primeira-fase/).
 
 - title: Vila Velha, outubro de 2008
   url: http://maratona.ime.usp.br/hist/2008/
@@ -295,6 +313,7 @@ history:
   - members: Ricardo Pereira, Gustavo Gouveia e Victor Lassance
     name: Guerreiros da Poli
     rank-final: 7
+    rank-sub: 3o na sede
     img: http://maratona.ime.usp.br/hist/2008/fotos/DSC04041.JPG
     awards:
     - wf
@@ -302,10 +321,30 @@ history:
   - members: Breno Flesch Franco, Gabriel Peixoto, Rafael Suguiura
     name: End Of List
     rank-final: 9
+    rank-sub: 2o na sede
     img: http://maratona.ime.usp.br/hist/2008/fotos/DSC04039.JPG
     awards:
     - bronze
-  text: Time formado por Breno Flesch Franco, Gabriel Ribeiro Da Cruz Peixoto, e Rafael Sato Suguiura foi o vicecampeão da sede de São Paulo da primeira fase, classificando-se para a final brasileira, onde conseguiu o nono lugar e medalha de bronze. Time formado por Atol Fortin de Oliveira, Lucas Piva Rocha Correa, e Cesar Gamboa Machado, foi o campeão da sede de São Paulo e classificou-se para a final brasileira da competição em que terminou com a 13a. colocação. Time formado por Luiz Fernando Oliveira Corte Real, Mariana Vivian Bravo, Rafael Crivellari Saliba Chouery foi o quarto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição. Time formado por Leonardo Marchetti, Bruno Yoiti Ozahata, e Pedro Luis Furio Raphael foi o sexto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição. Time formado por Henrique Stagni, Igor dos Santos Montagner, e Filipe Manoel Xavier Resina foi o sétimo colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição. Time formado por Alexandre Martins, Luiz Henrique Coutinho, Vinicius Daros foi o oitavo colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição. Time formado por Marcos de Azevedo Iriarte, Felipe Torres, e Gregory De Bonis foi o nono colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.
+  - members: Atol Fortin de Oliveira, Lucas Piva Rocha Correa e Cesar Gamboa Machado
+    name: Topcoders
+    rank-final: 13
+    rank-sub: 1o na sede
+  - members: Luiz Fernando Oliveira Corte Real, Mariana Vivian Bravo e Rafael Crivellari Saliba Chouery
+    name: Geeks
+    rank-sub: 4o na sede
+  - members: Leonardo Marchetti, Bruno Yoiti Ozahata e Pedro Luis Furio Raphael
+    name: Team Moi
+    rank-sub: 6o na sede
+  - members: Henrique Stagni, Igor dos Santos Montagner e Filipe Manoel Xavier Resina
+    name: inline aftershockers rand
+    rank-sub: 7o na sede
+  - members: Alexandre Martins, Luiz Henrique Coutinho e Vinicius Daros
+    name: qwerty-asd
+    rank-sub: 8o na sede
+  - members: Marcos de Azevedo Iriarte, Felipe Torres e Gregory De Bonis
+    name: Macacos Infinitos
+    rank-sub: 9o na sede
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2008/primeira-fase/).
 
 - title: Belo Horizonte, novembro de 2007
   url: http://maratona.ime.usp.br/hist/2007/
@@ -315,11 +354,25 @@ history:
   - members: Leonardo Facci, Guilherme Silveira e Cristiane Sato
     name: Who wants to code forever?
     rank-final: 2
+    rank-sub: 1o na sede
     img: http://maratona.ime.usp.br/hist/2007/ime-usp.jpg
     awards:
     - gold
     - wf
-  text: time formado por Cristiane Maria Sato, Guilherme Silveira e Leonardo Facci foi o campeão da sede de São Paulo da primeira fase, classificando-se para a final brasileira, onde conseguiu o segundo lugar e medalha de ouro e classificou-se para as finais mundiais da competição que ocorreu em abril de 2008 em Banff, Canadá.  time formado or Hugo Corbucci, Marcio Takashi Iura Oshiro e Jeferson Rodrigues, foi o segundo melhor time da sede de São Paulo e classificou-se para a final brasileira da competição em que terminou com a 12a. colocação.  time formado por Mariana Vivian Bravo, Pedro Henrique Simões de Oliveira e Rafael Durbano Lobato foi o terceiro colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.  time formado por Artur Gabriel de Santana, Luiz Alexandre Barba Alvarenga e Natan Costa Lima foi o quarto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição. time formado por Victor Kendy Harada, Marcelo Yamauchi e Andrew Toshiaki Nakayama Kurauchi foi o quinto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.
+  - members: Hugo Corbucci, Marcio Takashi Iura Oshiro e Jeferson Rodrigues
+    name: O fim dos pesquisadores
+    rank-final: 12
+    rank-sub: 2o na sede
+  - members: Mariana Vivian Bravo, Pedro Henrique Simões de Oliveira e Rafael Durbano Lobato
+    name: LMP
+    rank-sub: 3o na sede
+  - members: Artur Gabriel de Santana, Luiz Alexandre Barba Alvarenga e Natan Costa Lima
+    name: Experyença
+    rank-sub: 4o na sede
+  - members: Victor Kendy Harada, Marcelo Yamauchi e Andrew Toshiaki Nakayama Kurauchi
+    name: Foi no Rivendel
+    rank-sub: 5o na sede
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2007/primeira-fase/).
 
 - title: Rio de Janeiro, novembro de 2006
   url: http://maratona.ime.usp.br/hist/2006/
