@@ -34,7 +34,7 @@ awards:
 history:
 - title: Foz do Iguaçu, novembro de 2017
   url: http://maratona.ime.usp.br/resultados17/
-  year: 2016
+  year: 2017
   coaches: Renzo Gomez e Marcos Kawakami
   teams:
   - members: Arthur Ferreira do Nascimento, Yan Soares Couto e Victor Sena Molero
