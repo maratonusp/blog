@@ -604,7 +604,7 @@ Se você encontrar algum erro ou puder contribuir com mais informações para es
 
 {% for year in page.history %}
 <div class="history-year">
-<h3><a target="_blank" href="{{ year.url }}">{{ year.title }}</a></h3>
+<h3><a name="{{ year.year }}" target="_blank" href="{{ year.url }}">{{ year.title }}</a></h3>
 <p>Coaches: {{ year.coaches }}</p>
 {% if year.text %}<p>{{year.text | markdownify}}</p>{% endif %}
 <ul class="history-list">
