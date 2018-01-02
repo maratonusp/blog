@@ -16,7 +16,7 @@ Com o jekyll instalado, rode `jekyll serve` e visite [http://localhost:4000](htt
 Todos os posts estão em `_posts`. Basta copiar um dos posts já existentes e adaptá-lo.
 
 # Editando as páginas de história
-As [páginas de história](https://www.ime.usp.br/~maratona/historia) ficam dentro da pasta `pages`. Para adicionar novos itens à listagem, é necessário apenas alterar o YAML do cabeçalho copiando os modelos dos anos anteriores e atualizar o resumo de medalhas manualmente caso necessário.
+As [páginas de história](https://www.ime.usp.br/~maratona/historia) ficam dentro da pasta `pages`. Para adicionar novos itens à listagem, é necessário apenas alterar o YAML do cabeçalho copiando os modelos dos anos anteriores.
 
 # Editando o template
 O site usa o [template neo-hpstr](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) que tem um tutorial mais completo. Uma cópia dele está neste repositório em `theme-setup/index.md`. Para entender como alterar o template e tudo o mais, é interessante ler aquilo.
