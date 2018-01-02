@@ -10,6 +10,27 @@ hubs:
   text: USP na Maratona de Programação
   img: https://scontent.fcgh9-1.fna.fbcdn.net/v/t1.0-9/23621655_1950772751604780_3997067989440111852_n.jpg?oh=95b673adee686b7e8d520a07f03c17a3&oe=5ABBEC06
 hubs_class: half
+awards:
+- champion:
+    symbol: trophy
+    color: "#ffd700"
+    name: Campeão Brasileiro
+- gold:
+    symbol: star
+    color: "#ffd700"
+    name: Medalha de ouro
+- silver:
+    symbol: star
+    color: "#c0c0c0"
+    name: Medalha de prata
+- bronze:
+    symbol: star
+    color: "#cd7f32"
+    name: Medalha de bronze
+- latinamerica:
+    symbol: certificate
+    color: blue
+    name: Campeão da América Latina
 history:
 - title: Phuket, Tailândia, maio de 2016
   year: 2016
@@ -140,8 +161,12 @@ history:
 ---
 
 Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](https://icpc.baylor.edu/) foram os seguintes:
-- <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 1 (2001)
-- <i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i> Campeão da América Latina: 2 (1999,2001)
+{% for award_hash in page.awards %}{% for award in award_hash %}
+{% capture times %}{% for team in page.history %}{% if team.awards contains award[0] %}, {{ team.year }}{% endif %}{% endfor %}){% endcapture %}
+{% if times != ")" %}
+- <i class="fa fa-{{ award[1].symbol }}" style="color:{{ award[1].color }}" title="{{ award[1].name }}"></i> {{ award[1].name }}: {{ times | split: "," | size | minus: 1}} {{ times | replace_first: ", ", "(" }}
+{% endif %}
+{% endfor %}{% endfor %}
 
 <ul class="history-list">
 {% for item in page.history %}
@@ -154,13 +179,9 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
 </h4>
 <p>
 {% if item.awards %}
-{% for award in item.awards %}
-  {% if award == "bronze" %}<i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i>
-  {% elsif award == "silver" %}<i class="fa fa-star" style="color:#c0c0c0" title="Medalha de prata"></i>
-  {% elsif award == "gold" %}<i class="fa fa-star" style="color:#ffd700" title="Medalha de ouro"></i>
-  {% elsif award == "latinamerica" %}<i class="fa fa-certificate" style="color:blue" title="Campeão da América Latina"></i>
-  {% endif %}
-{% endfor %}
+{% for award_hash in page.awards %}{% for award in award_hash %}
+  {% if item.awards contains award[0] %}<i class="fa fa-{{ award[1].symbol }}" style="color:{{ award[1].color }}" title="{{ award[1].name }}"></i>{% endif %}
+{% endfor %} {% endfor %}
 {% endif %}
 <a href="{% if item.score %}{{ item.score }}{% else %}http://static.kattis.com/icpc/wf{{ item.year }}/{% endif %}" title="placar"><i class="fa fa-th-list" title="Placar"></i> Colocação: {{ item.place }}</a><br>
 Time: {{ item.members }}. <br>
