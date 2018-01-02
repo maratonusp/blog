@@ -382,11 +382,19 @@ history:
   - members: Leonardo Facci, Guilherme Silveira e Fabricio Benevides
     name: A volta dos que não foram
     rank-final: 2
+    rank-sub: 1o na sede
     img: http://maratona.ime.usp.br/hist/2006/final/fotos/ime-usp.jpg
     awards:
     - gold
     - wf
-  text: time formado por Guilherme Azevedo Silveira, Leonardo B. Facci e Fabricio Siqueira Benevides foi o campeão da sede de São Paulo classificando-se para a final da competição, onde terminou comg o segundo lugar e medalha de ouro na Maratona e classificou-se para as finais mundiais da competição que ocorreram em março de 2007 em Tóquio.  time formado por Antonio Carlos dos Santos, Wanderley Guimarães e Ellen Hidemi Fukuda foi o segundo melhor time da sede de São Paulo e classificou-se para a final brasileira da Maratona, em que terminou com o 33o. lugar na competição.  time formado por Breno Flesch Franco, Gabriel Ribeiro da Cruz Peixoto e Rafael Sato Suguiura foi o terceiro colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.
+  - members: Antonio Carlos dos Santos, Wanderley Guimarães e Ellen Hidemi Fukuda
+    name: À espera de um milagre
+    rank-final: 33
+    rank-sub: 2o na sede
+  - members: Breno Flesch Franco, Gabriel Ribeiro da Cruz Peixoto e Rafael Sato Suguiura
+    rank-sub: 3o na sede
+    name: End of List
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2006/primeira-fase/).
 
 - title: Ribeirão Preto, novembro de 2005
   url: http://maratona.ime.usp.br/hist/2005/
@@ -396,10 +404,22 @@ history:
   - members: Carlos Cardonha, Guilherme Silveira e Fabricio Benevides
     name: IME USP A
     rank-final: 3
+    rank-sub: 1o na sede
     img: http://maratona.ime.usp.br/hist/2005/fotos/normal_medalha-terceiro.jpg
     awards:
     - gold
-  text: time formado por Carlos Henrique Cardonha, Guilherme Azevedo Silveira e Fabricio Siqueira Benevides foi o campeão da sede de São Paulo classificando-se para a final da competição, onde terminou com o terceiro lugar e medalha de ouro na Maratona.  time formado por Jeferson Rodrigues da Silva, Marcio Takashi Iura Oshiro e Hugo Corbucci foi o segundo melhor time da sede de São Paulo e classificou-se para a final brasileira da Maratona, em que terminou com o décimo sexto lugar na competição.  time formado por Antonio Carlos dos Santos, Marcel Kenji de Carli Silva e Cristiane Maria Sato foi o quarto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.
+  - members: Jeferson Rodrigues da Silva, Marcio Takashi Iura Oshiro e Hugo Corbucci
+    name: IME USP C
+    rank-final: 16
+    rank-sub: 2o na sede
+  - members: Membros desconhecidos (Ciências Moleculares)
+    name: Ciências o quê?
+    rank-final: 14
+    rank-sub: 3o na sede
+  - members: Antonio Carlos dos Santos, Marcel Kenji de Carli Silva e Cristiane Maria Sato
+    name: IME USP B
+    rank-sub: 4o na sede
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2005/primeira-fase/).
 
 - title: São Paulo, novembro de 2004
   url: http://maratona.ime.usp.br/hist/2004/
@@ -409,16 +429,20 @@ history:
   - members: Carlos Cardonha, Guilherme Silveira, Marcel Silva
     name: IME USP A
     rank-final: 4
+    rank-sub: 2, 1o na sede
     img: http://maratona.ime.usp.br/hist/2004/fotos/img082.jpeg
     awards:
     - silver
   - members: Fabiano Sato, Wendel Scardua, Xieli Zhaofu
     name: IME USP B
     rank-final: 6
+    rank-sub: 4o na sede
     img: http://maratona.ime.usp.br/hist/2004/fotos/img078.jpeg
     awards:
     - silver
-  text: time formado por Carlos Henrique Cardonha, Guilherme Azevedo Silveira e Marcel Kenji de Carli Silva foi o campeão da sede de São Paulo e obteve o segundo lugar geral na primeira fase, classificando-se para a final da competição, onde terminou com o quarto lugar e medalha de prata na Maratona.  time formado por Xieli Zhaofu, Wendel Scardua e Fabiano Sato foi o quarto melhor time da sede de São Paulo e classificou-se para a final brasileira da Maratona, em que terminou com o sexto lugar e medalha de prata na competição.  time formado por Flavia Greggio, Giuliano Mega e Igor Sucupira foi o quinto colocado na sede de São Paulo, mas não pôde participar da final brasileira da competição em virtude do limite de dois times por instituição.
+  - members: Flavia Greggio, Giuliano Mega e Igor Sucupira
+    name: IME USP C
+    rank-sub: 5o na sede
 
 - title: Campinas, novembro de 2003
   url: http://maratona.ime.usp.br/hist/2003/
@@ -559,7 +583,7 @@ Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](
 - <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 8 (2002, 2002, 2003, 2008, 2008, 2011, 2012, 2013)
 - <i class="fa fa-globe" style="color:green" title="Classificado para a ICPC"></i> Classificado para a ICPC: 15 (1998, 2000, 2001, 2006, 2007, 2008, 2009, 2010, 2010, 2011, 2012, 2013, 2014, 2015, 2017)
 
-Infelizmente, não possuímos todas as informações sobre os times da Poli que participaram das regionais e sub-regionais da Maratona. Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonime) ou um pull request no [Github](https://github.com/maratonime/blog).
+Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona. Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonime) ou um pull request no [Github](https://github.com/maratonime/blog).
 
 {% for year in page.history %}
 <div class="history-year">
