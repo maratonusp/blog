@@ -497,6 +497,7 @@ history:
     rank-final: 1
     awards:
     - champion
+    - gold
     - wf
   - members: Antonio João Ferreira Francisco, Caetano Jimenez Carezzato e David Paulo Pereira
     name: IME USP B
@@ -517,9 +518,12 @@ history:
     rank-final: 2
     awards:
     - wf
+    - gold
   - members: Caetano Jimenez Carezzato, Marcio Rodrigo de Freitas Carneiro e Wagner Dias
     name: IME-USP 2
     rank-final: 7
+    awards:
+    - bronze
   text: Não houve sub-regional neste ano.
 
 - title: São Paulo, novembro de 1999
@@ -531,10 +535,14 @@ history:
     img: http://maratona.ime.usp.br/hist/1999/furg-usp.jpg
     rank-final: 2
     name: IME-USP 1
+    awards:
+    - gold
   - members: Ronney Rodger de Castro, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez
     img: http://maratona.ime.usp.br/hist/1999/furg-usp.jpg
     rank-final: 3
     name: IME-USP 2
+    awards:
+    - gold
   text: Não houve sub-regional neste ano.
 
 - title: São Paulo, novembro de 1998
@@ -548,10 +556,13 @@ history:
     rank-final: 2
     awards:
     - wf
+    - gold
   - members: Ivan Jeukens, Ricardo Bittencourt Vidigal Leitão e Jan Leduc de Lara
     name: Poli-USP
     img: http://maratona.ime.usp.br/hist/1998/brpoli.jpg
     rank-final: 3
+    awards:
+    - gold
   text: Não houve sub-regional neste ano.
 
 - title: Campinas, novembro de 1997
@@ -572,16 +583,20 @@ history:
   - members: Aritanan B. Garcia Gruber, Eduardo Teixeira Dias e Paulo José da Silva e Silva
     rank-final: 3
     name: IME-USP
+    awards:
+    - gold
   text: Não houve sub-regional neste ano.
 
 ---
 
 Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](http://maratona.ime.usp.br/) foram os seguintes:
 - <i class="fa fa-trophy" style="color:#ffd700" title="Campeão"></i> Campeão Brasileiro: 3 (2001, 2014, 2017)
-- <i class="fa fa-star" style="color:#ffd700" title="Medalha de ouro"></i> Medalha de ouro: 7 (2005, 2006, 2007, 2009, 2013, 2014, 2017)
+- <i class="fa fa-star" style="color:#ffd700" title="Medalha de ouro"></i> Medalha de ouro: 14 (1996, 1997, 1998, 1999, 1999, 2000, 2001, 2005, 2006, 2007, 2009, 2013, 2014, 2017)
 - <i class="fa fa-star" style="color:#c0c0c0" title="Medalha de prata"></i> Medalha de prata: 8 (2003, 2004, 2004, 2010, 2010, 2014, 2015, 2017)
-- <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 8 (2002, 2002, 2003, 2008, 2008, 2011, 2012, 2013)
+- <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 9 (2000, 2002, 2002, 2003, 2008, 2008, 2011, 2012, 2013)
 - <i class="fa fa-globe" style="color:green" title="Classificado para a ICPC"></i> Classificado para a ICPC: 15 (1998, 2000, 2001, 2006, 2007, 2008, 2009, 2010, 2010, 2011, 2012, 2013, 2014, 2015, 2017)
+
+Oficialmente, a Maratona não entregava medalhas antes de 2002. Apesar disso, consideramos aqui que os três primeiros colocados levaram medalhas de ouro, os três seguintes de prata e os três seguintes de bronze.
 
 Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona. 
 
