@@ -133,7 +133,7 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
 
 <ul class="history-list">
 {% for item in page.history %}
-<li>
+<li class="big">
 {% if item.img %}
   <a target="_blank" href="{{ item.img_href }}"><img src="{{ item.img }}"></a>
 {% endif %}
