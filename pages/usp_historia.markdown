@@ -183,13 +183,13 @@ history:
   - members: José Ernesto Young Rodrigues, Gustavo Caparica e Bruno de Oliveira Endo
     name: Centozebra Impalatriz
     rank-sub: 56
-  - members: Membros desconhecidos
+  - members: Lucas Santos, Rafael Mikio Nakanishi, João Batista Silva Filho
     name: Politrekos
     rank-sub: 60
   - members: Felipe Yamaguti, Pedro Paulo Vezza Campos e Daniel Alves Paulino
     name: Triforce
     rank-sub: 63
-  - members: Membros desconhecidos
+  - members: Marcel Fernandes da Rosa Pereira Setti, Mateus Vitti Santos, Roberto Paulo Proença de Santos Junior
     name: Minutemen Army
     rank-sub: 113
   - members: Gervasio Protasio dos Santos Neto, Vinicius Jorge Vendramini e Mateus Barros Rodrigues
@@ -220,10 +220,10 @@ history:
   - members: Renato Parente, Fabricio Puppi e Guilherme Puglia
     name: P-Completo
     rank-sub: 18
-  - members: Membros desconhecidos
+  - members: Edgar Bernardi Righi, André Hahn Pereira, Cassius Puodzius
     name: PSPACE invaders
     rank-sub: 57
-  - members: Membros desconhecidos
+  - members: Lucas Santos, Rafael Mikio Nakanishi, João Batista Silva Filho
     name: Politrekos
     rank-sub: 112
   - members: Daniel Paulino Alves, Felipe Yamaguti e Leonardo Schaffer 
@@ -262,7 +262,7 @@ history:
   - members: Lucas Piva, Leonardo Marchetti e Cesar Gamboa
     name: Nada Pessoal
     rank-sub: 15
-  - members: Membros desconhecidos
+  - members: Edgar Bernardi Righi, Cassius Puodzius, Flavio Domingos de Azevedo Quadros
     name: Nem se der zebra
     rank-sub: 56
   - members: Diogo Kykuta, Gustavo Perez e José Vinicius Pimenta
@@ -290,7 +290,7 @@ history:
     name: Só se der zebra
     rank-final: 15
     rank-sub: 2o na sede
-  - members: Membros desconhecidos
+  - members: Ricardo Hahn Pereira, Cassius Puodzius, Gustavo Pacianotto Gouveia
     name: v.push_back(balloon)
     rank-final: 18
     rank-sub: 4o na sede
@@ -412,7 +412,7 @@ history:
     name: IME USP C
     rank-final: 16
     rank-sub: 2o na sede
-  - members: Membros desconhecidos (Ciências Moleculares)
+  - members: Lucas Furukawa Gadani, Silvia Esparrachiari Ghirotti e Rodrigo Roque Dias 
     name: Ciências o quê?
     rank-final: 14
     rank-sub: 3o na sede
@@ -583,7 +583,9 @@ Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](
 - <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 8 (2002, 2002, 2003, 2008, 2008, 2011, 2012, 2013)
 - <i class="fa fa-globe" style="color:green" title="Classificado para a ICPC"></i> Classificado para a ICPC: 15 (1998, 2000, 2001, 2006, 2007, 2008, 2009, 2010, 2010, 2011, 2012, 2013, 2014, 2015, 2017)
 
-Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona. Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonime) ou um pull request no [Github](https://github.com/maratonime/blog).
+Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona. 
+
+Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonime) ou um pull request no [Github](https://github.com/maratonime/blog).
 
 {% for year in page.history %}
 <div class="history-year">
