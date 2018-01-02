@@ -10,6 +10,27 @@ hubs:
   text: História
   img: https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/13178974_1052436444837068_7849793169344886514_n.jpg?oh=a6d908919625aa11d50dfc7ec81e144b&oe=5A8AC708
 hubs_class: half
+awards:
+- champion:
+    symbol: trophy
+    color: "#ffd700"
+    name: Campeão Brasileiro
+- gold:
+    symbol: star
+    color: "#ffd700"
+    name: Medalha de ouro
+- silver:
+    symbol: star
+    color: "#c0c0c0"
+    name: Medalha de prata
+- bronze:
+    symbol: star
+    color: "#cd7f32"
+    name: Medalha de bronze
+- wf:
+    symbol: globe
+    color: green
+    name: Classificado para a ICPC    
 history:
 - title: Foz do Iguaçu, novembro de 2017
   url: http://maratona.ime.usp.br/resultados17/
@@ -590,11 +611,12 @@ history:
 ---
 
 Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](http://maratona.ime.usp.br/) foram os seguintes:
-- <i class="fa fa-trophy" style="color:#ffd700" title="Campeão"></i> Campeão Brasileiro: 3 (2001, 2014, 2017)
-- <i class="fa fa-star" style="color:#ffd700" title="Medalha de ouro"></i> Medalha de ouro: 14 (1996, 1997, 1998, 1999, 1999, 2000, 2001, 2005, 2006, 2007, 2009, 2013, 2014, 2017)
-- <i class="fa fa-star" style="color:#c0c0c0" title="Medalha de prata"></i> Medalha de prata: 8 (2003, 2004, 2004, 2010, 2010, 2014, 2015, 2017)
-- <i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i> Medalha de bronze: 9 (2000, 2002, 2002, 2003, 2008, 2008, 2011, 2012, 2013)
-- <i class="fa fa-globe" style="color:green" title="Classificado para a ICPC"></i> Classificado para a ICPC: 15 (1998, 2000, 2001, 2006, 2007, 2008, 2009, 2010, 2010, 2011, 2012, 2013, 2014, 2015, 2017)
+{% for award_hash in page.awards %}{% for award in award_hash %}
+{% capture times %}{% for year in page.history %}{% for team in year.teams %}{% if team.awards contains award[0] %}, {{ year.year }}{% endif %}{% endfor %}{% endfor %}){% endcapture %}
+{% if times != ")" %}
+- <i class="fa fa-{{ award[1].symbol }}" style="color:{{ award[1].color }}" title="{{ award[1].name }}"></i> {{ award[1].name }}: {{ times | split: "," | size | minus: 1}} {{ times | replace_first: ", ", "(" }}
+{% endif %}
+{% endfor %}{% endfor %}
 
 Oficialmente, a Maratona não entregava medalhas antes de 2002. Apesar disso, consideramos aqui que os três primeiros colocados levaram medalhas de ouro, os três seguintes de prata e os três seguintes de bronze.
 
@@ -613,14 +635,11 @@ Se você encontrar algum erro ou puder contribuir com mais informações para es
 {% if team.img %}<img src="{{ team.img }}">{% endif %}
 <h4>{% if team.name %}{{ team.name }}{% else %}Time sem nome{% endif %}</h4>
 {{ team.members }}
-{% if team.awards %} <br> {% for award in team.awards %}
-  {% if award == "bronze" %}<i class="fa fa-star" style="color:#cd7f32" title="Medalha de bronze"></i>
-  {% elsif award == "silver" %}<i class="fa fa-star" style="color:#c0c0c0" title="Medalha de prata"></i>
-  {% elsif award == "gold" %}<i class="fa fa-star" style="color:#ffd700" title="Medalha de ouro"></i>
-  {% elsif award == "champion" %}<i class="fa fa-trophy" style="color:#ffd700" title="Campeão"></i>
-  {% elsif award == "wf" %}<i class="fa fa-globe" style="color:green" title="Classificado para a ICPC"></i>
-  {% endif %}
-{% endfor %} {% endif %}
+{% if team.awards %} <br>
+{% for award_hash in page.awards %}{% for award in award_hash %}
+  {% if team.awards contains award[0] %}<i class="fa fa-{{ award[1].symbol }}" style="color:{{ award[1].color }}" title="{{ award[1].name }}"></i>{% endif %}
+{% endfor %} {% endfor %}
+{% endif %}
 {% if team.rank-final %}<br> Classificação na final brasileira: {{ team.rank-final }}{% endif %}
 {% if team.rank-sub %}<br> Classificação na sub-regional: {{ team.rank-sub }}{% endif %}
 </li>
