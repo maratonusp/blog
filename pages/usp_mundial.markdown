@@ -35,6 +35,14 @@ history:
   img_href: https://www.flickr.com/photos/141939107@N06/26606492002/in/album-72157667709469065/
   place: 93
 
+- title: São Petesburgo, Rússia, julho de 2013
+  year: 2013
+  members: Guilherme Philippe Figueiredo, Marcelo Sales, André Amaral de Souza
+  coaches: Marcio Oshiro
+  img: https://farm2.staticflickr.com/1513/26699904735_fdf7e83319.jpg
+  img_href: https://www.flickr.com/photos/141939107@N06/26699904735/in/album-72157665368477633/
+  place: 108
+
 - title: Varsóvia, Polônia, maio de 2012
   year: 2012
   members: Cear Gamboa Machado, Leonardo Marchetti e Lucas Piva
@@ -92,6 +100,8 @@ history:
   year: 2007
   members: Fabricio S. Benevides, Leonardo B. Facci e Guilherme Azevedo Silveira
   coaches: Carlos Henrique Cardonha
+  img: http://maratona.ime.usp.br/hist/2006/ime-usp.jpg
+  img_href: http://maratona.ime.usp.br/hist/2006/ime-usp.jpg
   place: 26
   score: https://icpc.baylor.edu/community/results-2007
 
@@ -124,6 +134,8 @@ history:
   awards: 
   - latinamerica
   place: 28
+  img: http://maratona.ime.usp.br/hist/1998/ime.jpg
+  img_href: http://maratona.ime.usp.br/hist/1998/index.html
   score: https://icpc.baylor.edu/community/results-1999
 ---
 
