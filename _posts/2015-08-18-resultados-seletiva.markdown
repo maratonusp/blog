@@ -23,6 +23,7 @@ mais elegíveis ou por não serem de alunos da USP.
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2015/io.tar.xz)
 - [Soluções dos juízes](https://www.ime.usp.br/~maratona/assets/seletivas/2015/solutions.tar.xz)
 - [Prova na Codeforces Gym](http://codeforces.com/gym/101047)
+- [Fotos](https://www.facebook.com/media/set/?set=a.907386099342104.1073741838.609146922499358&type=1&l=aaad8f8b5c) [(Backup)](https://www.ime.usp.br/~maratona/assets/seletivas/2015/fotos.tar.xz)
 
 ## Times classificados
 - Carteado (mudou nome para Canário Cardeal)
