@@ -65,6 +65,9 @@ history:
   - members: Giovanna Kobus Conrado, Leonardo Silvano Rezende e Victor Hugo Miranda Pinto
     name: Send Nodes
     rank-sub: 48
+  - members: Nicolas Gobbi, Danilo Lopes, Vitor Silva e, como coach, Bruno de Carvalho Albertini
+    name: Super Choque
+    rank-sub: 381
   text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas17.html). 
 
 - title: Belo Horizonte, novembro de 2016
@@ -201,6 +204,9 @@ history:
     name: ASA
     rank-final: 20
     rank-sub: 2
+  - members: Leonardo Coregliano, Giulia Maesaka, Francisco Camargo
+    name: Team Nineteen
+    rank-sub: 38
   - members: José Ernesto Young Rodrigues, Gustavo Caparica e Bruno de Oliveira Endo
     name: Centozebra Impalatriz
     rank-sub: 56
@@ -213,6 +219,9 @@ history:
   - members: Marcel Fernandes da Rosa Pereira Setti, Mateus Vitti Santos, Roberto Paulo Proença de Santos Junior
     name: Minutemen Army
     rank-sub: 113
+  - members: Rodrigo Macena e Silva, Vitor Chamma, Rafael Roggiero
+    name: Equipe Ada
+    rank-sub: 118
   - members: Gervasio Protasio dos Santos Neto, Vinicius Jorge Vendramini e Mateus Barros Rodrigues
     name: Where are my Dragons?
     rank-sub: 196
@@ -241,6 +250,9 @@ history:
   - members: Renato Parente, Fabricio Puppi e Guilherme Puglia
     name: P-Completo
     rank-sub: 18
+  - members: Leonardo Coregliano, Giulia Maesaka, Ademar Lacerda
+    name: CM undeclared
+    rank-sub: 40
   - members: Edgar Bernardi Righi, André Hahn Pereira, Cassius Puodzius
     name: PSPACE invaders
     rank-sub: 57
@@ -283,6 +295,12 @@ history:
   - members: Lucas Piva, Leonardo Marchetti e Cesar Gamboa
     name: Nada Pessoal
     rank-sub: 15
+  - members: Hugo Gualandi, Luiz Gustavo Viana, Ivã Passoni
+    name: Team17
+    rank-sub: 28
+  - members: Ana Ciconelle, Leonardo Coregliano, Giulia Maesaka
+    name: Ciências o quê?
+    rank-sub: 36
   - members: Edgar Bernardi Righi, Cassius Puodzius, Flavio Domingos de Azevedo Quadros
     name: Nem se der zebra
     rank-sub: 56
@@ -350,6 +368,10 @@ history:
     name: Topcoders
     rank-final: 13
     rank-sub: 1o na sede
+  - members: Renato Coelho, Gustavo Sakamoto, Saulo Oliveira
+    name: Saulo piroquinha
+    rank-final: 18
+    rank-sub: 5o na sede
   - members: Luiz Fernando Oliveira Corte Real, Mariana Vivian Bravo e Rafael Crivellari Saliba Chouery
     name: Geeks
     rank-sub: 4o na sede
@@ -482,6 +504,9 @@ history:
     img: http://maratona.ime.usp.br/hist/2003/fotos-2003/imeb.jpg
     awards:
     - bronze
+  - members: Membros desconhecidos (Ciências Moleculares)
+    name: CCM-USP
+    rank-final: 38
   - members: Marcos Eduardo Bolelli Broinizi, Peter Kreslins Junior e Fernando Mario de Oliveira Filho
     name: IME USP C
     rank-final: 47
