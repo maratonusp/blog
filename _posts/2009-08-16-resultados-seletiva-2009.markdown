@@ -18,6 +18,7 @@ Outros 153 times participaram presencialmente ou pela internet.
 - [Prova](https://www.ime.usp.br/~maratona/assets/seletivas/2009/caderno.pdf)
 - [Entradas e saídas dos problemas](https://www.ime.usp.br/~maratona/assets/seletivas/2009/io.tar.xz)
 - [Soluções dos juízes](https://www.ime.usp.br/~maratona/assets/seletivas/2009/solutions.tar.xz)
+- [Fotos](https://www.facebook.com/media/set/?set=a.1636291886451518.1073741854.609146922499358&type=1&l=c3dcebf4fb) [(Backup)](https://www.ime.usp.br/~maratona/assets/seletivas/2009/fotos.tar.xz)
 
 ## Patrocínio
 [<img src="https://www.ime.usp.br/~maratona/assets/seletivas/2013/patrocinio/caelum-ensino-inovacao.png" style="width:30%">](http://www.caelum.com.br/)
