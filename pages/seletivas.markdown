@@ -10,6 +10,7 @@ A prova é organizada pelos próprios alunos, geralmente aqueles que já não po
 
 <h2> Seletivas anteriores </h2>
 <ul>
+  <li> <a href="seletiva-2017"> Seletiva USP 2017 </a> | <a href="http://codeforces.com/gym/101492"> Codeforces Gym </a> </li>  
   <li> <a href="seletiva-2016"> Seletiva USP 2016 </a> | <a href="http://codeforces.com/gym/101064"> Codeforces Gym </a> </li>
   <li> <a href="seletiva-2015"> Seletiva USP 2015 </a> | <a href="http://codeforces.com/gym/101047"> Codeforces Gym </a> </li>
   <li> <a href="seletiva-2014"> Seletiva USP 2014 </a> </li>

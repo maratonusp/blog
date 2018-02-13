@@ -14,7 +14,7 @@ import requests
 import yaml
 import re
 
-print("Posting file " + sys.argv[1])
+print("Posting file " + filename)
 
 # Find the position of the k-th occurrence of pat in string
 def find_kth(string, pat, k):
@@ -24,7 +24,7 @@ def find_kth(string, pat, k):
 	else:
 		return find_kth(string[fst + 1:], pat, k - 1) + fst + 1
 
-txt = open('../_posts/' + filename, 'r').read();
+txt = open('_posts/' + filename, 'r').read();
 header = txt[txt.find('\n') + 1 : find_kth(txt, '---\n', 2)]
 text = txt[find_kth(txt, '---\n', 2) + 4:].strip()
 info = yaml.load(header)
