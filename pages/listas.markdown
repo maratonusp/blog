@@ -6,8 +6,10 @@ permalink: listas
 
 Estas são as listas de problemas criadas pelo MaratonIME:
 
-- Exercícios extras do [bixeCamp 2017](https://docs.google.com/spreadsheets/d/1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk/edit?usp=sharing).
-- Listas de [2016]({{ site.url }}/listas-2016) com 3 níveis de dificuldade.
+- Listas por nível:
+    - [bixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).
+    - [bixeCamp 2017](https://docs.google.com/spreadsheets/d/1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk).
+    - [Listas de 2016]({{ site.url }}/listas-2016) para iniciantes, intermediários e avançados.
 - [Lista de aulas]({{ site.url }}/categories/#aulas), a maioria com listas de exercícios e vídeos no YouTube.
 - Outras listas por assunto:
 	- [Busca Ternária e Dualidade no Plano](https://docs.google.com/spreadsheets/d/1nxrLXlCvZtDfh1Y6V7cz4EPfx_mt0eC-spLt-92fOXU/edit?usp=sharing)
