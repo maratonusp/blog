@@ -34,14 +34,14 @@ Segue a descrição do processo seletivo das equipes da USP neste 2018.
  - Durante o período de upsolving os participantes podem colaborar trocando ideias ou dicas (altamente recomendado). Não é permitido troca de soluções (código).
  - Em ambos períodos da prova (oficial e upsolving) deve ser proibido procurar pela solução do problema (ideia ou código) na internet.
  - Se o participante sabe que um certo problema requer de alguma técnica, estrutura de dados ou algoritmo pode procurar na internet ou livros sobre aquilo (aprender o conceito), tanto na prova oficial e no upsolving. É proibido copiar e colar o código diretamente. Lembre que a intenção é que cada participante aprenda e implemente coisas novas ao longo das provas, e as saiba aplicar aos problemas, não que só usar como uma “caixa preta”.
- - Caso se encontre algum tipo de cola que infrinja algum dos itens anteriores, o participante será automática desclassificado. 
+ - Caso se encontre algum tipo de cola que infrinja algum dos itens anteriores, o participante será automaticamente desclassificado. 
 
  **Sistema de pontuação e desempate**
 
  - Cada problema passado durante a prova oficial vale 1 ponto. Cada problema passado durante o upsolving vale 0.5 ponto.
  - Caso exista empate em pontos, se prosseguirá a fazer o desemapate pelos seguintes critérios (nessa ordem).
    1. Quantidade de problemas resolvidos nas provas oficiais.
-   2. Menor numero de submissões erradas nas provas oficiais.
+   2. Menor numero de submissões erradas em problemas resolvidos nas provas oficiais.
    3. Sorteio.
  
 
