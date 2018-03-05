@@ -10,7 +10,7 @@ hubs:
   img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
 - url: $/usp_historia
   text: USP na Maratona de Programação
-  img: https://graph.facebook.com/1950772751604780/picture
+  img: https://graph.facebook.com/10155323417969118/picture
 hubs_class: half
 ---
 

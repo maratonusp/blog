@@ -8,7 +8,7 @@ hubs:
   img: https://graph.facebook.com/1052436444837068/picture
 - url: $/usp_historia
   text: USP na Maratona de Programação
-  img: https://graph.facebook.com/1950772751604780/picture
+  img: https://graph.facebook.com/10155323417969118/picture
 hubs_class: half
 awards:
 - champion:
