@@ -15,14 +15,25 @@ body {
 		word-wrap: break-word;
 	}
 }
+.read-more-content,
 .entry-content {
 	@include font-size(16);
-	// Dotted line underlines for links
+}
+.read-more-content,
+.text-content,
+.entry-content {
 	p > a,
 	li > a {
-		border-bottom: 1px dotted lighten($link-color, 50);
-		&:hover {
-			border-bottom-style: solid;
+		color: $text-link-color;
+		&:visited { 
+			color: lighten($text-link-color, 20); 
+		}
+		&:hover { 
+			color: darken($text-link-color, 20); 
+		}
+		&:focus { 
+			outline: thin dotted; 
+			color: darken($text-link-color, 20);
 		}
 	}
 }
@@ -273,15 +284,6 @@ header .entry-meta {
 	}
 }
 .read-more-content {
-	@include font-size(16);
-	// Dotted line underlines for links
-	p > a,
-	li > a {
-		border-bottom: 1px dotted lighten($link-color, 50);
-		&:hover {
-			border-bottom-style: solid;
-		}
-	}
 	h3 {
 		margin: 0;
 		@include font-rem(28);

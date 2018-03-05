@@ -337,6 +337,9 @@ section#events {
 			text-align: center;
 			padding-top: .4em;
 			border-top: 1px solid lighten($base-color,10);
+			p {
+				font-size: 14px;
+			}
 		}
 	}
 }

@@ -21,7 +21,11 @@ h1 {
 // --------------------------------------------------
 a { 
 	text-decoration: none;
-	color: $link-color; 
+	&:hover, 
+	&:active { 
+		outline: 0; 
+	}
+	color: $link-color;
 	&:visited { 
 		color: lighten($link-color, 20); 
 	}
@@ -32,12 +36,7 @@ a {
 		outline: thin dotted; 
 		color: darken($link-color, 20);
 	}
-	&:hover, 
-	&:active { 
-		outline: 0; 
-	}
 }
-
 .link-arrow {
 	font-weight: 100;
 	text-decoration: underline;
