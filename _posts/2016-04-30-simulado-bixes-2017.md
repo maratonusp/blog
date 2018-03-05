@@ -16,4 +16,4 @@ Depois de se inscrever, sigam as seguintes instruções:
 
 \*: Por enquanto essa feature só é garantida pro BCC, mas a gente promete ir lá encher o saco do seu professor se você ganhar.  
 
-![premiacao2017](https://scontent.fcgh7-1.fna.fbcdn.net/v/t31.0-8/18238620_1395425587204817_4996122693617478860_o.jpg?oh=1bd927de32c3e3e5e34e0f0ea1a2e33a&oe=59816B71)
+![premiacao2017](https://graph.facebook.com/1395425587204817/picture)

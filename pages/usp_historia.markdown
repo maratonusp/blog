@@ -8,7 +8,7 @@ hubs:
   img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
 - url: $/historia
   text: História
-  img: https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/13178974_1052436444837068_7849793169344886514_n.jpg?oh=a6d908919625aa11d50dfc7ec81e144b&oe=5A8AC708
+  img: https://graph.facebook.com/1052436444837068/picture
 hubs_class: half
 awards:
 - champion:
