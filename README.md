@@ -23,4 +23,3 @@ O site usa o [template neo-hpstr](https://github.com/aron-bordin/neo-hpstr-jekyl
 
 # Atualizando o servidor
 Dê push na branch `master` que o [http://travis-ci.org](Travis) cuida do resto.
-Rode `update.sh`.
