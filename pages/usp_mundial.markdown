@@ -32,6 +32,17 @@ awards:
     color: blue
     name: Campeão da América Latina
 history:
+- title: Pequim, China, abril de 2018
+  year: 2018
+  members: Arthur Nascimento, Yan Soares Couto e Victor Sena Molero
+  coaches: Renzo Gomez e Marcos Kawakami
+  img: https://graph.facebook.com/1733841213363251/picture
+  img_href: https://www.facebook.com/1733841213363251/
+  place: 17
+  score: https://icpc.baylor.edu/scoreboard/
+  awards: 
+  - latinamerica
+
 - title: Phuket, Tailândia, maio de 2016
   year: 2016
   members: Yan Soares Couto, Giovana Gomes Delfino e Gabriel Fernandes de Oliveira
