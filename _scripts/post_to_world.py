@@ -45,7 +45,7 @@ except:
 		fn = fn[fn.find('-') + 1:]
 	link += fn[:fn.rfind('.')]
 
-text_channel = "Novo post no blog: '[" + info['title'] + "](" + link + ")"
+text_channel = "Novo post no blog: '[" + info['title'] + "](" + link + ")'"
 r = requests.post('https://api.telegram.org/bot' + token_bot + '/sendMessage', data={'chat_id': '@maratonime', 'text': text_channel, 'parse_mode': 'Markdown'})
 print("Bot response: " + str(r.status_code) + " " + r.reason)
 
@@ -54,5 +54,5 @@ parag = text[:text.find('\n\n')]
 # Removing markdown links
 parag = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', parag)
 text_page = info['title'] + '\n\n' + parag.rstrip() + '\n\nLeia mais no site. :)'
-r = requests.post('https://graph.facebook.com/v2.11/maratonIME/feed', data={'message': text_page, 'access_token': token_page, 'link': link})
+r = requests.post('https://graph.facebook.com/v3.1/maratonIME/feed', data={'message': text_page, 'access_token': token_page, 'link': link})
 print("Bot response: " + str(r.status_code) + " " + r.reason)
