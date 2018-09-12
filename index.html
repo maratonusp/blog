@@ -35,6 +35,25 @@ hubs_class: third
 ---
 {% if paginator.previous_page %}
 {% else %}
+<section id="events">
+    <figure>
+        <figcaption class="text-content">
+            <!-- Pode encontrar icones em https://fontawesome.com/v4.7.0/icons/ -->
+            <i class="fa fa-check-square-o"></i>
+            <h3>Treinos</h3>
+            <p>Maratonistas de vários níveis para te ajudar a treinar.</p>
+            <footer><p>Toda sexta-feira (exceto breaks) das 14 às 19 no CEC (ao lado da Seção de Alunos).</p></footer>
+        </figcaption>
+    </figure>
+    <figure>
+        <figcaption class="text-content">
+            <i class="fa fa-pencil-square-o"></i>
+            <h3>Acampamento de Primavera 2018</h3>
+            <p>Aulas e contests diários dados por Jakub Šafin (<a href="http://codeforces.com/profile/Xellos">Xellos</a>). Inscrição gratuita pela <a href="https://www.ime.usp.br/~maratona/spring18/">página</a>.</p>
+            <footer><p>08 a 12 de Outubro no CEC.</p></footer>
+        </figcaption>
+    </figure>
+</section>
 	{% include hubs.html %}
 {% endif %}
 

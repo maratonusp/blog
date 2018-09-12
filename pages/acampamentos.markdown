@@ -10,5 +10,6 @@ A lista abaixo lista os acampamentos que tem páginas no nosso blog, note que al
 
 <h2> Acampamentos anteriores </h2>
 <ul>
-  <li> <a href="winter17"> Winter Camp 2017 (House of Carlos) </a> </li>
+  <li> <a href="https://www.ime.usp.br/~maratona/spring18/"> Spring Camp 2018 </a> </li>
+  <li> <a href="https://www.ime.usp.br/~maratona/winter17/"> Winter Camp 2017 </a> </li>
 </ul>
