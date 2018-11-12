@@ -39,7 +39,7 @@ Também tivemos integrantes em times que competiram na categoria "Café com leit
 
 ![Uspank]({{ site.baseurl }}/images/uspank_brasileira_2018.jpg)
 
-Time formado por Giovanna Kobus e Victor Lamarca, integrantes da USP que não tiveram chance de se classificar para a Final Brasileira, e por nosso amigo Thiago Carvalho.
+Time formado por Victor Lamarca e Giovanna Kobus, integrantes da USP que não tiveram chance de se classificar para a Final Brasileira, e por nosso amigo Thiago Carvalho.
 
 10 problemas. 1º entre os cafés com leite.
 
