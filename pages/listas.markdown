@@ -4,7 +4,7 @@ layout: page
 permalink: listas
 ---
 
-Estas são as listas de problemas criadas pelo MaratonIME:
+Estas são as listas de problemas criadas pelo MaratonUSP:
 
 - Listas por nível:
     - [bixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).

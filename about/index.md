@@ -1,10 +1,10 @@
 ---
-title: Sobre o MaratonIME
+title: Sobre o MaratonUSP
 layout: page
 comments: true
 modified: '2014-12-24 00:00:00'
 ---
-O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.
+O MaratonUSP visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.
 
 Os treinos que oferecemos são voltados à Maratona de Programação e Olimpíada Brasileira de Informática. Estas reuniões são destinadas tanto a novatos na área da computação quanto a olimpíadas e veteranos da Maratona.
 

@@ -5,7 +5,7 @@ description:      Apoio à Maratona de Programação
 disqus_shortname: maratonime
 reading_time:     true
 words_per_minute: 200
-logo:             images/logo.jpg
+logo:             images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 baseurl: '/~maratona'
@@ -33,10 +33,10 @@ menu:
 
 # Owner/author information
 owner:
-  name:           MaratonIME
+  name:           MaratonUSP
   site:           https://www.ime.usp.br/~maratona/
   bio:            "Apoio à Maratona de Programação"
-  avatar:         images/logo.jpg
+  avatar:         images/logo.png
   facebook:       maratonIME
 
 social:

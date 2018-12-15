@@ -4,7 +4,7 @@ layout: page
 permalink: acampamentos.html
 ---
 
-Ocasionalmente, o MaratonIME organiza acampamentos de treinamento, isto é, eventos que geralmente duram 1 ou 2 semanas nos quais em todo dia é realizado um contest e também a explicação do contest anterior, ou de alguma matéria nova.
+Ocasionalmente, o MaratonUSP organiza acampamentos de treinamento, isto é, eventos que geralmente duram 1 ou 2 semanas nos quais em todo dia é realizado um contest e também a explicação do contest anterior, ou de alguma matéria nova.
 
 A lista abaixo lista os acampamentos que tem páginas no nosso blog, note que alguns acampamentos velhos estão faltando.
 
