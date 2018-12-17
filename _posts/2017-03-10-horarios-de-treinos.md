@@ -17,5 +17,5 @@ básicos abordados frequentemente nas competições da Maratona de Programação
 iniciantes em competições de programação.  
 
 Pretendemos marcar a maior parte das aulas do bixeCamp nas quintas feiras. Elas serão todas anunciadas como
-[eventos no Facebook](https://www.facebook.com/maratonIME/events) e no [canal do Telegram
-](https://t.me/maratonime).  
+[eventos no Facebook](https://www.facebook.com/maratonUSP/events) e no [canal do Telegram
+](https://t.me/maratonusp).

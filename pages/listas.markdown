@@ -23,4 +23,4 @@ Estas são as listas de problemas criadas pelo MaratonUSP:
 	- [Sparse Table, LA, LCA](https://docs.google.com/spreadsheets/d/1MNGdljJ4OjW0_nxgYjON3w08UUappZ1gqCdBVfbYhzo/edit?usp=sharing)
 
 
-Por favor, [nos avise](http://facebook.com/maratonime) sobre links quebrados ou quaisquer outros problemas.
+Por favor, [nos avise](http://facebook.com/maratonusp) sobre links quebrados ou quaisquer outros problemas.

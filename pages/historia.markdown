@@ -20,4 +20,4 @@ Veja eles contando sobre seu envolvimento, experiência e motivação em partici
 
 {% include depoimentos.html %}
 
-Se você também participou da Maratona pela USP e gostaria de contar sua experiência, mande seu depoimento para a gente pro email [maratonime.usp@gmail.com](mailto:maratonime.usp@gmail.com)!
+Se você também participou da Maratona pela USP e gostaria de contar sua experiência, mande seu depoimento para a gente no email [maratona@ime.usp.br](mailto:maratona@ime.usp.br)!

@@ -37,11 +37,11 @@ owner:
   site:           https://www.ime.usp.br/~maratona/
   bio:            "Apoio à Maratona de Programação"
   avatar:         images/logo.png
-  facebook:       maratonIME
+  facebook:       maratonUSP
 
 social:
   - title: "github"
-    url: "https://github.com/victorsenam/blog-maratonime"
+    url: "https://github.com/maratonusp/blog"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-46201590-4

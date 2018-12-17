@@ -647,7 +647,7 @@ Oficialmente, a Maratona não entregava medalhas antes de 2002. Apesar disso, co
 
 Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona. 
 
-Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonime) ou um pull request no [Github](https://github.com/maratonime/blog).
+Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonusp) ou um pull request no [Github](https://github.com/maratonusp/blog).
 
 {% for year in page.history %}
 <div class="history-year">

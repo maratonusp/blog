@@ -46,7 +46,7 @@ except:
 	link += fn[:fn.rfind('.')]
 
 text_channel = "Novo post no blog: '[" + info['title'] + "](" + link + ")'"
-r = requests.post('https://api.telegram.org/bot' + token_bot + '/sendMessage', data={'chat_id': '@maratonime', 'text': text_channel, 'parse_mode': 'Markdown'})
+r = requests.post('https://api.telegram.org/bot' + token_bot + '/sendMessage', data={'chat_id': '@maratonusp', 'text': text_channel, 'parse_mode': 'Markdown'})
 print("Bot response: " + str(r.status_code) + " " + r.reason)
 
 # First paragraph
