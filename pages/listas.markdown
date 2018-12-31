@@ -7,6 +7,7 @@ permalink: listas
 Estas são as listas de problemas criadas pelo MaratonUSP:
 
 - Listas por nível:
+    - [bixeCamp 2018 (Poli)](https://docs.google.com/spreadsheets/d/125MscN6BCLWx-GTDFKVOhw8Ni3VDWe7TrsP1zrjzsPo).
     - [bixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).
     - [bixeCamp 2017](https://docs.google.com/spreadsheets/d/1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk).
     - [Listas de 2016]({{ site.url }}/listas-2016) para iniciantes, intermediários e avançados.
