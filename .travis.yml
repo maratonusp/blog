@@ -12,6 +12,7 @@ before_install:
     - pip3 install --user -r requirements.txt
 
 script:
-    - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./_scripts/travis_deploy.sh; fi'
-    - 'if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then bash ./_scripts/build.sh; fi'
+    - ./_scripts/build.sh
+    - ./_scripts/deploy.sh
+    - ./_scripts/check_new_posts.sh
 
