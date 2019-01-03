@@ -8,8 +8,9 @@ addons:
             - python3-pip
             - sshpass
 
-before_install:
+install:
     - pip3 install --user -r requirements.txt
+    - gem install bundle
 
 script:
     - ./_scripts/build.sh
