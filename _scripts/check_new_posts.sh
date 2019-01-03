@@ -1,6 +1,8 @@
 #!/bin/bash
 
-if [ "$TRAVIS_BRANCH" != "master" ]; then
+echo -e "\033[0;32m[Verificando posts novos]\033[0m"
+if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
+	echo -e "\033[0;33m[Passo ignorado: Pull Request]\033[0m"
 	exit 0
 fi
 
