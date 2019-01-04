@@ -54,7 +54,7 @@ timezone:    Brazil/Sao_Paulo
 future:      true
 markdown:    kramdown
 syntax_highlighter: coderay
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 sass:
