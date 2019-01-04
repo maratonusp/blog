@@ -6,7 +6,7 @@
   <div class="same-category-list">
     {% for post in site.categories[cat_name] %}
       <div class="list-item">
-        <h4><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
+        <h4><a href="{% include url %}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
         <span>Published on {{ post.date | date: "%B %d, %Y" }}</span>
       </div><!-- /.list-item -->
     {% endfor %}

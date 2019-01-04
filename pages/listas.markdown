@@ -10,8 +10,8 @@ Estas são as listas de problemas criadas pelo MaratonUSP:
     - [bixeCamp 2018 (Poli)](https://docs.google.com/spreadsheets/d/125MscN6BCLWx-GTDFKVOhw8Ni3VDWe7TrsP1zrjzsPo).
     - [bixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).
     - [bixeCamp 2017](https://docs.google.com/spreadsheets/d/1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk).
-    - [Listas de 2016]({{ site.url }}/listas-2016) para iniciantes, intermediários e avançados.
-- [Lista de aulas]({{ site.url }}/categories/#aulas), a maioria com listas de exercícios e vídeos no YouTube.
+    - [Listas de 2016]({% include url %}/listas-2016) para iniciantes, intermediários e avançados.
+- [Lista de aulas]({% include url %}/categories/#aulas), a maioria com listas de exercícios e vídeos no YouTube.
 - Outras listas por assunto:
 	- [Busca Ternária e Dualidade no Plano](https://docs.google.com/spreadsheets/d/1nxrLXlCvZtDfh1Y6V7cz4EPfx_mt0eC-spLt-92fOXU/edit?usp=sharing)
 	- [Circle Sweep](https://docs.google.com/spreadsheets/d/13C_52V8Ko-I_dMCu_Vqm_DTTEEYzVl-ZmMKpuQ1SoWY/edit?usp=sharing)
