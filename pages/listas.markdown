@@ -6,13 +6,15 @@ permalink: listas
 
 Estas são as listas de problemas criadas pelo MaratonUSP:
 
-- Listas por nível:
-    - [bixeCamp 2018 (Poli)](https://docs.google.com/spreadsheets/d/125MscN6BCLWx-GTDFKVOhw8Ni3VDWe7TrsP1zrjzsPo).
-    - [bixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).
-    - [bixeCamp 2017](https://docs.google.com/spreadsheets/d/1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk).
+- Listas para iniciantes:
+    - [BixeCamp 2019](https://docs.google.com/spreadsheets/d/11rx5KznjcPojFNiA4wxJ6ZgczLENCgmBFJguCPLkJUs/edit?usp=sharing).
+    - [BixeCamp 2018 (Poli)](https://docs.google.com/spreadsheets/d/125MscN6BCLWx-GTDFKVOhw8Ni3VDWe7TrsP1zrjzsPo).
+    - [BixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).
+    - [BixeCamp 2017](https://docs.google.com/spreadsheets/d/1dXSSo5ybWk7WnuA5l6XjhddhIuJls5NHiRVzVc4A9pk).
     - [Listas de 2016]({% include url %}/listas-2016) para iniciantes, intermediários e avançados.
 - [Lista de aulas]({% include url %}/categories/#aulas), a maioria com listas de exercícios e vídeos no YouTube.
 - Outras listas por assunto:
+	- [Intensivão de ferias 2018-2019](https://docs.google.com/spreadsheets/d/1QT-p_Nzb-c6bTdDcnBHq_qRJ7B9biH75014ItH1IIKU/edit?usp=sharing)
 	- [Busca Ternária e Dualidade no Plano](https://docs.google.com/spreadsheets/d/1nxrLXlCvZtDfh1Y6V7cz4EPfx_mt0eC-spLt-92fOXU/edit?usp=sharing)
 	- [Circle Sweep](https://docs.google.com/spreadsheets/d/13C_52V8Ko-I_dMCu_Vqm_DTTEEYzVl-ZmMKpuQ1SoWY/edit?usp=sharing)
 	- [Geometria](https://docs.google.com/spreadsheets/d/1OK47NPphwo7JGuKB0E6sRtDeZP-43bShsFezj26-oUI/edit?usp=sharing)
