@@ -14,9 +14,6 @@ install:
     - pip3 install --user -r requirements.txt
     - gem install bundle
 
-before_install:
-    - easy_install distribute
-
 script:
     - ./_scripts/build.sh
     - ./_scripts/deploy.sh
