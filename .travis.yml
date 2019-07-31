@@ -16,7 +16,7 @@ before_script:
     - easy_install distribute
 
 before_install:
-    - pip install --upgrade pip
+    - pip install --user --upgrade pip
 
 script:
     - ./_scripts/build.sh
