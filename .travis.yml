@@ -9,14 +9,10 @@ addons:
             - sshpass
 
 install:
+    - pip install --user --upgrade pip
+    - pip3 install --user --upgrade pip
     - pip3 install --user -r requirements.txt
     - gem install bundle
-
-before_script:
-    - easy_install distribute
-
-before_install:
-    - pip install --user --upgrade pip
 
 script:
     - ./_scripts/build.sh
