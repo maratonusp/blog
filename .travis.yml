@@ -12,8 +12,11 @@ install:
     - pip3 install --user -r requirements.txt
     - gem install bundle
 
-before script:
+before_script:
     - easy_install distribute
+
+before_install:
+    - pip install --upgrade pip
 
 script:
     - ./_scripts/build.sh
