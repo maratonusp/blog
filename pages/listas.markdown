@@ -14,7 +14,9 @@ Estas são as listas de problemas criadas pelo MaratonUSP:
     - [Listas de 2016]({% include url %}/listas-2016) para iniciantes, intermediários e avançados.
 - [Lista de aulas]({% include url %}/categories/#aulas), a maioria com listas de exercícios e vídeos no YouTube.
 - Outras listas por assunto:
-	- [Intensivão de ferias 2018-2019](https://docs.google.com/spreadsheets/d/1QT-p_Nzb-c6bTdDcnBHq_qRJ7B9biH75014ItH1IIKU/edit?usp=sharing)
+	- [Truculência 1.0 by Guidi](https://docs.google.com/spreadsheets/d/1WwePli4VhDbeOAkT_Cd0Ewrqxuitsyc2VDt6fdazB7s/edit?usp=sharing)
+	- [Truculência 2.0 by Guidi](https://docs.google.com/spreadsheets/d/1ojEo2vgpxXv_E-soCxLtg5wUvrakhEXofRg5lqvr4rg/edit?usp=sharing)
+	- [Intensivão de ferias by Guidi](https://docs.google.com/spreadsheets/d/1QT-p_Nzb-c6bTdDcnBHq_qRJ7B9biH75014ItH1IIKU/edit?usp=sharing)
 	- [Busca Ternária e Dualidade no Plano](https://docs.google.com/spreadsheets/d/1nxrLXlCvZtDfh1Y6V7cz4EPfx_mt0eC-spLt-92fOXU/edit?usp=sharing)
 	- [Circle Sweep](https://docs.google.com/spreadsheets/d/13C_52V8Ko-I_dMCu_Vqm_DTTEEYzVl-ZmMKpuQ1SoWY/edit?usp=sharing)
 	- [Geometria](https://docs.google.com/spreadsheets/d/1OK47NPphwo7JGuKB0E6sRtDeZP-43bShsFezj26-oUI/edit?usp=sharing)
