@@ -10,7 +10,7 @@ Quer aprender buscar em grafos? Buscar em largura? Em profundidade? Está curios
 
 O vídeo da aula "Buscas em grafos" já está disponível no YouTube! A perspicaz Giovana Delfino explica em detalhes os algoritmos e a implementação.
 
-{% youtube o4wv-OjMkj0 %} 
+{% youtube 87QyIpNV-Y0 %} 
 
 ## Tópicos da Aula
 - Buscas em grafos (DFS e BFS)

@@ -10,7 +10,7 @@ Quem nunca sonhou em unir conjuntos disjuntos, não é mesmo? Em reduzir a quant
 
 O vídeo da aula "Union-find e Kruskal" já está disponível no YouTube! O astucioso Gabriel Russo explica em detalhes essa maravilhosa estrutura de dados, juntamente com sua aplicação no algoritmo de Kruskal.
 
-{% youtube 6aeu01RtKTU %} 
+{% youtube P_CPKrzlVTI %} 
 
 ## Tópicos da Aula
 - Union-find
