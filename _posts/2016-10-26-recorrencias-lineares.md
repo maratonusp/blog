@@ -10,7 +10,7 @@ Pronto para calcular o fibonacci de 1 bilhão? Ou só quer saber se 12^3456789 �
 
 A aula de Exponenciação Rápida e Recorrências Lineares já está disponível no youtube! Assistam o íntegro Gabriel Fernandes e deem like :)
 
-{% youtube srXWcQt6q10 %} 
+{% youtube 5_KawI8rQSc %} 
 
 ## Tópicos da Aula
 - Exponenciação Rápida
