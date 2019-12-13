@@ -10,7 +10,7 @@ Quer aprender programação dinâmica? Ou só está tentando roubar uma casa e q
 
 Está disponível a aula de Programação Dinâmica, preparada e apresentada pelo sábio [Victor Colombo](http://codeforces.com/profile/Velfke)
 
-{% youtube Ti780_7y6T4 %} 
+{% youtube eLqKBivIxJI %} 
 
 ## Tópicos da Aula
 - Recursão

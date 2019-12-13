@@ -8,7 +8,7 @@ categories:
 
 Mais uma aula do MaratonIME! Preparada e apresentada pelo [Yan Couto](http://codeforces.com/profile/ItsYanBitches), sobre [Árvores de sufixos](https://youtu.be/tz3mDyI42Qw). Numa próxima aula, veremos como construir a árvore em tempo linear. 
 
-{% youtube tz3mDyI42Qw %}  
+{% youtube lTFP1Y0mVIk%}  
 
 ## Tópicos da Aula
 - Tries

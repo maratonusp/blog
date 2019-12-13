@@ -15,7 +15,7 @@ comments: false
 hubs:
 - url: $/listas
   text: Listas de problemas
-  img: $/images/wf-2017.jpg
+  img: "$/images/wf-2017.jpg"
 - url: $/contato
   text: Fale conosco
   img: https://graph.facebook.com/1507046189376089/picture
@@ -25,7 +25,7 @@ hubs:
 - url: https://www.ime.usp.br/~maratona/acampamentos
   text: Acampamentos
   img: https://graph.facebook.com/1469276866486355/picture
-- url: https://www.youtube.com/playlist?list=PL9sdTenuXlxmIsiKgJRYtUm_A0Cnh-vPB
+- url: https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA
   text: Aulas
   img: https://www.youtube.com/yt/about/media/images/brand-resources/icons/YouTube_icon_full-color.svg
 - url: "$/historia"
@@ -61,11 +61,11 @@ hubs_class: third
   <header>
     {% if post.image.feature %}
       <div class="entry-image-index">
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+        <a href="{% include url %}{{ post.url }}" title="{{ post.title }}"><img src="{% include url %}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
       </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{% include /time.html %}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="Sobre o {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{% include url %}{{ post.url }}">{% include /time.html %}</a></time></span><span class="author vcard"><span class="fn"><a href="{% include url %}/about/" title="Sobre o {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
       {% if site.reading_time %}
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -75,14 +75,14 @@ hubs_class: third
       {% endif %}
     </div><!-- /.entry-meta -->
     {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+      <h1 class="entry-title"><a href="{% include url %}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+      <h1 class="entry-title"><a href="{% include url %}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
   <div class="entry-content">
     {% if post.content contains "<!-- more -->" %}
-    {{ post.content | split:"<!-- more -->" | first % }}
+    {{ post.content | split:"<!-- more -->" | first }}
     {% else %}
       {{ post.content }}
     {% endif %}
@@ -93,9 +93,9 @@ hubs_class: third
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}" class="btn">Previous</a>
+      <a href="{% include url %}" class="btn">Previous</a>
     {% else %}
-      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+      <a href="{% include url %}/page{{ paginator.previous_page }}" class="btn">Previous</a>
     {% endif %}
   {% else %}
     Previous
@@ -105,7 +105,7 @@ hubs_class: third
       {% if paginator.page == 1 %}
         <span class="current-page">1</span>
       {% else %}
-        <a href="{{ site.url }}">1</a>
+        <a href="{% include url %}">1</a>
       {% endif %}
     </li>
     {% for count in (2..paginator.total_pages) %}
@@ -113,13 +113,13 @@ hubs_class: third
         {% if count == paginator.page %}
           <span class="current-page">{{ count }}</span>
         {% else %}
-          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
+          <a href="{% include url %}/page{{ count }}">{{ count }}</a>
         {% endif %}
       </li>
     {% endfor %}
   </ul>
   {% if paginator.next_page %}
-    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+    <a href="{% include url %}/page{{ paginator.next_page }}" class="btn">Next</a>
   {% else %}
     Next
   {% endif %}
