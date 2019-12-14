@@ -7,4 +7,4 @@ permalink: coletanea-tccs
 layout: post
 ---
 
-Criamos uma [coletânea de TCC's](http://maratona.ime.usp.br/tccs.html) de membros do MaratonUSP. Lá você encontra material de estudo para diversos tópicos de programação competitiva, como programação dinâmica, fluxo, algoritmos gulosos e muito mais.
+Criamos uma [coletânea de TCC's](https://www.ime.usp.br/~maratona/tccs.html) de membros do MaratonUSP. Lá você encontra material de estudo para diversos tópicos de programação competitiva, como programação dinâmica, fluxo, algoritmos gulosos e muito mais.
