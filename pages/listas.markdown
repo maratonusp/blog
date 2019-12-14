@@ -27,6 +27,6 @@ Estas são as listas de problemas criadas pelo MaratonUSP:
 	- [Segment Tree](https://docs.google.com/spreadsheets/d/118hY6mmzsS-cvg6diXFvW5bMpvZ3pb3rMcFvfkkMm-M/edit?usp=sharing)
 	- [Sparse Table, LA, LCA](https://docs.google.com/spreadsheets/d/1MNGdljJ4OjW0_nxgYjON3w08UUappZ1gqCdBVfbYhzo/edit?usp=sharing)
 
-Não esqueça de dar uma olhada na [pagina de TCC's](http://maratona.ime.usp.br/tccs.html).
+Não esqueça de dar uma olhada na [pagina de TCC's](https://www.ime.usp.br/~maratona/tccs.html).
 
 Por favor, [nos avise](http://facebook.com/maratonusp) sobre links quebrados ou quaisquer outros problemas.
