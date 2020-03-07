@@ -7,6 +7,7 @@ permalink: listas
 Estas são as listas de problemas criadas pelo MaratonUSP:
 
 - Listas para iniciantes:
+	- [BixeCamp 2020](https://docs.google.com/spreadsheets/d/1miUvi3sHPMi7K__tj90C8fg96scEWnFm3XoVbGgTkpc/edit?usp=sharing).
     - [BixeCamp 2019](https://docs.google.com/spreadsheets/d/11rx5KznjcPojFNiA4wxJ6ZgczLENCgmBFJguCPLkJUs/edit?usp=sharing).
     - [BixeCamp 2018 (Poli)](https://docs.google.com/spreadsheets/d/125MscN6BCLWx-GTDFKVOhw8Ni3VDWe7TrsP1zrjzsPo).
     - [BixeCamp 2018](https://drive.google.com/open?id=1HhwY-lslAjU7bebiImGcdWWT1jyuVvm3ttp-8gJS3Rg).
