@@ -7,8 +7,8 @@ permalink: aula-bixecamp-2020
 layout: post
 ---
 
-![Turma]({{ site.baseurl }}/images/bixecamp-2020/bc1.png)
-![Turma]({{ site.baseurl }}/images/bixecamp-2020/bc2.png)
+![Turma]({{ site.baseurl }}/images/bixecamp-2020/bc1.jpg)
+![Turma]({{ site.baseurl }}/images/bixecamp-2020/bc2.jpg)
 
 Nesta sexta-feira aconteceu a primeira aula do BixeCamp 2020, o curso introdutório do MaratonUSP para programação competitiva. A aula contou com nosso ilustre coach Nathan Proença, assim como a presença de vários membros veteranos do grupo.
 
