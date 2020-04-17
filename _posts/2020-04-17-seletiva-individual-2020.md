@@ -105,6 +105,8 @@ Oficial está se inscrevendo na Seletiva Individual como um todo.
 * Caso exista empate em pontos, se prosseguirá a fazer o desemapate
 pelos seguintes critérios (nessa ordem):
    1. Quantidade de problemas resolvidos em Prova Oficial.
-   2. Menor número de submissões erradas em problemas resolvidos nas
-      Provas Oficial.
-   3. Sorteio.
+   2. Maior quantidade de Provas Oficiais da seletiva 2020 que
+      participou.
+   3. Maior rating máximo no Codeforces.
+   4. Competidor mais velho.
+   5. Sorteio.
