@@ -14,4 +14,6 @@ A Prova I da Seletiva Individual USP 202 já está no
 Para ter a senha de acesso, você deve preencher este
 [formulário](https://forms.gle/9LHnsk394BPAsabE8).
 
+Link para o [editorial](https://drive.google.com/file/d/1XJVzsovNoHf4hVjf4z58JO_yRwkvHfBj/view).
+
 Boa prova!
