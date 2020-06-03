@@ -14,4 +14,6 @@ A Prova II da Seletiva Individual USP 2020 já está no
 Para ter a senha de acesso, você deve preencher este
 [formulário](https://forms.gle/CsHjLhki7jPZtDWx6).
 
+Link para o [editorial](https://drive.google.com/file/d/1P0dyY0z_VQKBr-TabhkIGD4PLsWzWXh-/view?usp=sharing).
+
 Boa prova!
