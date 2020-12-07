@@ -32,6 +32,83 @@ awards:
     color: green
     name: Classificado para a ICPC    
 history:
+- title: Campina Grande, novembro de 2019
+  url: http://maratona.ime.usp.br/resultados17/
+  year: 2019
+  coaches: Nathan Proença e Renzo Gomez
+  teams:
+  - members: Giovanna Conrado, Arthur Nascimento e Cezar Guimarães
+    name: Time com T
+    img: http://maratona.ime.usp.br/hist/2019/resultados19/fotos/imeusp.jpg
+    rank-final: 1
+    rank-sub: 1
+    awards:
+    - wf
+    - champion
+    - gold
+  - members: Vitor Guidi, Felipe Noronha e Gabriel Morete de Azevedo
+    name: Tres conjes e um conluio
+    img: https://www.ime.usp.br/~maratona/images/subreg_2019/tres.jpg
+    rank-sub: 2
+  - members: Victor Lamarca, Pedro de Sousa e Jiang Zhi,
+    name: Maratrouxas
+    img:  https://www.ime.usp.br/~maratona/images/subreg_2019/maratrouxas.jpg
+    rank-sub: 3
+  - members:  Luiza Soezima, Lucas Harada e Gustavo Carlos
+    name:  Seguidores da árvore
+    img: https://www.ime.usp.br/~maratona/images/subreg_2019/seguidores.jpg
+    rank-sub: 5
+  - members:  Bento Pereira, Raphael Silva e Gabriel Carvalho
+    name:  Os bons companheiros
+    img: https://www.ime.usp.br/~maratona/images/subreg_2019/bons.jpg
+    rank-sub: 6
+  - members: Débora Araujo, Caique Corrêa e Derick Frias 
+    name:  Mim dá um balão
+    img: https://www.ime.usp.br/~maratona/images/subreg_2019/mimda.jpg
+    rank-sub: 15
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2019/primfase19/). 
+
+- title: Salvador, novembro de 2018
+  url: http://maratona.ime.usp.br/hist/2018/resultados18/
+  year: 2018
+  coaches: Renzo Gomez e Yan Couto
+  teams:
+  - members: Gabriel Russo, Victor Sena e Victor Colombo
+    name: Meu Patrão
+    img: http://maratona.ime.usp.br/hist/2018/resultados18/fotos/usp1p.jpg
+    rank-final: 7
+    rank-sub: 1
+    awards:
+    - bronze
+  - members: Gabriel Fernandes de Oliveira, Pedro Teotônio de Sousa e Nathan Benedetto Proença
+    name: dog hits dog
+    img: http://maratona.ime.usp.br/hist/2018/resultados18/fotos/usp2p.jpg
+    rank-final: 8
+    rank-sub: 2
+    awards:
+    - bronze
+  - members: Víctor de Sousa Lamarca, Giovanna Kobus Conrado e Jiang Zhi
+    name: Calíporas Rotatórias
+    img: https://www.ime.usp.br/~maratona/images/caliporas_subreg_2018.jpg
+    rank-sub: 3 
+  - members: Breno Helfstein Moura, William Hideki Kondo e Germano Hunning Neuenfeld 
+    name: Seria meu sonho?
+    img: https://www.ime.usp.br/~maratona/images/seria_meu_sonho_subreg_2018.jpg
+    rank-sub: 4
+  - members: Pedro Vitor Bortolli Santos e Enzo Hideki Nakamura
+    name: Turma de Humanas
+    img: https://www.ime.usp.br/~maratona/images/humanas_subreg_2018.jpg
+    rank-sub: 5
+  - members: Vitor Guidi, Felipe Noronha e Bento Pereira
+    name: Arrebento
+    img: https://www.ime.usp.br/~maratona/images/arrebento_subreg_2018.jpg
+    rank-sub: 6
+  - members: Felipe Hiroyuki Tabuti Sibuya, Felipe Hilst Padula e Fernando Kurike Matsumoto
+    name: Fe III
+    img: https://www.ime.usp.br/~maratona/images/feIII_subreg_2018.jpg
+    rank-sub: 6
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2018/primfase18.html). 
+
 - title: Foz do Iguaçu, novembro de 2017
   url: http://maratona.ime.usp.br/resultados17/
   year: 2017
