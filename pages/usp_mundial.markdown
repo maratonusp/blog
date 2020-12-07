@@ -36,8 +36,8 @@ history:
   year: 2018
   members: Arthur Nascimento, Yan Soares Couto e Victor Sena Molero
   coaches: Renzo Gomez e Marcos Kawakami
-  img: https://graph.facebook.com/1733841213363251/picture
-  img_href: https://www.facebook.com/1733841213363251/
+  img: images/shrug_world_finals_2018.jpg
+  img_href: images/shrug_world_finals_2018.jpg
   place: 17
   score: https://icpc.baylor.edu/scoreboard/
   awards: 
