@@ -39,7 +39,7 @@ history:
   teams:
   - members: Arthur Ferreira do Nascimento, Yan Soares Couto e Victor Sena Molero
     name: ¯\_("/)_/¯
-    img: http://maratona.ime.usp.br/resultados17/fotos/usp1.jpg
+    img: http://maratona.sbc.org.br/hist/2017/resultados/fotos/usp1.jpg
     rank-final: 1
     rank-sub: 1
     awards:
@@ -48,7 +48,7 @@ history:
     - wf
   - members: Gabriel Fernandes de Oliveira, Pedro Teotônio de Sousa e Nathan Benedetto Proença
     name: dog hits dog
-    img: http://maratona.ime.usp.br/resultados17/fotos/usp2.jpg
+    img:  http://maratona.sbc.org.br/hist/2017/resultados/fotos/usp2.jpg
     rank-final: 4
     rank-sub: 18
     awards:
