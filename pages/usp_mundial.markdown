@@ -140,7 +140,7 @@ history:
 - title: Honolu, Hawaii, março de 2002
   year: 2002
   members: Pedro Luis Eira Velha, Carlos Henrique Cardonha e Marcel Kenji de Carli Silva
-  coaches: Carlos Henrique Cardonha
+  coaches: Aritanan B. G. Gruber
   text: O time ganhou o "Java Challenge".
   img: https://farm2.staticflickr.com/1695/26464528730_404beb10bb.jpg
   img_href: https://www.flickr.com/photos/141939107@N06/26464528730/in/album-72157667792330925/
