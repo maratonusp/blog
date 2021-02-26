@@ -1,6 +1,7 @@
 language: ruby
 rvm:
     - 2.6
+    
 addons:
     apt:
         packages:
@@ -10,8 +11,9 @@ addons:
             - sshpass
 
 install:
-    - pip install --user --upgrade pip
-    - pip3 install --user --upgrade pip
+    - sudo apt-get install python-pip python3-pip --yes
+    - sudo python3 -m pip install pip --upgrade --force
+    - sudo python -m pip install pip --upgrade --force
     - pip3 install --user -r requirements.txt
     - gem install bundle
 
@@ -20,3 +22,6 @@ script:
     - ./_scripts/deploy.sh
     - ./_scripts/check_new_posts.sh
 
+branches:
+    only: 
+        - master
