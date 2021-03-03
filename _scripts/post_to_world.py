@@ -9,7 +9,6 @@ token_bot = sys.argv[2]
 # 3. Page token to post the message to the facebook page
 token_page = sys.argv[3]
 
-
 import requests
 import yaml
 import re
