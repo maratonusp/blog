@@ -18,4 +18,3 @@ Muitos membros do MaratonUSP desenvolvem trabalhos de conclusão de curso ou tes
 - [Teoria dos numeros e programação](https://github.com/AntonioRoberto/monografia/blob/master/main.pdf) - Antônio Jr.
 - [Transformada rápida de Fourier](https://linux.ime.usp.br/~lgbitencourt/mac0499/monografia.pdf) - Luis Gustavo.
 - [Emparelhamento em grafos: Algoritmos e implementações](https://bcc.ime.usp.br/tccs/2017/gigd/monografia.pdf) - Giovana Delfino.
-- 
