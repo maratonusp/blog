@@ -11,6 +11,10 @@ addons:
             - sshpass
 
 install:
+    # - sudo apt-get install python-pip python3-pip --yes
+    # - python3 -m pip install pip --upgrade --force
+    # - python -m pip install pip --upgrade --force
+    - pip install --upgrade pip
     - pip3 install -r requirements.txt
     - gem install bundle
 
