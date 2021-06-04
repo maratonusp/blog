@@ -7,7 +7,7 @@ permalink: resultado-simulado2021
 layout: post
 ---
 
-Na sexta-feira passada tivemos a realização do Simulado dos Bixes 2021. Segue o placar final da competição:
+Na ultima sexta-feira, realizamos o VI Simulado dos Bixes. Segue o placar final da competição:
 
 ![Convite]({{ site.baseurl }}/images/placar-simulado-2021.jpg)
 
