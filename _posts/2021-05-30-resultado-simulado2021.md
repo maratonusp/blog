@@ -7,7 +7,7 @@ permalink: resultado-simulado2021
 layout: post
 ---
 
-Na ultima sexta-feira, realizamos o VI Simulado dos Bixes. Segue o placar final da competição:
+Na ultima sexta-feira, realizamos o VI Simulado dos Ingressantes (Simulado dos Bixes). Segue o placar final da competição:
 
 ![Convite]({{ site.baseurl }}/images/placar-simulado-2021.jpg)
 
