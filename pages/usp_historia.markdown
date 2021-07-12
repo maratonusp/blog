@@ -39,7 +39,7 @@ history:
   teams:
   - members: Víctor Lamarca, William Kondo e Jiang Zhi
     name: KondZhiLa
-    img: https://www.ime.usp.br/images/brasileira-2020/kond.jpg
+    img: https://www.ime.usp.br/~maratona/images/brasileira-2020/kond.jpg
     rank-final: 5
     rank-sub: 3
     awards:
@@ -47,7 +47,7 @@ history:
     - silver
   - members: Lucas Harada, Gabriel Morete e Thiago Lima Oliveria
     name: Hoje tem AC do Ribamar
-    img: https://www.ime.usp.br/images/brasileira-2020/riba.jpg
+    img: https://www.ime.usp.br/~maratona/images/brasileira-2020/riba.jpg
     rank-final: 8
     rank-sub: 5
     awards:
