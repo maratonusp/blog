@@ -32,6 +32,50 @@ awards:
     color: green
     name: Classificado para a ICPC    
 history:
+- title: Virtual, Julho 2021
+  url: https://www.ime.usp.br/~maratona/final-brasileira-2020
+  year: 2020
+  coaches: Germano Hüning e Renzo Gomez
+  teams:
+  - members: Víctor Lamarca, William Kondo e Jiang Zhi
+    name: KondZhiLa
+    img: https://www.ime.usp.br/images/brasileira-2020/kond.jpg
+    rank-final: 5
+    rank-sub: 3
+    awards:
+    - wf
+    - silver
+  - members: Lucas Harada, Gabriel Morete e Thiago Lima Oliveria
+    name: Hoje tem AC do Ribamar
+    img: https://www.ime.usp.br/images/brasileira-2020/riba.jpg
+    rank-final: 8
+    rank-sub: 5
+    awards:
+    - bronze
+  - members: Gabriel Fernandes de Oliveira, Pedro Teotônio de Sousa e Giovanna Kobus Conrado
+    name: dog hits girl
+    rank-sub: 7
+  - members: Felipe Castro de Noronha, Bento Bruno Pereira e Raphael Ribeiro da Costa e Silva
+    name: O time de cima é trouxa
+    rank-sub: 8
+  - members: Gustavo de Medeiros Carlos, Davi de Menezes Pereira e Luiza Barros Reis Soezima
+    name: Fazemos programa
+    rank-sub: 5
+  - members: Nathan Luiz Bezerra Martins, Ana Yoon Faria de Lima e Daniel Silva Lopes da Costa
+    name: cod&
+    rank-sub: 18
+  - members: Otávio Vacari Martins, Guilhermo Cutrim Costa e Willian Wang
+    name: Ponteiros para o vazio
+    rank-sub: 27
+  - members: Eduardo Sandalo Porto, Pedro Henrique Alves de Queiroz e André Souza Abreu
+    name: Lontras Radioativas
+    rank-sub: 30
+  - members: Luã Nowacki Scavacini Santilli, Antonio Marcos Shiro Arnauts Hachisuca e Arthur Prado De Fazio
+    name: Dançarinos Húngaros
+    rank-sub: 31
+  text: Sobre a [sub-regional](https://www.ime.usp.br/~maratona/subregional-2020). Essa foi a final brasileira de 2020.
+
+
 - title: Campina Grande, novembro de 2019
   url: http://maratona.ime.usp.br/resultados17/
   year: 2019
@@ -50,7 +94,7 @@ history:
     name: Tres conjes e um conluio
     img: https://www.ime.usp.br/~maratona/images/subreg_2019/tres.jpg
     rank-sub: 2
-  - members: Victor Lamarca, Pedro de Sousa e Jiang Zhi,
+  - members: Victor Lamarca, Pedro de Sousa e Jiang Zhi
     name: Maratrouxas
     img:  https://www.ime.usp.br/~maratona/images/subreg_2019/maratrouxas.jpg
     rank-sub: 3
