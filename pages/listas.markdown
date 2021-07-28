@@ -15,6 +15,7 @@ Estas são as listas de problemas criadas pelo MaratonUSP:
     - [Listas de 2016]({% include url %}/listas-2016) para iniciantes, intermediários e avançados.
 - [Lista de aulas]({% include url %}/categories/#aulas), a maioria com listas de exercícios e vídeos no YouTube.
 - Outras listas por assunto:
+    - [Desafios de programação II - 2021](https://docs.google.com/spreadsheets/d/1AvJFPwnHvTwtZBGgU2BjtDygaVZ96-enbcZBIGOISE8)
 	- [Truculência 1.0 by Guidi](https://docs.google.com/spreadsheets/d/1WwePli4VhDbeOAkT_Cd0Ewrqxuitsyc2VDt6fdazB7s/edit?usp=sharing)
 	- [Truculência 2.0 by Guidi](https://docs.google.com/spreadsheets/d/1ojEo2vgpxXv_E-soCxLtg5wUvrakhEXofRg5lqvr4rg/edit?usp=sharing)
 	- [Intensivão de ferias by Guidi](https://docs.google.com/spreadsheets/d/1QT-p_Nzb-c6bTdDcnBHq_qRJ7B9biH75014ItH1IIKU/edit?usp=sharing)
