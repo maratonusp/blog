@@ -26,7 +26,7 @@ def find_kth(string, pat, k):
 txt = open('_posts/' + filename, 'r').read();
 header = txt[txt.find('\n') + 1 : find_kth(txt, '---\n', 2)]
 text = txt[find_kth(txt, '---\n', 2) + 4:].strip()
-info = yaml.load(header)
+info = yaml.load(header, Loader=yaml.FullLoader)
 
 # Creating link from post header
 link = 'https://www.ime.usp.br/~maratona/'
