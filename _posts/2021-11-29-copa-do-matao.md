@@ -31,10 +31,15 @@ do grupo.
   de até 3 pessoas.
 
 ### Premiação
-Os inscritos da USP (campus capital) concorrerão a uma premiação
-especial devida, em parte, ao Prêmio PIPA. Para isso, devem se
-inscrever nesse [form](https://forms.gle/g6XLJaUy9VCjfB3HA) até **18
-de dezembro**. A premiação para esses times será da seguinte forma:
+Haverá duas modalidades de premiação: uma somente para os estudantes
+da USP (campus capital) e outra aberta para o restante do Brasil. Os
+estudantes da USP (campus capital) devem se inscrever no
+[form1](https://forms.gle/g6XLJaUy9VCjfB3HA), enquanto o restante do
+Brasil no [form2](https://forms.gle/JhWqmLfK364gJiEi9). As inscrições
+ocorrem até **18 de dezembro**. A premiação especial aos alunos da USP
+(campus capital) é devida, em parte, ao Prêmio PIPA.
+
+#### Premiação de times da USP (campus capital)
 
 1. R\$ 600,00 - Melhor time geral
 2. R\$ 450,00 - Melhor time com nenhum integrante classificado para
@@ -46,6 +51,10 @@ Obs.: Se um time vencer em mais de uma das 3 categorias de premiação,
 ele ganhará o prêmio referente à primeira categoria em que se encaixar
 da ordem acima e as suas categorias restantes serão preenchidas pelo
 próximo time apto a ela na classificação.
+
+#### Premiação aberta para todo o Brasil
+
+R$ 300,00 para o melhor colocado.
 
 ### Patrocinadores do Prêmio Pipa
 
