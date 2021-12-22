@@ -75,3 +75,15 @@ Integrantes:
 A prova também possui statements em inglês que podem ser acessados
 diretamente nos problemas no contest na Gym do Codeforces.
 
+## Patrocinadores do Prêmio Pipa
+
+<p align="middle">
+    <a href="https://www.alura.com.br/">
+        <img src="{{ site.baseurl }}/forestryio/images/alura.png" style="width:40%;
+height:40%;margin-right:10%">
+    </a>
+    <a href="https://www.caelum.com.br/">
+        <img src="{{ site.baseurl }}/forestryio/images/caelum-novo-logo.png" style="width:40%;
+height:40%">
+    </a>
+</p>
