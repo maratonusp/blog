@@ -30,12 +30,12 @@ awards:
 - wf:
     symbol: globe
     color: green
-    name: Classificado para a ICPC    
+    name: Classificado para a ICPC
 history:
 - title: Virtual, Julho 2021
   url: https://www.ime.usp.br/~maratona/final-brasileira-2020
   year: 2020
-  coaches: Germano Hüning e Renzo Gomez
+  coaches: Nathan Proença e Renzo Gomez
   teams:
   - members: Víctor Lamarca, William Kondo e Jiang Zhi
     name: KondZhiLa
@@ -106,11 +106,11 @@ history:
     name:  Os bons companheiros
     img: https://www.ime.usp.br/~maratona/images/subreg_2019/bons.jpg
     rank-sub: 6
-  - members: Débora Araujo, Caique Corrêa e Derick Frias 
+  - members: Débora Araujo, Caique Corrêa e Derick Frias
     name:  Mim dá um balão
     img: https://www.ime.usp.br/~maratona/images/subreg_2019/mimda.jpg
     rank-sub: 15
-  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2019/primfase19/). 
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2019/primfase19/).
 
 - title: Salvador, novembro de 2018
   url: http://maratona.ime.usp.br/hist/2018/resultados18/
@@ -134,8 +134,8 @@ history:
   - members: Víctor de Sousa Lamarca, Giovanna Kobus Conrado e Jiang Zhi
     name: Calíporas Rotatórias
     img: https://www.ime.usp.br/~maratona/images/caliporas_subreg_2018.jpg
-    rank-sub: 3 
-  - members: Breno Helfstein Moura, William Hideki Kondo e Germano Hunning Neuenfeld 
+    rank-sub: 3
+  - members: Breno Helfstein Moura, William Hideki Kondo e Germano Hunning Neuenfeld
     name: Seria meu sonho?
     img: https://www.ime.usp.br/~maratona/images/seria_meu_sonho_subreg_2018.jpg
     rank-sub: 4
@@ -151,7 +151,7 @@ history:
     name: Fe III
     img: https://www.ime.usp.br/~maratona/images/feIII_subreg_2018.jpg
     rank-sub: 6
-  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2018/primfase18.html). 
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2018/primfase18.html).
 
 - title: Foz do Iguaçu, novembro de 2017
   url: http://maratona.ime.usp.br/resultados17/
@@ -175,7 +175,7 @@ history:
     awards:
     - silver
   - members: Breno Helfstein Moura, William Hideki Kondo e Jiang Zhi
-    name: Nem você acredita nisso 
+    name: Nem você acredita nisso
     rank-sub: 20
   - members: Victor de Sousa Lamarca, Tiago Martins Napoli e Thiago Estrela Montenegro
     name: O(mg)
@@ -189,7 +189,7 @@ history:
   - members: Nicolas Gobbi, Danilo Lopes, Vitor Silva e, como coach, Bruno de Carvalho Albertini
     name: Super Choque
     rank-sub: 381
-  text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas17.html). 
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas17.html).
 
 - title: Belo Horizonte, novembro de 2016
   url: http://maratona.ime.usp.br/resultados16/
@@ -212,8 +212,8 @@ history:
   - members: Victor Aliende da Matta, Leonardo de Carvalho Freitas Padilha Aguiar e Victor Andreas Sprengel
     name: da matta e das florestas
     rank-sub: 195
-  text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas16.html). 
-  
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas16.html).
+
 
 - title: São Paulo, novembro de 2015
   url: http://maratona.ime.usp.br/hist/2015/index.html
@@ -225,7 +225,7 @@ history:
     rank-final: 5
     rank-sub: 5
     img: http://maratona.ime.usp.br/hist/2015/resultados/fotos/usp-sp.jpg
-    awards: 
+    awards:
     - silver
     - wf
   - members: Victor de Oliveira Colombo, Marcelo Tadeu de Sá Oliveira Sales, Ramon Silva de Lima
@@ -238,7 +238,7 @@ history:
   - members: Gabriel de Russo e Carmo, Germano Hunning Neuenfeld e Vinicius Agostini
     name: Não é a São Silvestre?
     rank-sub: 47
-  text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas15.html). 
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/vagas15.html).
 
 
 - title: Fortaleza, novembro de 2014
@@ -274,7 +274,7 @@ history:
   - members: Renato Bispo, Amadeu Shigueo de Almeida e Pedro Nepomuceno
     name: Tempestade de Ozz
     rank-sub: 365
-  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2014/primeira-fase/) e seu [placar não oficial](https://docs.google.com/spreadsheets/d/1Ek7VYOoObrchGuvgUAmSC2SGwbsUa4sUrMaDoxtXeBs/edit). 
+  text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2014/primeira-fase/) e seu [placar não oficial](https://docs.google.com/spreadsheets/d/1Ek7VYOoObrchGuvgUAmSC2SGwbsUa4sUrMaDoxtXeBs/edit).
 
 
 - title: Uberlândia, novembro de 2013
@@ -380,7 +380,7 @@ history:
   - members: Lucas Santos, Rafael Mikio Nakanishi, João Batista Silva Filho
     name: Politrekos
     rank-sub: 112
-  - members: Daniel Paulino Alves, Felipe Yamaguti e Leonardo Schaffer 
+  - members: Daniel Paulino Alves, Felipe Yamaguti e Leonardo Schaffer
     name: Triforce
     rank-sub: 173
   - members: João Marco Maciel da Silva, Marcos Yamazaki e Paolo Carrara
@@ -576,7 +576,7 @@ history:
     name: IME USP C
     rank-final: 16
     rank-sub: 2o na sede
-  - members: Lucas Furukawa Gadani, Silvia Esparrachiari Ghirotti e Rodrigo Roque Dias 
+  - members: Lucas Furukawa Gadani, Silvia Esparrachiari Ghirotti e Rodrigo Roque Dias
     name: Ciências o quê?
     rank-final: 14
     rank-sub: 3o na sede
@@ -632,7 +632,7 @@ history:
     name: IME USP C
     rank-final: 47
   text: Não houve sub-regional neste ano.
-  
+
 - title: São Paulo, novembro de 2002
   url: http://maratona.ime.usp.br/hist/2002/
   year: 2002
@@ -766,7 +766,7 @@ Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](
 
 Oficialmente, a Maratona não entregava medalhas antes de 2002. Apesar disso, consideramos aqui que os três primeiros colocados levaram medalhas de ouro, os três seguintes de prata e os três seguintes de bronze.
 
-Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona. 
+Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona.
 
 Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonusp) ou um pull request no [Github](https://github.com/maratonusp/blog).
 

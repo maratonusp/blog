@@ -32,6 +32,15 @@ awards:
     color: blue
     name: Campeão da América Latina
 history:
+- title: Moscou, Rússia, Outubro de 2021
+  year: 2021
+  members: Arthur Nascimento, César Guimarães e Giovanna Kobus Conrado
+  coaches: Nathan Proença e Renzo Gómez
+  img: images/time-com-T-world-finals-2021.jpg
+  img_href: images/time-com-T-world-finals-2021.jpg
+  place: 97
+  score: https://pc2.ecs.baylor.edu/scoreboard/
+
 - title: Pequim, China, abril de 2018
   year: 2018
   members: Arthur Nascimento, Yan Soares Couto e Victor Sena Molero
@@ -40,7 +49,7 @@ history:
   img_href: images/shrug_world_finals_2018.jpg
   place: 17
   score: https://icpc.baylor.edu/scoreboard/
-  awards: 
+  awards:
   - latinamerica
 
 - title: Phuket, Tailândia, maio de 2016
@@ -91,7 +100,7 @@ history:
   img_href: https://www.flickr.com/photos/141939107@N06/26110037414/in/album-72157667747508785/
   place: 42
   score: https://icpc.baylor.edu/community/results-2011
-  
+
 - title: Orlando, Estados Unidos, abril de 2011
   year: 2011
   members: Atol Fortin, Natan Costa Lima e Tiago Madeira
@@ -151,7 +160,7 @@ history:
   year: 2001
   members: Pedro Luis Eira Velha, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez
   coaches: Aritanan B. G. Gruber
-  awards: 
+  awards:
   - bronze
   - latinamerica
   img: https://farm2.staticflickr.com/1657/26737224965_026ce42d86.jpg
@@ -163,7 +172,7 @@ history:
   year: 1999
   members: Eduardo Garcia de Freitas, Marcio Grossi de Almeida e Sergio Gabriel Tavares
   coaches: Aritanan B. G. Gruber
-  awards: 
+  awards:
   - latinamerica
   place: 28
   img: http://maratona.ime.usp.br/hist/1998/ime.jpg
@@ -186,7 +195,7 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
   <a target="_blank" href="{{ item.img_href }}"><img src="{{ item.img }}"></a>
 {% endif %}
 <h4>
- <a target="_blank" href="https://icpc.baylor.edu/community/history-icpc-{{ item.year }}">{{ item.title }}</a> 
+ <a target="_blank" href="https://icpc.baylor.edu/community/history-icpc-{{ item.year }}">{{ item.title }}</a>
 </h4>
 <p>
 {% if item.awards %}
