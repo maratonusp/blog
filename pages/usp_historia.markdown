@@ -32,6 +32,62 @@ awards:
     color: green
     name: Classificado para a ICPC
 history:
+
+- title: Gramado, Abril 2021
+  url: https://www.ime.usp.br/~maratona/brasileira-2021
+  year: 2021
+  coaches: Germano Hüning e Arthur Nascimento
+  teams:
+  - members: Lucas Harada, Gabriel Morete e Thiago Lima Oliveria
+    name: Hoje tem 'In queue' do Ribamar
+    img: https://www.ime.usp.br/~maratona/images/ribamar-brasileira-2021.jpg
+    rank-final: 5
+    rank-sub: 5
+    awards:
+    - silver
+  - members: Gustavo Carlos, Enrique Junchaya e Nathan Martins
+    name: Zikados
+    img: https://www.ime.usp.br/~maratona/images/zikados-brasileira-2021.jpg
+    rank-final: 15
+    rank-sub: 3
+    awards:
+    - bronze
+  - members: Willian Wang, Willian Miura Mori e Thiago Sikusawa
+    name: vish
+    rank-sub: 10
+  - members: Jiang Zhi, Felipe Kallás Silva e Cezar Guimarães
+    name: RED Retired, Extremely Dangerous
+    rank-sub: 15
+  - members: Felipe Noronha, Bento Bruno Pereira e Raphael Silva
+    name: O time de cima é trouxa
+    rank-sub: 17
+  - members: Antonio Hachisuca, Andre Abreu e Vitor Tamae
+    name: opa
+    rank-sub: 50
+  - members: Gabriel Geraldino de Souza, Matheus Ferreira e Gabriel Mendonça
+    name: zzz
+    rank-sub: 61
+  - members: Gustavo Akashi, Pedro Akira Kitayama e Vitor Eduardo Costa
+    name: (O)Plano
+    rank-sub: 78
+  - members: Mateus Latrova Stephanin, Bruno Campos e João Guilherme
+    name: maracutaia
+    rank-sub: 115
+  - members: João Gabriel Andrade de Araujo Josephik, Rafael Magalhães e Leonardo Bozzetto
+    name: NotATeam
+    rank-sub: 137
+  - members: Arthur Fonseca, Sergio Fuentes e Sergio Magalhães Contente
+    name: pylantras
+    rank-sub: 160
+  - members: Mariana Costa, Mateus Henrique Sotoriva Witeck e Gabriella Brito
+    name: Dolly Páscoa
+    rank-sub: 175
+  - members: Cássio Cancio, Débora D'Angelo Reina de Araujo e Luiz Gabriel Lima Arrais
+    name: 1 balão tá bão
+    rank-sub: 176
+  text: Sobre a [sub-regional](https://www.ime.usp.br/~maratona/subregional-2021). Essa foi a final brasileira de 2021.
+
+
 - title: Virtual, Julho 2021
   url: https://www.ime.usp.br/~maratona/final-brasileira-2020
   year: 2020
