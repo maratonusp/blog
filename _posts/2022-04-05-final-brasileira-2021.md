@@ -7,6 +7,8 @@ permalink: brasileira-2021
 layout: post
 ---
 
+![todos]({{ site.baseurl }}/images/todos-brasileira-2021.jpg)
+
 A USP teve um bom resultado na Final Brasileira da Maratona de Programação 2021, que aconteceu em Gramado-RS entre 31 de Março e 02 de Abril. Tivemos nossos dois times no Top 15, com chance de participar da proxima Final Mundial no Egito.
 
 # Nossos times
