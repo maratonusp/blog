@@ -7,9 +7,7 @@ permalink: brasileira-2021
 layout: post
 ---
 
-A USP teve um bom resultado na Final Brasileira da Maratona de Programação 2021/22, que aconteceu em Gramado-RS entre 31 de Março e 02 de Abril. Tivemos nossos dois times no Top 15, com chance de participar da proxima Final Mundial no Egito.
-
-Confira o [placar](http://scorelatam.naquadah.com.br/latam-2021/#) ([Backup]({{ site.baseurl }}/images/placar-brasileira-2021.png)).
+A USP teve um bom resultado na Final Brasileira da Maratona de Programação 2021, que aconteceu em Gramado-RS entre 31 de Março e 02 de Abril. Tivemos nossos dois times no Top 15, com chance de participar da proxima Final Mundial no Egito.
 
 # Nossos times
 
@@ -28,3 +26,7 @@ Time formado por Gabriel Morete, Lucas Hiroshi Hanke Harada e Thiago Oliveira.
 Time formado por Gustavo Carlos, Enrique Junchaya e Nathan Martins.
 
 6 problemas e 1026 de penalidade. 15º no Brasil e 23º na América Latina.
+
+![Placar]({{ site.baseurl }}/images/placar-brasileira-2021.png)
+
+Confira o [mais informações](http://scorelatam.naquadah.com.br/latam-2021/#).
