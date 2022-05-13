@@ -11,10 +11,11 @@ Na última sexta-feira, foi realizado o VII Simulado de Ingressantes, competiç�
 
 ![Bixes 2022]({{ site.baseurl }}/assets/post_files/2022-05-09-resultado-simulado-2022/simulado-bixes-2022.jpg)
 
-Foram 19 times participantes no total. O time **Uma mão no volante e outra no carrinho** conseguiu resolver todos os problemas com somente metade do tempo da competição.
+Foram 19 times participantes no total. O time **uma mão no volante e a outra no carinho** conseguiu resolver todos os problemas com somente metade do tempo da competição.
 
 O placar e problemas do simulado podem ser acessados nos links abaixo:
 
 <!-- - [Prova na gym do Codeforces](http://codeforces.com/gym/103683) -->
 - [Placar final]({{ site.baseurl }}/assets/post_files/2022-05-09-resultado-simulado-2022/placar-simulado-2022.png)
 - [Enunciado da prova em português]({{ site.baseurl }}/assets/post_files/2022-05-09-resultado-simulado-2022/enunciado-pt.pdf)
+- [Prova no Codeforces](https://codeforces.com/contestInvitation/048d3d7f8c75ad8b864d9b5c88fb189fe11ec118)
