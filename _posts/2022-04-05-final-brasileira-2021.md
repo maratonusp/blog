@@ -19,7 +19,7 @@ A USP teve um bom resultado na Final Brasileira da Maratona de Programação 202
 
 Time formado por Gabriel Morete, Lucas Hiroshi Hanke Harada e Thiago Oliveira.
 
-6 problemas e 639 de penalidade. 5º no Brasil e 8º na América Latina. Tem chance de se classificar para a Final Mundial, dependendo da distribuição de vagas.
+6 problemas e 639 de penalidade. 5º no Brasil e 8º na América Latina, classificado para final mundial de 2023.
 
 ## Zikados
 
