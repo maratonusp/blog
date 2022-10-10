@@ -49,6 +49,8 @@ Esse ano tivemos afirmativas para fomentar a participação feminina, seguindo a
 
 A prova possui statements em português e inglês que podem ser acessados diretamente nos problemas no contest na Gym do Codeforces.
 
+![Maratonusp]({{ site.baseurl }}/images/seletiva_2022/20220917_195625.jpg)
+
 ## Patrocinadores
 
 <p align="middle">
