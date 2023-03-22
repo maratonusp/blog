@@ -44,14 +44,13 @@ history:
     rank-final: 5
     rank-sub: 5
     awards:
+    - wf
     - silver
   - members: Gustavo Carlos, Enrique Junchaya e Nathan Martins
     name: Zikados
     img: /~maratona/images/zikados-brasileira-2021.jpg
     rank-final: 15
     rank-sub: 3
-    awards:
-    - bronze
   - members: Willian Wang, Willian Miura Mori e Thiago Sikusawa
     name: vish
     rank-sub: 10
