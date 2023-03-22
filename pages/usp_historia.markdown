@@ -33,7 +33,50 @@ awards:
     name: Classificado para a ICPC
 history:
 
-- title: Gramado, Abril 2021
+- title: Campo Grande, Março 2023
+  url: /~maratona/brasileira-2022
+  year: 2022
+  coaches: Gabriel Morete e Enrique Junchaya
+  text: Sobre a [sub-regional](/~maratona/subregional-2022). Essa foi a final brasileira de 2022.
+  teams:
+  - members: Nathan Martins, Willian Mori e Willian Wang
+    name: MWNWMWNNWMWNWN
+    img: /~maratona/images/brasileira-2022/MWNWMWNNWMWNWN.jpg
+    rank-final: 7
+    rank-sub: 6
+    awards:
+    - silver
+  - members: Antonio Hachisuca, Matheus Ferreira e Gabriel Mendonça
+    name: zzz
+    img: /~maratona/images/brasileira-2022/zzz.jpg
+    rank-final: 24
+    rank-sub: 16
+  - members: Felipe Noronha, Bento Bruno Pereira e Raphael Silva
+    name: O time de cima é trouxa
+    rank-sub: 46
+  - members: Marcelo Lage, Rafael Sesoko e Otávio Silva
+    name: agora vai
+    rank-sub: 54
+  - members: Gustavo Carlos, Cássio Cancio e João Guilherme Santos
+    name: www.nathan.tb.fc
+    rank-sub: 59
+  - members: Ian Takose, Juliana Hosne Nakata e Luiz Felipe Schmitt
+    name: Aprendizes de Cearense
+    rank-sub: 131
+  - members: Eduardo Figueredo Pacheco, Mariana Misu e Maysa Cristina Claudino da Silva,
+    name: Hawls
+    rank-sub: 140
+  - members: Anna Beatriz Serikyaku, Thalita Silva e Lais Rossman
+    name: Programa Delas
+    rank-sub: 194
+  - members: Tássyla Lima, Bárbara Bueno e Henrique Eduardo
+    name: Capivara Digital
+    rank-sub: 206
+  - members: Mateus Pinheiro Negocia, Lucas Rodrigues e Juan D’Angelo
+    name: Bitolados
+    rank-sub: 235
+
+- title: Gramado, Abril 2022
   url: /~maratona/brasileira-2021
   year: 2021
   coaches: Germano Hüning e Arthur Nascimento
