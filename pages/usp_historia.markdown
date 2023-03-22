@@ -5,7 +5,7 @@ permalink: usp_historia.html
 hubs:
 - url: $/usp_mundial
   text: USP nas finais mundiais
-  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
+  img: /~cef/maratonaUSP/usp-sp.jpg
 - url: $/historia
   text: História
   img: https://graph.facebook.com/1052436444837068/picture
@@ -34,20 +34,20 @@ awards:
 history:
 
 - title: Gramado, Abril 2021
-  url: https://www.ime.usp.br/~maratona/brasileira-2021
+  url: /~maratona/brasileira-2021
   year: 2021
   coaches: Germano Hüning e Arthur Nascimento
   teams:
   - members: Lucas Harada, Gabriel Morete e Thiago Lima Oliveria
     name: Hoje tem 'In queue' do Ribamar
-    img: https://www.ime.usp.br/~maratona/images/ribamar-brasileira-2021.jpg
+    img: /~maratona/images/ribamar-brasileira-2021.jpg
     rank-final: 5
     rank-sub: 5
     awards:
     - silver
   - members: Gustavo Carlos, Enrique Junchaya e Nathan Martins
     name: Zikados
-    img: https://www.ime.usp.br/~maratona/images/zikados-brasileira-2021.jpg
+    img: /~maratona/images/zikados-brasileira-2021.jpg
     rank-final: 15
     rank-sub: 3
     awards:
@@ -85,17 +85,17 @@ history:
   - members: Cássio Cancio, Débora D'Angelo Reina de Araujo e Luiz Gabriel Lima Arrais
     name: 1 balão tá bão
     rank-sub: 176
-  text: Sobre a [sub-regional](https://www.ime.usp.br/~maratona/subregional-2021). Essa foi a final brasileira de 2021.
+  text: Sobre a [sub-regional](/~maratona/subregional-2021). Essa foi a final brasileira de 2021.
 
 
 - title: Virtual, Julho 2021
-  url: https://www.ime.usp.br/~maratona/final-brasileira-2020
+  url: /~maratona/final-brasileira-2020
   year: 2020
   coaches: Nathan Proença e Renzo Gomez
   teams:
   - members: Víctor Lamarca, William Kondo e Jiang Zhi
     name: KondZhiLa
-    img: https://www.ime.usp.br/~maratona/images/brasileira-2020/kond.jpg
+    img: /~maratona/images/brasileira-2020/kond.jpg
     rank-final: 5
     rank-sub: 3
     awards:
@@ -103,7 +103,7 @@ history:
     - silver
   - members: Lucas Harada, Gabriel Morete e Thiago Lima Oliveria
     name: Hoje tem AC do Ribamar
-    img: https://www.ime.usp.br/~maratona/images/brasileira-2020/riba.jpg
+    img: /~maratona/images/brasileira-2020/riba.jpg
     rank-final: 8
     rank-sub: 5
     awards:
@@ -129,7 +129,7 @@ history:
   - members: Luã Nowacki Scavacini Santilli, Antonio Marcos Shiro Arnauts Hachisuca e Arthur Prado De Fazio
     name: Dançarinos Húngaros
     rank-sub: 31
-  text: Sobre a [sub-regional](https://www.ime.usp.br/~maratona/subregional-2020). Essa foi a final brasileira de 2020.
+  text: Sobre a [sub-regional](/~maratona/subregional-2020). Essa foi a final brasileira de 2020.
 
 
 - title: Campina Grande, novembro de 2019
@@ -148,23 +148,23 @@ history:
     - gold
   - members: Vitor Guidi, Felipe Noronha e Gabriel Morete de Azevedo
     name: Tres conjes e um conluio
-    img: https://www.ime.usp.br/~maratona/images/subreg_2019/tres.jpg
+    img: /~maratona/images/subreg_2019/tres.jpg
     rank-sub: 2
   - members: Victor Lamarca, Pedro de Sousa e Jiang Zhi
     name: Maratrouxas
-    img:  https://www.ime.usp.br/~maratona/images/subreg_2019/maratrouxas.jpg
+    img:  /~maratona/images/subreg_2019/maratrouxas.jpg
     rank-sub: 3
   - members:  Luiza Soezima, Lucas Harada e Gustavo Carlos
     name:  Seguidores da árvore
-    img: https://www.ime.usp.br/~maratona/images/subreg_2019/seguidores.jpg
+    img: /~maratona/images/subreg_2019/seguidores.jpg
     rank-sub: 5
   - members:  Bento Pereira, Raphael Silva e Gabriel Carvalho
     name:  Os bons companheiros
-    img: https://www.ime.usp.br/~maratona/images/subreg_2019/bons.jpg
+    img: /~maratona/images/subreg_2019/bons.jpg
     rank-sub: 6
   - members: Débora Araujo, Caique Corrêa e Derick Frias
     name:  Mim dá um balão
-    img: https://www.ime.usp.br/~maratona/images/subreg_2019/mimda.jpg
+    img: /~maratona/images/subreg_2019/mimda.jpg
     rank-sub: 15
   text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2019/primfase19/).
 
@@ -189,23 +189,23 @@ history:
     - bronze
   - members: Víctor de Sousa Lamarca, Giovanna Kobus Conrado e Jiang Zhi
     name: Calíporas Rotatórias
-    img: https://www.ime.usp.br/~maratona/images/caliporas_subreg_2018.jpg
+    img: /~maratona/images/caliporas_subreg_2018.jpg
     rank-sub: 3
   - members: Breno Helfstein Moura, William Hideki Kondo e Germano Hunning Neuenfeld
     name: Seria meu sonho?
-    img: https://www.ime.usp.br/~maratona/images/seria_meu_sonho_subreg_2018.jpg
+    img: /~maratona/images/seria_meu_sonho_subreg_2018.jpg
     rank-sub: 4
   - members: Pedro Vitor Bortolli Santos e Enzo Hideki Nakamura
     name: Turma de Humanas
-    img: https://www.ime.usp.br/~maratona/images/humanas_subreg_2018.jpg
+    img: /~maratona/images/humanas_subreg_2018.jpg
     rank-sub: 5
   - members: Vitor Guidi, Felipe Noronha e Bento Pereira
     name: Arrebento
-    img: https://www.ime.usp.br/~maratona/images/arrebento_subreg_2018.jpg
+    img: /~maratona/images/arrebento_subreg_2018.jpg
     rank-sub: 6
   - members: Felipe Hiroyuki Tabuti Sibuya, Felipe Hilst Padula e Fernando Kurike Matsumoto
     name: Fe III
-    img: https://www.ime.usp.br/~maratona/images/feIII_subreg_2018.jpg
+    img: /~maratona/images/feIII_subreg_2018.jpg
     rank-sub: 6
   text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2018/primfase18.html).
 
