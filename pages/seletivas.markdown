@@ -4,9 +4,10 @@ layout: page
 permalink: seletivas.html
 ---
 
-Os times que representam a USP na Maratona de Programação são escolhidos por meio de uma seletiva interna.
+Os times que representam a USP na Maratona de Programação são escolhidos por meio de uma seletiva interna, organizada pelos próprios alunos do grupo que não vão participar da prova oficial.
 
-A prova é organizada pelos próprios alunos, geralmente aqueles que já não podem mais participar da Maratona. Sua primeira aplicação foi em 1997.
+A primeira aplicação da seletiva interna ocorreu em 1997 e, desde então, é realizada anualmente. Nos anos 2020 e 2021, a Maratona de Programação foi realizada online com inscrição gratuita, o que dispensou a realização da seletiva.
+
 
 <h2> Seletivas anteriores </h2>
 <ul>
