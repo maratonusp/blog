@@ -2,6 +2,7 @@
 title: Resultado Simulado de bixes 2021
 date: '2021-05-30 21:00:00'
 categories:
+- contests
 - bixecamp
 permalink: resultado-simulado2021
 layout: post

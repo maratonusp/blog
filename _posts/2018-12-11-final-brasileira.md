@@ -3,6 +3,7 @@ title: Final Brasileira 2018
 date: '2018-11-12 10:00:00'
 categories:
 - noticias
+- maratona
 permalink: brasileira-2018
 layout: post
 ---

@@ -4,6 +4,7 @@ date: '2022-10-09 14:00:00'
 categories:
 - seletiva
 - noticias
+- contests
 permalink: individual-2022
 layout: post
 ---

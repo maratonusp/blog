@@ -2,6 +2,7 @@
 title: Resultado do Simulado de Bixes 2022
 date: '2022-05-09 12:00:00'
 categories:
+- contests
 - bixecamp
 permalink: resultado-simulado2022
 layout: post

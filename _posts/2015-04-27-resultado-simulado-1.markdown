@@ -4,6 +4,8 @@ date: '2015-04-27 18:19:00'
 layout: post
 categories:
 - noticias
+- contests
+- bixecamp
 ---
 
 

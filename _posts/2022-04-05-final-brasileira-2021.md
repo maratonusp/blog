@@ -3,6 +3,7 @@ title: Final Brasileira 2021
 date: '2022-04-05 12:00:00'
 categories:
 - noticias
+- maratona
 permalink: brasileira-2021
 layout: post
 ---

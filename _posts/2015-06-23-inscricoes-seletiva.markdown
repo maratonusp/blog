@@ -5,6 +5,7 @@ layout: post
 categories:
 - noticias
 - contests
+- seletiva
 ---
 
 ![Banner Maratona]({{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/banner-maratona-2015.jpg)

@@ -4,6 +4,7 @@ date: '2022-10-10 16:00:00'
 categories:
 - noticias
 - contests
+- seletiva
 permalink: resultado-seletiva-2022
 layout: post
 ---
