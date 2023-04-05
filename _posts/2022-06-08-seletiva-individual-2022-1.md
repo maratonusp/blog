@@ -4,6 +4,7 @@ date: '2022-06-08 08:00:00'
 categories:
 - seletiva
 - noticias
+- contests
 permalink: "/:categories/:title"
 layout: post
 ---

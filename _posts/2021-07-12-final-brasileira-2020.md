@@ -2,7 +2,8 @@
 title: Final brasileira 2020
 date: '2021-07-12 21:00:00'
 categories:
-- brasileira
+- noticias
+- maratona
 permalink: final-brasileira-2020
 layout: post
 ---

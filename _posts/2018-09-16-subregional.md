@@ -3,6 +3,7 @@ title: Subregional 2018
 date: '2018-09-16 08:00:00'
 categories:
 - noticias
+- maratona
 permalink: subreg-2018
 layout: post
 ---

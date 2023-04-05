@@ -3,6 +3,7 @@ title: Final Brasileira 2022
 date: '2023-03-22 18:00:00'
 categories:
 - noticias
+- maratona
 permalink: brasileira-2022
 layout: post
 ---

@@ -3,6 +3,7 @@ title: Final brasileira 2019
 date: '2019-11-20 10:00:00'
 categories:
 - noticias
+- maratona
 permalink: brasileira-2019
 layout: post
 ---

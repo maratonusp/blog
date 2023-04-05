@@ -4,6 +4,7 @@ date: '2020-05-20 00:00:00'
 categories:
 - seletiva
 - noticias
+- contests
 permalink: "/:categories/:title"
 layout: post
 ---
