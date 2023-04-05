@@ -14,8 +14,12 @@
 {% endcase %}
 
 <figure {% if class != "" %}class="{{ class }}"{% endif %}>
-    {% for image in images %}
-    <a href="{{ image }}"><img src="{{ image }}" alt=""></a>
-    {% endfor %}
-    <figcaption>{{ caption }}</figcaption>
+    <div class="image-row">
+      {% for image in images %}
+      <a href="{{ image }}"><img src="{{ image }}" alt=""></a>
+      {% endfor %}
+    </div>
+    {% if caption %}
+      <figcaption>{{ caption }}</figcaption>
+    {% endif %}
 </figure>
