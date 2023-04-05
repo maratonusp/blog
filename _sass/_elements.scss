@@ -55,6 +55,17 @@ figure {
 		}
 	}
 }
+figure .image-row {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 12px;
+
+	img {
+		margin: 0;
+	}
+}
 svg:not(:root) {
 	overflow: hidden;
 }
@@ -232,8 +243,8 @@ ul.history-list {
 		border-top: 1px solid lightgray;
 		width: 49%;
 		margin-left: .5%;
-        vertical-align: top;
-        display: inline-block;
+		vertical-align: top;
+		display: inline-block;
 
 		&.big {
 			margin-left: 0;
