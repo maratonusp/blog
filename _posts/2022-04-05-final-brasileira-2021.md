@@ -8,7 +8,7 @@ permalink: brasileira-2021
 layout: post
 ---
 
-![todos]({{ site.baseurl }}/images/todos-brasileira-2021.jpg)
+![todos]({{ site.baseurl }}/images/brasileira-2021/todos.jpg)
 
 A USP teve um bom resultado na Final Brasileira da Maratona de Programação 2021, que aconteceu em Gramado-RS entre 31 de Março e 02 de Abril. Tivemos nossos dois times no Top 15, com chance de participar da proxima Final Mundial no Egito.
 
@@ -16,7 +16,7 @@ A USP teve um bom resultado na Final Brasileira da Maratona de Programação 202
 
 ## Hoje tem 'In queue' do Ribamar
 
-![Hoje tem 'In queue' do Ribamar]({{ site.baseurl }}/images/ribamar-brasileira-2021.jpg)
+![Hoje tem 'In queue' do Ribamar]({{ site.baseurl }}/images/brasileira-2021/ribamar.jpg)
 
 Time formado por Gabriel Morete, Lucas Hiroshi Hanke Harada e Thiago Oliveira.
 
@@ -24,12 +24,12 @@ Time formado por Gabriel Morete, Lucas Hiroshi Hanke Harada e Thiago Oliveira.
 
 ## Zikados
 
-![Zikados]({{ site.baseurl }}/images/zikados-brasileira-2021.jpg)
+![Zikados]({{ site.baseurl }}/images/brasileira-2021/zikados.jpg)
 
 Time formado por Gustavo Carlos, Enrique Junchaya e Nathan Martins.
 
 6 problemas e 1026 de penalidade. 15º no Brasil e 23º na América Latina.
 
-![Placar]({{ site.baseurl }}/images/placar-brasileira-2021.png)
+![Placar]({{ site.baseurl }}/images/brasileira-2021/placar.png)
 
 Confira o [mais informações](http://scorelatam.naquadah.com.br/latam-2021/#).

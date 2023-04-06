@@ -9,7 +9,7 @@ hubs:
   img_position: 75% 25%
 - url: $/usp_historia
   text: USP na Maratona de Programação
-  img: $/images/brasileira_2019/premiacao_tesao.jpg
+  img: $/images/brasileira-2019/premiacao_tesao.jpg
   img_position: 50% 30%
 hubs_class: half
 awards:
