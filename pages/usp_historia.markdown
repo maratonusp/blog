@@ -5,10 +5,12 @@ permalink: usp_historia.html
 hubs:
 - url: $/usp_mundial
   text: USP nas finais mundiais
-  img: /~cef/maratonaUSP/usp-sp.jpg
+  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
+  img_position: 50% 30%
 - url: $/historia
   text: História
-  img: https://graph.facebook.com/1052436444837068/picture
+  img: $/images/brasileira-2022/nathanzinho.jpg
+  img_position: 75% 25%
 hubs_class: half
 awards:
 - champion:
