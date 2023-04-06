@@ -147,6 +147,8 @@ header .entry-meta {
 #post,
 #page {
 	#main {
+        padding-left: 10px;
+        padding-right: 10px;
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
 			margin-left: 20px;
@@ -160,19 +162,17 @@ header .entry-meta {
 		}
 	}
 	.entry-content {
-		margin: 30px 2px 20px 2px;
+		margin: 30px 0px 20px 0px;
 		padding: 10px 15px;
 		background-color: $white;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.1);
 		@include rounded(3px);
 		@media #{$medium} {
-			margin-left: 10px;
-			margin-right: 10px;
 			padding: 20px 30px;
 		}
 		@media #{$large} {
 			max-width: 800px;
-			margin: 30px auto 30px auto;
+			margin: 30px 0px 30px 0px;
 			padding: 50px 80px;
 			> p:first-child {
 				@include font-size(20);
