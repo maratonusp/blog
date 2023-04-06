@@ -10,15 +10,15 @@ layout: post
 
 A USP teve um bom resultado na Final Brasileira da Maratona de Programação 2018. Tivemos nossos dois times no Top 10, com chance de participar da Final Mundial de 2019 em Porto.
 
-![MaratonIME na brasileira]({{ site.baseurl }}/images/todos_brasileira_2018.jpg)
+![MaratonIME na brasileira]({{ site.baseurl }}/images/brasileira-2018/todos.jpg)
 
-Confira o [placar](http://www.bombonera.org/score2018f2/score) ([Backup]({{ site.baseurl }}/images/placar_brasileira_2018.pdf)).
+Confira o [placar](http://www.bombonera.org/score2018f2/score) ([Backup]({{ site.baseurl }}/images/brasileira-2018/placar.pdf)).
 
 # Nossos times
 
 ## Meu patrão
 
-![Meu patrão]({{ site.baseurl }}/images/patrao_brasileira_2018.jpg)
+![Meu patrão]({{ site.baseurl }}/images/brasileira-2018/patrao.jpg)
 
 Time formado por Victor Colombo, Victor Sena e Gabriel Russo.
 
@@ -26,7 +26,7 @@ Time formado por Victor Colombo, Victor Sena e Gabriel Russo.
 
 ## dog hits dog
 
-![dog hits dog]({{ site.baseurl }}/images/dog_brasileira_2018.jpg)
+![dog hits dog]({{ site.baseurl }}/images/brasileira-2018/dog.jpg)
 
 Time formado por Nathan Benedetto, Pedro Teotonio e Gabriel Fernandes.
 
@@ -38,7 +38,7 @@ Também tivemos integrantes em times que competiram na categoria "Café com leit
 
 ## Uspank
 
-![Uspank]({{ site.baseurl }}/images/uspank_brasileira_2018.jpg)
+![Uspank]({{ site.baseurl }}/images/brasileira-2018/uspank.jpg)
 
 Time formado por Victor Lamarca e Giovanna Kobus, integrantes da USP que não tiveram chance de se classificar para a Final Brasileira, e por nosso amigo Thiago Carvalho.
 

@@ -9,7 +9,7 @@ permalink: resultado-seletiva-2022
 layout: post
 ---
 
-![Geral]({{ site.baseurl }}/images/seletiva_2022/20220917_191912.jpg)
+![Geral]({{ site.baseurl }}/images/seletiva-2022/20220917_191912.jpg)
 
 
 Sábado, dia 17 de Setembro, ocorreu a Seletiva USP para a [Maratona SBC de Programação](http://maratona.sbc.org.br/). A seletiva é um evento que objetiva selecionar os times que vão representar a USP, Campus Butantã, na Maratona de Programação temporada 2022-2023. 
@@ -18,7 +18,7 @@ Neste ano, na seletiva, participaram 23 times, totalizando 69 competidores do IM
 
 Os grandes campeões foram Thiago Oliveira, Gustavo Carlos e Antonio Hachisuca, time [IME]www.nathan.tb.fc. 
 
-![nathan]({{ site.baseurl }}/images/seletiva_2022/20220917_181230.jpg)
+![nathan]({{ site.baseurl }}/images/seletiva-2022/20220917_181230.jpg)
 
 
 Além deles, os times 
@@ -41,7 +41,7 @@ Esse ano tivemos afirmativas para fomentar a participação feminina, seguindo a
 
 ## Placar final
 
-![Convite]({{ site.baseurl }}/images/seletiva_2022/score.png)
+![Convite]({{ site.baseurl }}/images/seletiva-2022/score.png)
 
 ## Links importantes
 
@@ -50,7 +50,7 @@ Esse ano tivemos afirmativas para fomentar a participação feminina, seguindo a
 
 A prova possui statements em português e inglês que podem ser acessados diretamente nos problemas no contest na Gym do Codeforces.
 
-![Maratonusp]({{ site.baseurl }}/images/seletiva_2022/20220917_195625.jpg)
+![Maratonusp]({{ site.baseurl }}/images/seletiva-2022/20220917_195625.jpg)
 
 ## Patrocinadores
 

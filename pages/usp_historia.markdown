@@ -85,7 +85,7 @@ history:
   teams:
   - members: Lucas Harada, Gabriel Morete e Thiago Lima Oliveria
     name: Hoje tem 'In queue' do Ribamar
-    img: /~maratona/images/ribamar-brasileira-2021.jpg
+    img: /~maratona/images/brasileira-2021/ribamar.jpg
     rank-final: 5
     rank-sub: 5
     awards:
@@ -93,7 +93,7 @@ history:
     - silver
   - members: Gustavo Carlos, Enrique Junchaya e Nathan Martins
     name: Zikados
-    img: /~maratona/images/zikados-brasileira-2021.jpg
+    img: /~maratona/images/brasileira-2021/zikados.jpg
     rank-final: 15
     rank-sub: 3
   - members: Willian Wang, Willian Miura Mori e Thiago Sikusawa
@@ -192,23 +192,23 @@ history:
     - gold
   - members: Vitor Guidi, Felipe Noronha e Gabriel Morete de Azevedo
     name: Tres conjes e um conluio
-    img: /~maratona/images/subreg_2019/tres.jpg
+    img: /~maratona/images/subreg-2019/tres.jpg
     rank-sub: 2
   - members: Victor Lamarca, Pedro de Sousa e Jiang Zhi
     name: Maratrouxas
-    img:  /~maratona/images/subreg_2019/maratrouxas.jpg
+    img:  /~maratona/images/subreg-2019/maratrouxas.jpg
     rank-sub: 3
   - members:  Luiza Soezima, Lucas Harada e Gustavo Carlos
     name:  Seguidores da árvore
-    img: /~maratona/images/subreg_2019/seguidores.jpg
+    img: /~maratona/images/subreg-2019/seguidores.jpg
     rank-sub: 5
   - members:  Bento Pereira, Raphael Silva e Gabriel Carvalho
     name:  Os bons companheiros
-    img: /~maratona/images/subreg_2019/bons.jpg
+    img: /~maratona/images/subreg-2019/bons.jpg
     rank-sub: 6
   - members: Débora Araujo, Caique Corrêa e Derick Frias
     name:  Mim dá um balão
-    img: /~maratona/images/subreg_2019/mimda.jpg
+    img: /~maratona/images/subreg-2019/mimda.jpg
     rank-sub: 15
   text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2019/primfase19/).
 
@@ -233,23 +233,23 @@ history:
     - bronze
   - members: Víctor de Sousa Lamarca, Giovanna Kobus Conrado e Jiang Zhi
     name: Calíporas Rotatórias
-    img: /~maratona/images/caliporas_subreg_2018.jpg
+    img: /~maratona/images/subreg-2018/caliporas.jpg
     rank-sub: 3
   - members: Breno Helfstein Moura, William Hideki Kondo e Germano Hunning Neuenfeld
     name: Seria meu sonho?
-    img: /~maratona/images/seria_meu_sonho_subreg_2018.jpg
+    img: /~maratona/images/subreg-2018/seria_meu_sonho.jpg
     rank-sub: 4
   - members: Pedro Vitor Bortolli Santos e Enzo Hideki Nakamura
     name: Turma de Humanas
-    img: /~maratona/images/humanas_subreg_2018.jpg
+    img: /~maratona/images/subreg-2018/humanas.jpg
     rank-sub: 5
   - members: Vitor Guidi, Felipe Noronha e Bento Pereira
     name: Arrebento
-    img: /~maratona/images/arrebento_subreg_2018.jpg
+    img: /~maratona/images/subreg-2018/arrebento.jpg
     rank-sub: 6
   - members: Felipe Hiroyuki Tabuti Sibuya, Felipe Hilst Padula e Fernando Kurike Matsumoto
     name: Fe III
-    img: /~maratona/images/feIII_subreg_2018.jpg
+    img: /~maratona/images/subreg-2018/feIII.jpg
     rank-sub: 6
   text: Sobre a [sub-regional](http://maratona.ime.usp.br/hist/2018/primfase18.html).
 
