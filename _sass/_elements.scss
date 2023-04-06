@@ -169,33 +169,38 @@ figure.center img{
 // Hub
 // --------------------------------------------------
 section#hub {
-	@include clearfix;
-	margin-bottom: 15px;
-	padding: 0;
-	text-align: center;
+	display: grid;
+	grid-gap: 10px;
+	
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	grid-auto-rows: 1fr;
+	margin-bottom: 10px;
+
+	&.third {
+		grid-template-columns: repeat(3, minmax(0, 1fr))
+	}
+	
+	&.half {
+		grid-template-columns: repeat(2, minmax(0, 1fr))
+	}
 
 	figure {
 		color: black;
 		padding: 0;
 		margin: 0;
-		margin-bottom: 10px;
 		height: 6em;
-		margin-left:2%;
-		float: left;
 		background-position: center;
 		@include background-size(150%);
 		@include transition(background-size 1s ease-out);
 		@include rounded(5px);
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
-
-		&.third { width: 31%; }
-		&.half { width: 47%; }
+		width: 100%;
 
 		figcaption {
 			font-size: 16px;
 			color:black;
 			padding-top: 2.3em;
-			margin: 0;
+			text-align: center;
 			@include rounded(3px);
 			display: block;
 			width: 100%;
@@ -277,16 +282,22 @@ div.history-year {
 // Upcoming Events
 // --------------------------------------------------
 section#events {
-	@include clearfix();
-	width: 100%;
+	display: grid;
+	grid-gap: 10px;
+	
+	grid-template-columns: repeat(1, minmax(0, 1fr));
+	grid-auto-rows: 1fr;
+	margin-bottom: 10px;
+
+	@media #{$large} {
+		grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+	}
 
 	figure {
 		position: relative;
 		float: left;
 		overflow: hidden;
-		margin: 10px 1%;
 		padding: 5px 0 40px;
-		width: 100%;
 		background-color: white;
 		border-radius: 5px;
 		border-top: 5px solid #d2652d;
@@ -295,9 +306,10 @@ section#events {
 		font-size: 16px;
 		box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
 
+		width: 100%;
+
 		@media #{$large} {
 			min-height: 180px;
-			width: 48%;
 		}
 
 		*, *:before {
