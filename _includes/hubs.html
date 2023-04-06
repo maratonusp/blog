@@ -2,7 +2,7 @@
 {% if page.hubs %}
 <section id="hub" class="{{ page.hubs_class }}">
 	{% for hub in page.hubs %}
-		<a href="{{ hub.url | replace: '$', the_url }}"><figure style="background-image: url('{{ hub.img | replace: '$', the_url }}')" /><figcaption>{{ hub.text }}</figcaption></figure></a>
+		<a href="{{ hub.url | replace: '$', the_url }}"><figure style="background-position: {{ hub.img_position | default: 50% 50% }};background-image: url('{{ hub.img | replace: '$', the_url }}')" /><figcaption>{{ hub.text }}</figcaption></figure></a>
 	{% endfor %}
 </section>
 {% endif %}

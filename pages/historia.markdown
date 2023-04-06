@@ -8,9 +8,11 @@ hubs:
 - url: $/usp_mundial
   text: USP nas finais mundiais
   img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
+  img_position: 50% 30%
 - url: $/usp_historia
   text: USP na Maratona de Programação
-  img: https://graph.facebook.com/10155323417969118/picture
+  img: $/images/brasileira_2019/premiacao_tesao.jpg
+  img_position: 50% 30%
 hubs_class: half
 ---
 

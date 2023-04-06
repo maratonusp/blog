@@ -5,10 +5,12 @@ permalink: usp_mundial.html
 hubs:
 - url: $/historia
   text: História
-  img: https://graph.facebook.com/1052436444837068/picture
+  img: $/images/brasileira-2022/nathanzinho.jpg
+  img_position: 75% 25%
 - url: $/usp_historia
   text: USP na Maratona de Programação
-  img: https://graph.facebook.com/10155323417969118/picture
+  img: $/images/brasileira_2019/premiacao_tesao.jpg
+  img_position: 50% 30%
 hubs_class: half
 awards:
 - champion:
