@@ -25,13 +25,13 @@ A primeira prova da Seletiva Individual iniciará 00:00 do dia 17/04 (segunda-fe
 
 * A Seletiva Individual consistirá de várias provas que ocorrerão no decorrer do primeiro semestre de 2023.
 
-* Ela será realizada pelo [grupo da maratona no vjudge](https://vjudge.net/group/maratonusp). Para participar, é necessário criar uma conta nessa plataforma e se inscrever no grupo.
+* Ela será realizada pela plataforma [vjudge](https://vjudge.net). Para participar, é necessário criar uma conta nela.
 
 * Cada prova terá duas etapas: a Prova Oficial, e a Prova Upsolving. Ambas ficam abertas por uma semana.
 
 * A Prova Oficial deve ser realizada por cada competidor em um período contínuo de 4 horas (240 minutos).
 
-* Para fins de controle, cada Prova Oficial terá um formulário que deve ser preenchido com a indicação do ELAPSED TIME no vjudge do começo da realização da prova. __Quem não preencher o formulário de uma Prova Oficial específica não terá a pontuação desta prova considerada!__
+* Para fins de controle, cada Prova Oficial terá um formulário que deve ser preenchido com a indicação do tempo que constar como *ELAPSED* na página da prova no vjudge do começo de sua realização. __Quem não preencher o formulário de uma Prova Oficial específica não terá a pontuação desta prova considerada!__
 
 * É solicitado que cada participante só leia a Prova Oficial após o preenchimento do formulário, pois consideraremos isso como o início da participação na prova oficial.
 
