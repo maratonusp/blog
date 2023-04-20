@@ -47,9 +47,11 @@ A primeira prova da Seletiva Individual iniciará 00:00 do dia 17/04 (segunda-fe
 
 * Se o participante souber que um certo problema requer alguma técnica, estrutura de dados ou algoritmo, é permitido procurar na internet ou em livros sobre o conceito, tanto na Prova Oficial quanto na Prova Upsolving. No entanto, é proibido copiar e colar o código diretamente. Um dos objetivos dessas provas é o aprendizado de novos algoritmos pelo participante, de modo que ele entenda como aplicá-los aos problemas, e não somente da sua aplicação como "caixa preta".
 
-* Caso seja detectado alguma infração a um dos itens anteriores, o participante será automaticamente desclassificado.
+* Durante a Prova Oficial, os participantes não podem discutir sobre a ideia e o código dos problemas entre si.
 
 * Durante a Prova Upsolving, é altamente recomendado que os participantes colaborem por meio da troca de ideias e de dicas.
+
+* Caso seja detectado alguma infração a um dos itens anteriores, o participante será automaticamente desclassificado.
 
 ## Pontuação e critério de desempate
 
