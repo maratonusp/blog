@@ -35,7 +35,7 @@ A primeira prova da Seletiva Individual iniciará 00:00 do dia 17/04 (segunda-fe
 
 * É solicitado que cada participante só leia a Prova Oficial após o preenchimento do formulário, pois consideraremos isso como o início da participação na prova oficial.
 
-* Os links necessários para participar serão divulgados aqui no blog e no [Canal do MaratonUSP no Telegram](https://t.me/maratonusp).
+* Os links necessários para participar serão divulgados no [Canal do MaratonUSP no Telegram](https://t.me/maratonusp).
 
 * Depois da semana da Prova Oficial, a Prova Upsolving vai ser aberta no mesmo grupo do vjudge. Ela terá os mesmos problemas da Prova Oficial, mas eles podem ser resolvidos sem a restrição de 240 minutos. Todos os problemas não resolvidos na Prova Oficial que forem resolvidos na Prova Upsolving serão contabilizados.
 
