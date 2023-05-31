@@ -23,7 +23,7 @@ Para conferir o placar final e os problems do simulado, acesse os links abaixo:
 <!-- - [Prova na gym do Codeforces](http://codeforces.com/gym/103683) -->
 - [Placar final]({{ site.baseurl }}/assets/post_files/2023-05-30-resultado-simulado-2023/placar-simulado-2023.png)
 - [Enunciado da prova em português]({{ site.baseurl }}/assets/post_files/2023-05-30-resultado-simulado-2023/enunciado-pt.pdf)
-- [Prova no Codeforces](https://codeforces.com/gym/445016)
+- [Prova no Codeforces](https://codeforces.com/contestInvitation/fa94ccd16b482b28cc97f270af8e51b670900214)
 <!-- TODO: Adicionar links quando forem criados -->
 <!-- - [Editorial (PT)](...) -->
 <!-- - [Editorial (EN)](...) -->
