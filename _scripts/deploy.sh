@@ -21,4 +21,4 @@ echo '-----END OPENSSH PRIVATE KEY-----' >> ~/.ssh/maratona
 
 # Envia o arquivo pro usuário
 echo -e "\033[0;32m[Enviando arquivos para a rede IME]\033[0m"
-rsync -azv -e "ssh -i ~/.ssh/maratona" _site/ $USER:$DEST -r
+rsync -azv -e "ssh -o StrictHostKeyChecking=no -i ~/.ssh/maratona" _site/ $USER:$DEST -r
