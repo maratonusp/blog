@@ -18,6 +18,7 @@ DEST='/home/spec/maratona/www/'
 echo '-----BEGIN OPENSSH PRIVATE KEY-----' >> ~/.ssh/maratona
 echo $SSH_PRIVATE_KEY >> ~/.ssh/maratona
 echo '-----END OPENSSH PRIVATE KEY-----' >> ~/.ssh/maratona
+chmod 600 ~/.ssh/maratona
 
 # Envia o arquivo pro usuário
 echo -e "\033[0;32m[Enviando arquivos para a rede IME]\033[0m"
