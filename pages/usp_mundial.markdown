@@ -191,7 +191,7 @@ history:
   score: https://icpc.baylor.edu/community/results-1999
 ---
 
-Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](https://icpc.baylor.edu/) foram os seguintes:
+Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](https://icpc.global/) foram os seguintes:
 {% for award_hash in page.awards %}{% for award in award_hash %}
 {% capture times %}{% for team in page.history %}{% if team.awards contains award[0] %}, {{ team.year }}{% endif %}{% endfor %}){% endcapture %}
 {% if times != ")" %}
