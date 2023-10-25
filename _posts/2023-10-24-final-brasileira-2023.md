@@ -14,7 +14,7 @@ A USP teve um excelente resultado na [Final Brasileira da Maratona de Programaç
 
 De forma inédita a USP levou três times para final brasileira (veja a nova [regra 4](http://maratona.sbc.org.br/sobre/regras.html)). Além disso, essa é a primeira temporada em que o a novo campeonato regional da América Latina, [_Programadores de America_](https://pda2024.icpcmexico.org/pt/) (_The ICPC Latin America Championship_), passa a acontecer. A primeira edição será em Guadalajara, México de 14 a 19 de Março de 2024. Os times no Top 20 da América Latina [classificam](https://pda2024.icpcmexico.org/es/rules/) para essa etapa com um limite de dois times por instituição.
 
-Tivemos dois dos nossos times no Top 10 da América Latina, tendo classificado para a _Programadores de America_.
+Tivemos dois dos nossos times no Top 10 da América Latina, tendo classificado para a _Programadores de America_. Os times são treinados por Enrique Junchaya e Gabriel Morete de Azevedo.
 
 Somos muito gratos pelo apoio concedido pelas empresas Huawei e Vtex para que nossos times pudessem comparecer a essa gradiosa final!
 
@@ -26,14 +26,14 @@ Somos muito gratos pelo apoio concedido pelas empresas Huawei e Vtex para que no
 ![Codando & Coringando]({{ site.baseurl }}/images/brasileira-2023/codando.jpg)
 
 Time formado por Luan Arcanjo, Nathan Martins e Willian Mori.
-Resolveu 11 problemas com 1691 de penalidade. 2º no Brasil e 3º na América Latina, medalha de ouro, *classificado para _Programadores de America 2024_*.
+Resolveu 11 problemas com 1691 de penalidade. 2º no Brasil e 3º na América Latina, medalha de ouro, *classificado para Programadores de America 2024*.
 
 ## Pato
 
 ![Pato]({{ site.baseurl }}/images/brasileira-2023/pato.jpg)
 
 Time formado por Antonio Hachisuca, Matheus Ferreira e Willian Wang.
-Resolveu 8 problemas com 1008 de penalidade. 7º no Brasil e 9º na América Latina, medalha de prata, *classificado para _Programadores de America 2024_*.
+Resolveu 8 problemas com 1008 de penalidade. 7º no Brasil e 9º na América Latina, medalha de prata, *classificado para Programadores de America 2024*.
 
 O time pato foi o primeiro a resolver alguma questão na prova, com apenas 11 minutos! Esse fato foi relatado em uma [reportagem](https://globoplay.globo.com/v/12049806/).
 
@@ -46,4 +46,4 @@ Resolveu 2 problemas com 463 de penalidade. 56º no Brasil e 224º na América L
 
 ![Placar]({{ site.baseurl }}/images/brasileira-2023/placar.png)
 
-Confira o [mais informações](https://scorelatam.naquadah.com.br/latam-2023/).
+Confira [mais informações](https://scorelatam.naquadah.com.br/latam-2023/).
