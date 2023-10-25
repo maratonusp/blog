@@ -26,14 +26,14 @@ Somos muito gratos pelo apoio concedido pelas empresas Huawei e Vtex para que no
 ![Codando & Coringando]({{ site.baseurl }}/images/brasileira-2023/codando.jpg)
 
 Time formado por Luan Arcanjo, Nathan Martins e Willian Mori.
-Resolveu 11 problemas com 1691 de penalidade. Ficou em 2º no Brasil e 3º na América Latina, medalha de ouro, *classificado para a Programadores de America 2024*.
+Resolveu 11 problemas com 1691 de penalidade. Ficou em 2º no Brasil e 3º na América Latina, medalha de ouro, **classificado para a Programadores de America 2024**.
 
 ## Pato
 
 ![Pato]({{ site.baseurl }}/images/brasileira-2023/pato.jpg)
 
 Time formado por Antonio Hachisuca, Matheus Ferreira e Willian Wang.
-Resolveu 8 problemas com 1008 de penalidade. Ficou em 7º no Brasil e 9º na América Latina, medalha de prata, *classificado para a Programadores de America 2024*.
+Resolveu 8 problemas com 1008 de penalidade. Ficou em 7º no Brasil e 9º na América Latina, medalha de prata, **classificado para a Programadores de America 2024**.
 
 O time pato foi o primeiro a resolver alguma questão na prova, com apenas 11 minutos! Esse fato foi relatado em uma [reportagem](https://globoplay.globo.com/v/12049806/).
 
