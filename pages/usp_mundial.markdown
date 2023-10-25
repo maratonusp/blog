@@ -34,6 +34,15 @@ awards:
     color: blue
     name: Campeão da América Latina
 history:
+- title: Dhaka, Bangladesh, Novembro de 2022
+  year: 2022
+  members: Jiang Zhi, Lucas Harada e Victor Lamarca 
+  coaches: Nathan Proença
+  img: images/kondzhila-world-finals-2022.jpg
+  img_href: images/kondzhila-world-finals-2022.jpg
+  place: 90
+  score: https://cphof.org/standings/icpc/2021
+
 - title: Moscou, Rússia, Outubro de 2021
   year: 2021
   members: Arthur Nascimento, César Guimarães e Giovanna Kobus Conrado
