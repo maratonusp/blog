@@ -3,13 +3,25 @@
 Esse é o [blog do maratonUSP](http://www.ime.usp.br/~maratona/) feito na plataforma [Jekyll](http://jekyllrb.com) baseado no tema [neo-hpstr](https://github.com/aron-bordin/neo-hpstr-jekyll-theme). Para o apoio às maratonas de programação na USP.
 
 # Instalação
+
+## Docker
+
+A forma mais fácil (e segura) de compilar o site manualmente é usando Docker.
+1. Instale o Docker (na própria loja do linux)
+2. `$ make site`
+3. Substitua os arquivos da paste \_site na pasta www do servidor remoto
+
+Note que o Docker vai gerar os arquivos com o path do servidor remoto.
+
+## Sem docker 
+
 1. Instale o ruby e o rubygems (eu prefiro fazer isso pelo [rvm](https://rvm.io/), é o jeito mais fácil)
 2. Instale o bundler `gem install bundle`
 3. Clone o projeto
 3. Entre na pasta do projeto
 4. Instale as dependências `bundle install`
 
-# Rodando
+### Rodando
 Com o jekyll instalado, rode `bundle exec jekyll serve` e visite [http://localhost:4000](http://localhost:4000). Voilá.
 
 # Criando um post
