@@ -1,8 +1,26 @@
 {% capture the_url %}{% include url %}{% endcapture %}
 {% if page.hubs %}
-<section id="hub" class="{{ page.hubs_class }}">
-	{% for hub in page.hubs %}
-		<a href="{{ hub.url | replace: '$', the_url }}"><figure style="background-position: {{ hub.img_position | default: 50% 50% }};background-image: url('{{ hub.img | replace: '$', the_url }}')" /><figcaption>{{ hub.text }}</figcaption></figure></a>
+	<!-- Manual hubs -->
+	<section id="hub" class="{{ page.hubs_class }}">
+		{% for hub in page.hubs %}
+			<a href="{{ hub.url | replace: '$', the_url }}"><figure style="background-position: {{ hub.img_position | default: 50% 50% }};background-image: url('{{ hub.img | replace: '$', the_url }}')" /><figcaption>{{ hub.text }}</figcaption></figure></a>
+		{% endfor %}
+	</section>
+{% endif %}
+{% if page.autohub %}
+	<!-- Automatic hubs -->
+{% assign hub_config = site.hubs | where: "category", page.autohub.category | first %}
+	<section id="hub" class="{{hub_config.class}}">
+	{% for other in site.pages %}
+		{% if page.autohub.category == other.autohub.category and page.permalink != other.permalink %}
+			<a href="{{ the_url }}/{{ other.permalink }}">
+				<figure style="background-position: {{ other.autohub.img_position | default: 50% 50% }};background-image: url('{{ other.autohub.img | replace: '$', the_url }}')" />
+				<figcaption>
+					{{ other.autohub.text }}
+				</figcaption>
+				</figure>
+			</a>
+		{% endif %}
 	{% endfor %}
-</section>
+	</section>
 {% endif %}
