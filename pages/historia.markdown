@@ -4,19 +4,14 @@ layout: page
 permalink: historia
 categories:
 - miscelania
-hubs:
-- url: $/usp_mundial
-  text: USP nas finais mundiais
-  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
-  img_position: 50% 30%
-- url: $/usp_historia
-  text: USP na Maratona de Programação
-  img: $/images/brasileira-2019/premiacao_tesao.jpg
-  img_position: 50% 30%
-hubs_class: half
+autohub:
+  category: historia
+  text: História
+  img: $/images/brasileira-2022/nathanzinho.jpg
+  img_position: 75% 25%
 ---
 
-O que foi a maratona na graduação dos nossos ex-competidores?  
+O que foi a maratona na graduação dos nossos ex-competidores?
 
 Veja eles contando sobre seu envolvimento, experiência e motivação em participar das competições de programação, e ainda, inteiramente grátis, veja também as vantagens de se treinar ditas por quem sentiu na pele a emoção de ganhar um balão.
 
