@@ -17,7 +17,7 @@ defaults:
 
 hubs:
   - category: historia
-    class: half
+    class: third
 
 menu:
 #  - title: 'Home'
