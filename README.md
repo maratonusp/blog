@@ -13,7 +13,7 @@ A forma mais fácil (e segura) de compilar o site manualmente é usando Docker.
 
 Note que o Docker vai gerar os arquivos com o path do servidor remoto.
 
-## Sem docker 
+## Sem docker
 
 1. Instale o ruby e o rubygems (eu prefiro fazer isso pelo [rvm](https://rvm.io/), é o jeito mais fácil)
 2. Instale o bundler `gem install bundle`
@@ -37,4 +37,5 @@ Olhe no começo do arquivo `index.html`, na parte `<section id="events">` e adic
 O site usa o [template neo-hpstr](https://github.com/aron-bordin/neo-hpstr-jekyll-theme) que tem um tutorial mais completo. Uma cópia dele está neste repositório em `theme-setup/index.md`. Para entender como alterar o template e tudo o mais, é interessante ler aquilo.
 
 # Atualizando o servidor
-Dê push na branch `master` que o [http://travis-ci.org](Travis) cuida do resto.
+Dê push na branch `master` que github actions vai cuidar de tudo.
+Ele é dividido em estagios: Build e Deploy. Se o Build falhar você fez algo errado. Se o Deploy falhar é porque o server do ime saiu do ar ou a chave de SSH quebrou por algum motivo.
