@@ -47,6 +47,7 @@ history:
     rank-sub: 3
     awards:
     - gold
+    - latam
   - members: Antonio Hachisuca, Matheus Ferreira e Willian Wang
     name: pato
     img: /~maratona/images/brasileira-2023/pato.jpg
@@ -54,6 +55,7 @@ history:
     rank-sub: 12
     awards:
     - silver
+    - latam
   - members: Lais Rossman, Mariana Misu e Maysa Claudino da Silva
     name: Baião de Dois e Dogão de Osasco
     img: /~maratona/images/brasileira-2023/baiao.jpg
