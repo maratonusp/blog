@@ -24,11 +24,41 @@ awards:
     symbol: star
     color: "#cd7f32"
     name: Medalha de bronze
+- latam:
+    symbol: globe
+    color: red
+    name: Classificado para a LATAM    
 - wf:
     symbol: globe
     color: green
     name: Classificado para a ICPC
 history:
+
+- title: Chapecó, Outubro 2023
+  url: /~maratona/brasileira-2023
+  year: 2023
+  coaches: Gabriel Morete e Enrique Junchaya
+  text: Sobre a [sub-regional](/~maratona/subregional-2023). Essa foi a final brasileira de 2023.
+  teams:
+  - members:  Luan Arcanjo, Nathan Martins e Willian Mori
+    name: Codando & Coringando
+    img: /~maratona/images/brasileira-2023/codando.jpg
+    rank-final: 2
+    rank-sub: 3
+    awards:
+    - gold
+  - members: Antonio Hachisuca, Matheus Ferreira e Willian Wang
+    name: pato
+    img: /~maratona/images/brasileira-2023/pato.jpg
+    rank-final: 7
+    rank-sub: 12
+    awards:
+    - silver
+  - members: Lais Rossman, Mariana Misu e Maysa Claudino da Silva
+    name: Baião de Dois e Dogão de Osasco
+    img: /~maratona/images/brasileira-2023/baiao.jpg
+    rank-final: 56
+    rank-sub: 125
 
 - title: Campo Grande, Março 2023
   url: /~maratona/brasileira-2022
