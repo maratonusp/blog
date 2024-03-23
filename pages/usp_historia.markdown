@@ -891,11 +891,13 @@ Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](
 {% endif %}
 {% endfor %}{% endfor %}
 
+Em 2023 foi criado o [Campeonato Latino Americano da ICPC](https://icpc.global/regionals/finder/Latin-America-Champ). Com isso, a partir de 2023, os não classificam diretamente para o mundial. [Veja aqui os desempenhos do USP na LATAM](https://www.ime.usp.br/~maratona/usp_latam.html)
+
 Oficialmente, a Maratona não entregava medalhas antes de 2002. Apesar disso, consideramos aqui que os três primeiros colocados levaram medalhas de ouro, os três seguintes de prata e os três seguintes de bronze.
 
 Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona.
 
-Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonusp) ou um pull request no [Github](https://github.com/maratonusp/blog).
+Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Instagram](https://www.instagram.com/maratonusp/) ou um pull request no [Github](https://github.com/maratonusp/blog).
 
 {% for year in page.history %}
 <div class="history-year">
