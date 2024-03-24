@@ -6,19 +6,20 @@
 ## POR QUE USAR ESTE SCRIPT
 # Travis
 
-echo -e "\033[0;32m[Publicando commit]\033[0m"
-if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
-	echo -e "\033[0;33m[Passo ignorado: Pull Request]\033[0m"
-	exit 0
-fi
+# echo -e "\033[0;32m[Publicando commit]\033[0m"
+# if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
+# 	echo -e "\033[0;33m[Passo ignorado: Pull Request]\033[0m"
+# 	exit 0
+# fi
 
-USER=$USER_IME@sites.ime.usp.br
-DEST=/home/gradmac/$USER_IME/_temp_site_maratona/
+USER='maratona@sites.ime.usp.br'
+DEST='/home/spec/maratona/www/'
+
+echo '-----BEGIN OPENSSH PRIVATE KEY-----' >> ~/.ssh/maratona
+echo $SSH_PRIVATE_KEY >> ~/.ssh/maratona
+echo '-----END OPENSSH PRIVATE KEY-----' >> ~/.ssh/maratona
+chmod 600 ~/.ssh/maratona
 
 # Envia o arquivo pro usuário
 echo -e "\033[0;32m[Enviando arquivos para a rede IME]\033[0m"
-rsync -e "sshpass -p $PSWD ssh -o StrictHostKeyChecking=no" _site/ $USER:$DEST -r
-
-# Envia o arquivo para o servidor final
-echo -e "\033[0;32m[Copiando arquivos para o servidor final]\033[0m"
-sshpass -p $PSWD ssh -o StrictHostKeyChecking=no $USER USER_IME=$USER_IME 'bash -s' < ./_scripts/sync.sh
+rsync -azv -e "ssh -o StrictHostKeyChecking=no -i ~/.ssh/maratona" _site/ $USER:$DEST -r

@@ -2,16 +2,11 @@
 title: História da USP na Maratona de Programação
 layout: page
 permalink: usp_historia.html
-hubs:
-- url: $/usp_mundial
-  text: USP nas finais mundiais
-  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
+autohub:
+  category: historia
+  text: USP na Maratona de Programação
+  img: $/images/brasileira-2019/premiacao_tesao.jpg
   img_position: 50% 30%
-- url: $/historia
-  text: História
-  img: $/images/brasileira-2022/nathanzinho.jpg
-  img_position: 75% 25%
-hubs_class: half
 awards:
 - champion:
     symbol: trophy
@@ -29,11 +24,43 @@ awards:
     symbol: star
     color: "#cd7f32"
     name: Medalha de bronze
+- latam:
+    symbol: globe
+    color: red
+    name: Classificado para a LATAM    
 - wf:
     symbol: globe
     color: green
     name: Classificado para a ICPC
 history:
+
+- title: Chapecó, Outubro 2023
+  url: /~maratona/brasileira-2023
+  year: 2023
+  coaches: Gabriel Morete e Enrique Junchaya
+  text: Sobre a [sub-regional](/~maratona/subregional-2023). Essa foi a final brasileira de 2023.
+  teams:
+  - members:  Luan Arcanjo, Nathan Martins e Willian Mori
+    name: Codando & Coringando
+    img: /~maratona/images/brasileira-2023/codando.jpg
+    rank-final: 2
+    rank-sub: 3
+    awards:
+    - gold
+    - latam
+  - members: Antonio Hachisuca, Matheus Ferreira e Willian Wang
+    name: pato
+    img: /~maratona/images/brasileira-2023/pato.jpg
+    rank-final: 7
+    rank-sub: 12
+    awards:
+    - silver
+    - latam
+  - members: Lais Rossman, Mariana Misu e Maysa Claudino da Silva
+    name: Baião de Dois e Dogão de Osasco
+    img: /~maratona/images/brasileira-2023/baiao.jpg
+    rank-final: 56
+    rank-sub: 125
 
 - title: Campo Grande, Março 2023
   url: /~maratona/brasileira-2022
@@ -864,11 +891,13 @@ Os resultados dos times da USP (Campus Butantã) na [Maratona de Programação](
 {% endif %}
 {% endfor %}{% endfor %}
 
+Em 2023 foi criado o [Campeonato Latino Americano da ICPC](https://icpc.global/regionals/finder/Latin-America-Champ). Com isso, a partir de 2023, os não classificam diretamente para o mundial. [Veja aqui os desempenhos do USP na LATAM](https://www.ime.usp.br/~maratona/usp_latam.html)
+
 Oficialmente, a Maratona não entregava medalhas antes de 2002. Apesar disso, consideramos aqui que os três primeiros colocados levaram medalhas de ouro, os três seguintes de prata e os três seguintes de bronze.
 
 Infelizmente, não possuímos todas as informações sobre os times da Poli e do Curso de Ciências Moleculares que participaram das regionais e sub-regionais da Maratona.
 
-Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Facebook](https://www.facebook.com/maratonusp) ou um pull request no [Github](https://github.com/maratonusp/blog).
+Se você encontrar algum erro ou puder contribuir com mais informações para esta página, por favor, nos mande uma mensagem pelo [Instagram](https://www.instagram.com/maratonusp/) ou um pull request no [Github](https://github.com/maratonusp/blog).
 
 {% for year in page.history %}
 <div class="history-year">

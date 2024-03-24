@@ -15,22 +15,22 @@ comments: false
 hubs:
 - url: $/listas
   text: Listas de problemas
-  img: "$/images/wf-2017.jpg"
+  img: "$/images/logos/logo_listas.jpg"
 - url: $/contato
   text: Fale conosco
-  img: https://graph.facebook.com/1507046189376089/picture
+  img: "$/images/logos/logo_contato.png"
 - url: $/seletivas
   text: Seletivas
-  img: https://graph.facebook.com/1507046532709388/picture
-- url: $/contests.html
-  text: Contests
-  img: https://graph.facebook.com/1052436444837068/picture
+  img: "$/images/seletiva-2022/20220917_191912.jpg"
+- url: http://3.21.204.121:3000/dojo
+  text: Online Judge
+  img: "$/images/logos/logo_OJ.png"
 - url: https://www.youtube.com/channel/UCB_SQAulqgmQ0Vfww9wzfWA
   text: Aulas
-  img: https://www.youtube.com/yt/about/media/images/brand-resources/icons/YouTube_icon_full-color.svg
+  img: "$/images/logos/logo_aulas.png"
 - url: "$/historia"
   text: História
-  img: https://graph.facebook.com/1052436444837068/picture
+  img: "$/images/logos/logo_historia.jpg"
 hubs_class: third
 ---
 {% if paginator.previous_page %}
@@ -54,7 +54,7 @@ hubs_class: third
         </figcaption>
     </figure>
 </section>
-	{% include hubs.html %}
+  {% include hubs.html %}
 {% endif %}
 
 {% for post in paginator.posts %}
@@ -125,3 +125,4 @@ hubs_class: third
     Next
   {% endif %}
 </div><!-- /.pagination -->
+

@@ -1,4 +1,5 @@
 _site
+site.tar.gz
 .DS_Store
 *.sublime-project
 *.sublime-workspace

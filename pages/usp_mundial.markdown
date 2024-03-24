@@ -2,16 +2,11 @@
 title: USP na Final Mundial
 layout: page
 permalink: usp_mundial.html
-hubs:
-- url: $/historia
-  text: História
-  img: $/images/brasileira-2022/nathanzinho.jpg
-  img_position: 75% 25%
-- url: $/usp_historia
-  text: USP na Maratona de Programação
-  img: $/images/brasileira-2019/premiacao_tesao.jpg
+autohub:
+  category: historia
+  text: USP nas finais mundiais
+  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
   img_position: 50% 30%
-hubs_class: half
 awards:
 - champion:
     symbol: trophy
@@ -34,6 +29,15 @@ awards:
     color: blue
     name: Campeão da América Latina
 history:
+- title: Dhaka, Bangladesh, Novembro de 2022
+  year: 2022
+  members: Jiang Zhi, Lucas Harada e Victor Lamarca
+  coaches: Nathan Proença
+  img: images/kondzhila-world-finals-2022.jpg
+  img_href: images/kondzhila-world-finals-2022.jpg
+  place: 90
+  score: https://cphof.org/standings/icpc/2021
+
 - title: Moscou, Rússia, Outubro de 2021
   year: 2021
   members: Arthur Nascimento, César Guimarães e Giovanna Kobus Conrado
@@ -182,7 +186,7 @@ history:
   score: https://icpc.baylor.edu/community/results-1999
 ---
 
-Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](https://icpc.baylor.edu/) foram os seguintes:
+Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](https://icpc.global/) foram os seguintes:
 {% for award_hash in page.awards %}{% for award in award_hash %}
 {% capture times %}{% for team in page.history %}{% if team.awards contains award[0] %}, {{ team.year }}{% endif %}{% endfor %}){% endcapture %}
 {% if times != ")" %}
