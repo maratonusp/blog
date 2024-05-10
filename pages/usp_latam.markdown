@@ -5,7 +5,7 @@ permalink: usp_latam.html
 autohub:
   category: historia
   text: USP nas finais latino americanas
-  img: mages/world_finals/codando_latam.jpg
+  img: images/latam_finals/codando_latam.jpg
   img_position: 50% 30%
 awards:
 - champion:
@@ -33,8 +33,8 @@ history:
   year: 2024
   members: Luan Arcanjo, Nathan Martins e Willian Mori
   coaches: Enrique Junchaya e Gabriel Morete de Azevedo
-  img: images/world_finals/codando_latam.jpg
-  img_href: images/world_finals/codando_latam.jpg
+  img: images/latam_finals/codando_latam.jpg
+  img_href: images/latam_finals/codando_latam.jpg
   place: 4
   score: https://scorelatam.naquadah.com.br/pda24/
   awards:
