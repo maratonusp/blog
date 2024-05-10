@@ -24,19 +24,19 @@ awards:
     symbol: star
     color: "#cd7f32"
     name: Medalha de bronze
-- latinamerica:
-    symbol: certificate
-    color: blue
-    name: Campeão da América Latina
+- wf:
+    symbol: globe
+    color: green
+    name: Classificado para a ICPC
 history:
 - title: Guadalajara, México, Março de 2024
   year: 2024
-  members: Aluno 1, Aluno 2 e Aluno 3
+  members: Luan Arcanjo, Nathan Martins e Willian Mori
   coaches: Enrique Junchaya e Gabriel Morete de Azevedo
-  img: images/kondzhila-world-finals-2022.jpg
-  img_href: images/kondzhila-world-finals-2022.jpg
-  place: ??
-  score: https://cphof.org/standings/icpc/2021
+  img: images/.jpg
+  img_href: images/world_finals/codando_latam.webp
+  place: 4
+  score: https://scorelatam.naquadah.com.br/pda24/
 ---
 
 Os resultados de times da USP (Campus Butantã) nas [Finais Latino-americanas do ICPC](https://icpc.global/regionals/finder/Latin-America-Champ) foram os seguintes:
