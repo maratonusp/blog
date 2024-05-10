@@ -37,6 +37,9 @@ history:
   img_href: images/world_finals/codando_latam.webp
   place: 4
   score: https://scorelatam.naquadah.com.br/pda24/
+  awards:
+    - wf
+    - gold
 ---
 
 Os resultados de times da USP (Campus Butantã) nas [Finais Latino-americanas do ICPC](https://icpc.global/regionals/finder/Latin-America-Champ) foram os seguintes:

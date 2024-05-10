@@ -29,12 +29,21 @@ awards:
     color: blue
     name: Campeão da América Latina
 history:
+- title: Luxor, Egito, Agosto de 2024
+  year: 2023
+  members: Gabriel Morete de Azevedo, Thiago Oliveira, Lucas Harada
+  coaches: Germano Hüning e Enrique Junchaya
+  img: images/world_finals/ribamar_wf.jpg
+  img_href: images/world_finals/ribamar_wf.jpg
+  place: 72
+  score: https://cphof.org/standings/icpc/2022
+
 - title: Dhaka, Bangladesh, Novembro de 2022
   year: 2022
   members: Jiang Zhi, Lucas Harada e Victor Lamarca
   coaches: Nathan Proença
-  img: images/kondzhila-world-finals-2022.jpg
-  img_href: images/kondzhila-world-finals-2022.jpg
+  img: images/world_finals/hazila_wf.jpg
+  img_href: images/world_finals/hazila_wf.jpg
   place: 90
   score: https://cphof.org/standings/icpc/2021
 
