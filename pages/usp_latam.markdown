@@ -33,8 +33,8 @@ history:
   year: 2024
   members: Luan Arcanjo, Nathan Martins e Willian Mori
   coaches: Enrique Junchaya e Gabriel Morete de Azevedo
-  img: images/.jpg
-  img_href: images/world_finals/codando_latam.webp
+  img: images/world_finals/codando_latam.jpg
+  img_href: images/world_finals/codando_latam.jpg
   place: 4
   score: https://scorelatam.naquadah.com.br/pda24/
   awards:
