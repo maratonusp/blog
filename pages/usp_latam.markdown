@@ -5,7 +5,7 @@ permalink: usp_latam.html
 autohub:
   category: historia
   text: USP nas finais latino americanas
-  img: https://www.ime.usp.br/~cef/maratonaUSP/usp-sp.jpg
+  img: mages/world_finals/codando_latam.jpg
   img_position: 50% 30%
 awards:
 - champion:
