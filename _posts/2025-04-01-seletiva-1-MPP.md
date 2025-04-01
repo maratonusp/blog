@@ -12,4 +12,4 @@ Nesse domingo, 06/04, às 14h no CEC teremos a Seletiva para a [I Maratona Pauli
 
 A MPP é inspirada no ICPC (International Collegiate Programming Contest) - a maior competição de estudantes universitários de programação do mundo, seguindo seu modelo de competição, de prova e de formação de times. Sendo assim, é um evento preparatório para estudantes do estado de São Paulo que queiram participar desta competição. Em 2025, ocorrerá na Universidade Federal do ABC, campus Santo André, no dia 17 de maio!
 
-Inscreva-se para a seletiva [aqui]https://forms.gle/Raq58KPE9EcaxyEK8).
+Inscreva-se para a seletiva [aqui](https://forms.gle/Raq58KPE9EcaxyEK8).
