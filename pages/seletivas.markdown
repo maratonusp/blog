@@ -11,6 +11,8 @@ A primeira aplicação da seletiva interna ocorreu em 1997 e, desde então, é r
 
 <h2> Seletivas anteriores </h2>
 <ul>
+  <li> <a href="resultado-seletiva-2024"> Seletiva USP 2024 </a> | <a href="https://codeforces.com/gym/105297"> Codeforces Gym </a> </li>
+  <li> Seletiva USP 2023 | <a href="https://codeforces.com/gym/104505"> Codeforces Gym </a> </li>
   <li> <a href="resultado-seletiva-2022"> Seletiva USP 2022 </a> | <a href="https://codeforces.com/gym/103934"> Codeforces Gym </a> </li>
   <li> Seletiva USP 2019 | <a href="http://codeforces.com/gym/102299"> Codeforces Gym </a> </li>
   <li> <a href="seletiva-2018"> Seletiva USP 2018 </a> | <a href="http://codeforces.com/gym/101879"> Codeforces Gym </a> </li>
