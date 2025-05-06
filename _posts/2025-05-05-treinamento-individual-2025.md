@@ -13,7 +13,7 @@ O Treinamento Individual de 2025 consiste de várias provas cuja intenção prin
 
 Essa provas também têm uma intenção secundária: os melhores competidores dessas provas serão selecionados para representar a USP na Maratona de Programação. Existe outra prova, a Seletiva USP, que seleciona equipes, formadas a priori, para representar a USP na Maratona.
 
-A primeira prova do Treinamento Individual iniciará 00:00 do dia 29/04 (segunda-feira). Já a Seletiva USP será realizada no dia 10/08.
+A primeira prova do Treinamento Individual iniciará 00:00 do dia 12/05 (segunda-feira).
 
 ## Regras gerais
 
