@@ -83,6 +83,7 @@ history:
 
 - title: Phuket, Tailândia, maio de 2016
   year: 2016
+  name: Sua mãe
   members: Yan Soares Couto, Giovana Gomes Delfino e Gabriel Fernandes de Oliveira
   coaches: Renzo Gomez e Marcos Kawakami
   img: https://farm8.staticflickr.com/7588/27009070516_a8383c5a0b_m.jpg
@@ -91,6 +92,7 @@ history:
 
 - title: Marraquexe, Marrocos, maio de 2015
   year: 2015
+  name: Bitelo
   members: Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini
   coaches: Marcio Oshiro e André Hahn Pereira
   img: https://farm2.staticflickr.com/1596/25791248314_b714002e10_m.jpg
@@ -99,6 +101,7 @@ history:
 
 - title: Ecaterimburgo, Rússia, junho de 2014
   year: 2014
+  name: Bitelo
   members: Marcos Massayuki Kawakami, Antonio Roberto de Campos Junior e Stefano Tommasini
   coaches: Marcio Oshiro e André Hahn Pereira
   img: https://farm2.staticflickr.com/1671/26606492002_1c1ac0d258_m.jpg
@@ -107,6 +110,7 @@ history:
 
 - title: São Petesburgo, Rússia, julho de 2013
   year: 2013
+  name: Vruum
   members: Guilherme Philippe Figueiredo, Marcelo Sales, André Amaral de Souza
   coaches: Marcio Oshiro
   img: https://farm2.staticflickr.com/1513/26699904735_fdf7e83319.jpg
@@ -115,6 +119,7 @@ history:
 
 - title: Varsóvia, Polônia, maio de 2012
   year: 2012
+  name: Up
   members: Cear Gamboa Machado, Leonardo Marchetti e Lucas Piva
   coaches: Marcio Oshiro
   img: https://farm2.staticflickr.com/1530/26442781060_dd92d07f28_m.jpg
@@ -123,6 +128,7 @@ history:
 
 - title: Orlando, Estados Unidos, abril de 2011
   year: 2011
+  name: RGA
   members: Ricardo Hahn Pereira, André Hahn Pereira e Gustavo Paccianotto Gouveia
   coaches: Marcio Oshiro
   img: https://farm2.staticflickr.com/1697/26110037414_f0ecc2e8f8.jpg
@@ -132,6 +138,7 @@ history:
 
 - title: Orlando, Estados Unidos, abril de 2011
   year: 2011
+  name: Isso é tudo pessoal
   members: Atol Fortin, Natan Costa Lima e Tiago Madeira
   coaches: Wanderley Guimarães
   img: https://farm2.staticflickr.com/1719/26112411703_0761318b13_m.jpg
@@ -141,6 +148,7 @@ history:
 
 - title: Harbin, China, fevereiro de 2010
   year: 2010
+  name: é muita grana
   members: Raphael Ribas, Joel Uchoa e Gabriel Peixoto
   coaches: Wanderley Guimarães
   img: https://farm2.staticflickr.com/1713/26112795983_f6d9307c74_o.jpg
@@ -150,6 +158,7 @@ history:
 
 - title: Estocolmo, Suécia, abril de 2009
   year: 2009
+  name: Guerreiros da Poli
   members: Ricardo Pereira, Gustavo Gouveia e Victor Lassance
   coaches: Carlos Stein Naves de Brito
   img: http://maratona.ime.usp.br/hist/2008/wf09/poli.jpg
@@ -159,6 +168,7 @@ history:
 
 - title: Banff, Canadá, abril de 2008
   year: 2008
+  name: Who wants to code forever?
   members: Cristiane Maria Sato, Guilherme Azevedo Silveira e Leonardo B. Facci
   coaches: Wanderley Guimarães
   img: https://farm2.staticflickr.com/1445/26129763904_dd7c3d8cb9_o.jpg
@@ -168,6 +178,7 @@ history:
 
 - title: Tóquio, Japão, março de 2007
   year: 2007
+  name: A volta dos que não foram
   members: Fabricio S. Benevides, Leonardo B. Facci e Guilherme Azevedo Silveira
   coaches: Carlos Henrique Cardonha
   img: http://maratona.ime.usp.br/hist/2006/ime-usp.jpg
@@ -177,6 +188,7 @@ history:
 
 - title: Honolu, Hawaii, março de 2002
   year: 2002
+  name: IME USP A
   members: Pedro Luis Eira Velha, Carlos Henrique Cardonha e Marcel Kenji de Carli Silva
   coaches: Aritanan B. G. Gruber
   text: O time ganhou o "Java Challenge".
@@ -187,6 +199,7 @@ history:
 
 - title: Vancouver, Canadá, março de 2001
   year: 2001
+  name: IME USP A
   members: Pedro Luis Eira Velha, Ricardo Bueno Cordeiro e Tiago Tagliari Martinez
   coaches: Aritanan B. G. Gruber
   awards:
@@ -199,6 +212,7 @@ history:
 
 - title: Eindhoven, Holanda, março de 1999
   year: 1999
+  name: IME-USP
   members: Eduardo Garcia de Freitas, Marcio Grossi de Almeida e Sergio Gabriel Tavares
   coaches: Aritanan B. G. Gruber
   awards:
