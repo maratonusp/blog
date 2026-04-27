@@ -29,6 +29,15 @@ awards:
     color: blue
     name: Campeão da América Latina
 history:
+- title: Baku, Azerbaijão, Setembro de 2025
+  year: 2025
+  members: Willian Miura Mori, Nathan Martins e Antonio Hachisuca
+  coaches: Enrique Junchaya e Yan Couto
+  img: /~maratona/images/wf2025-wm.jpg
+  img_href: /~maratona/images/wf2025-wm.jpg
+  place: 102
+  score: https://worldfinals.icpc.global/scoreboard/2025/finals/index.html
+
 - title: Luxor, Egito, Agosto de 2024
   year: 2023
   members: Gabriel Morete de Azevedo, Thiago Oliveira, Lucas Harada

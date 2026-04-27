@@ -31,7 +31,7 @@ awards:
 - wf:
     symbol: globe
     color: green
-    name: Classificado para a ICPC
+    name: Classificado para a WF
 history:
 
 - title: São Paulo, Novembro 2025

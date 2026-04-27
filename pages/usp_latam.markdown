@@ -27,8 +27,30 @@ awards:
 - wf:
     symbol: globe
     color: green
-    name: Classificado para a ICPC
+    name: Classificado para a WF
 history:
+- title: Asunción, Paraguai, Março de 2026
+  year: 2026
+  members: Pedro Miguelez, Cauê Fornielles da Costa e Pedro Matheus Simões Ferreira
+  coaches: Yan Soares Couto
+  img: /~maratona/images/latam2026-heres.jpg
+  img_href: /~maratona/images/latam2026-heres.jpg
+  place: 30
+  score: https://scorelatam.naquadah.com.br/pda26/
+
+- title: Salvador, Brasil, Março de 2025
+  year: 2025
+  members: Willian Miura Mori, Nathan Martins e Antonio Hachisuca
+  coaches: Enrique Junchaya
+  img: /~maratona/images/latam2025-wm.jpg
+  img_href: /~maratona/images/latam2025-wm.jpg
+  place: 1
+  score: https://scorelatam.naquadah.com.br/pda25/
+  awards:
+    - wf
+    - gold
+    - champion
+
 - title: Guadalajara, México, Março de 2024
   year: 2024
   members: Luan Arcanjo, Nathan Martins e Willian Mori
