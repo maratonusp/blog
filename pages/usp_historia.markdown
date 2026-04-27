@@ -34,6 +34,93 @@ awards:
     name: Classificado para a ICPC
 history:
 
+- title: São Paulo, Novembro 2025
+  url: /~maratona/brasileira-2025
+  year: 2025
+  coaches: Yan Soares Couto
+  text: Sobre a [sub-regional](/~maratona/subregional-2025). Essa foi a final brasileira de 2025.
+  teams:
+  - members: Pedro Miguelez, Cauê Fornielles da Costa e Pedro Matheus Simões Ferreira
+    name: "Here's my number: 998244353, so call me maybe"
+    img: /~maratona/images/brasileira-2025/heres-my-number.jpg
+    rank-final: 10
+    rank-sub: 21
+    awards:
+    - silver
+    - latam
+  - members: Mariana Tiemi Silva Misu, Laís Nuto Rossman e Maysa Cristina Claudino da Silva
+    name: Baião de dois, Dogão de Osasco e Pastel de feira
+    img: /~maratona/images/brasileira-2025/baiao.jpg
+    rank-final: 47
+    rank-sub: 77
+  - members: Fernando Graminholi Gonçalves, Guilherme Kiyotoshi Kavakami e Murilo Maeda Kataoka
+    name: Arqui-inimigos do Veo Lalente
+    rank-sub: 28
+  - members: Arthur Henrique Paixão Santos, Marcelo Machado Lage e Vladimir Arauzo Huisa
+    name: Torcicolo
+    rank-sub: 40
+  - members: Vinícius Lira de Freiras, Octavio Gomes Carneiro e Fernando Gouveia Lima
+    name: "/\\_/\\ (= ._.) / >  \\>"
+    rank-sub: 43
+  - members: Daniel Yugo Sesoko, Guilherme Ryuji Osato e Sara Miyuka Abe
+    name: Please please please don't prove I'm wrong
+    rank-sub: 52
+  - members: Luan Pereira Pinheiro, Gabriel Dimant e Marcus Peixoto
+    name: Hoje o Marcus veio
+    rank-sub: 67
+  - members: Thainara de Assis Goulart, Rachel Loriato Nazareth Franco e Alan Hahn Pereira
+    name: ART
+    rank-sub: 69
+  - members: Fernando Drekner de Souza, Renata Meyer Hobold e Thainara de Assis Goulart
+    name: Busp provisório
+    rank-sub: 101
+  - members: Francisco Nassif Membrive, Guilherme Luiz Pereira de Almeida e Vinicius Gomes Paz
+    name: crias do yoshi
+    rank-sub: 178
+
+- title: João Pessoa, Novembro 2024
+  url: /~maratona/brasileira-2024
+  year: 2024
+  coaches: Enrique Junchaya
+  text: Sobre a [sub-regional](/~maratona/subregional-2024). Essa foi a final brasileira de 2024.
+  teams:
+  - members: Willian Miura Mori, Nathan Martins e Antonio Hachisuca
+    name: Faça o WM
+    img: /~maratona/images/brasileira-2024/faca-o-wm.jpg
+    rank-final: 1
+    rank-sub: 2
+    awards:
+    - champion
+    - gold
+    - latam
+  - members: Gabriel Caiaffa, Matheus Paulo e William Wang
+    name: desculpa mae eu uso FFT
+    rank-sub: 22
+  - members: Pedro Miguelez, Cauê Fornielles da Costa e Marcelo Machado Lage
+    name: sabrina por favor deixa eu ver as crianças
+    rank-sub: 36
+  - members: Otavio de Oliveira Silva, Pedro Matheus Simões Ferreira e Rafael Kaiki Sesoko
+    name: Patrol Fighters Z
+    rank-sub: 43
+  - members: Roberto Crepaldi Neto, Vladimir Arauzo Huisa e Arthur Henrique Paixão Santos
+    name: pescocinho
+    rank-sub: 78
+  - members: Daniel Yugo Sesoko, Guilherme Ryuji Osato e Sara Miyuka Abe
+    name: Sereja Japonesa
+    rank-sub: 111
+  - members: Maysa Cristina Claudino da Silva, Mariana Tiemi Silva Misu e Beatriz Viana Costa
+    name: baião de dois and it's the same but there's a new person so it's not
+    rank-sub: 129
+  - members: Felipe Pereira Ramos Barboza, Francisco Nassif Membrive e Guilherme Luiz Pereira de Almeida
+    name: união minas goirás
+    rank-sub: 158
+  - members: Nathália Yukimi Uchiyama Tsuno, Rachel Loriato Nazareth Franco e Thainara de Assis Goulart
+    name: Antes um bug do que um TLE
+    rank-sub: 163
+  - members: Fernando de Souza, Renata Hobold e Vinicius Paz
+    name: busp provisório
+    rank-sub: 225
+
 - title: Chapecó, Outubro 2023
   url: /~maratona/brasileira-2023
   year: 2023
