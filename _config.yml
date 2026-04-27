@@ -51,7 +51,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Brazil/Sao_Paulo
+timezone:    America/Sao_Paulo
 future:      true
 markdown:    kramdown
 syntax_highlighter: coderay
