@@ -31,6 +31,7 @@ awards:
 history:
 - title: Asunción, Paraguai, Março de 2026
   year: 2026
+  name: "Here's my number: 998244353, so call me maybe"
   members: Pedro Miguelez, Cauê Fornielles da Costa e Pedro Matheus Simões Ferreira
   coaches: Yan Soares Couto
   img: /~maratona/images/latam2026-heres.jpg
@@ -40,6 +41,7 @@ history:
 
 - title: Salvador, Brasil, Março de 2025
   year: 2025
+  name: Faça o WM
   members: Willian Miura Mori, Nathan Martins e Antonio Hachisuca
   coaches: Enrique Junchaya
   img: /~maratona/images/latam2025-wm.jpg
@@ -53,6 +55,7 @@ history:
 
 - title: Guadalajara, México, Março de 2024
   year: 2024
+  name: Codando & Coringando
   members: Luan Arcanjo, Nathan Martins e Willian Mori
   coaches: Enrique Junchaya e Gabriel Morete de Azevedo
   img: images/latam_finals/codando_latam.jpg
@@ -88,6 +91,7 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Latino-americanas do
 {% endfor %} {% endfor %}
 {% endif %}
 <a href="{% if item.score %}{{ item.score }}{% else %}http://static.kattis.com/icpc/wf{{ item.year }}/{% endif %}" title="placar"><i class="fa fa-th-list" title="Placar"></i> Colocação: {{ item.place }}</a><br>
+{% if item.name %}<b>{{ item.name }}</b><br>{% endif %}
 Time: {{ item.members }}. <br>
 Coaches: {{ item.coaches }}.
 {% if item.text %}<br>{{ item.text }}{% endif %}

@@ -93,6 +93,7 @@ history:
     - champion
     - gold
     - latam
+    - wf
   - members: Gabriel Caiaffa, Matheus Paulo e William Wang
     name: desculpa mae eu uso FFT
     rank-sub: 22
@@ -135,6 +136,7 @@ history:
     awards:
     - gold
     - latam
+    - wf
   - members: Antonio Hachisuca, Matheus Ferreira e Willian Wang
     name: pato
     img: /~maratona/images/brasileira-2023/pato.jpg

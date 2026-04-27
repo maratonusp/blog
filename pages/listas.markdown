@@ -33,4 +33,4 @@ Estas são as listas de problemas criadas pelo MaratonUSP:
 
 Não esqueça de dar uma olhada na [pagina de TCC's](https://www.ime.usp.br/~maratona/tccs.html) e ver mais sobre os nossos [acampamentos](https://www.ime.usp.br/~maratona/acampamentos).
 
-Por favor, [nos avise](http://facebook.com/maratonusp) sobre links quebrados ou quaisquer outros problemas.
+Por favor, [nos avise](https://www.instagram.com/maratonusp/) sobre links quebrados ou quaisquer outros problemas.

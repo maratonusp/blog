@@ -31,6 +31,7 @@ awards:
 history:
 - title: Baku, Azerbaijão, Setembro de 2025
   year: 2025
+  name: Faça o WM
   members: Willian Miura Mori, Nathan Martins e Antonio Hachisuca
   coaches: Enrique Junchaya e Yan Couto
   img: /~maratona/images/wf2025-wm.jpg
@@ -40,6 +41,7 @@ history:
 
 - title: Luxor, Egito, Agosto de 2024
   year: 2023
+  name: "Hoje tem 'In queue' do Ribamar"
   members: Gabriel Morete de Azevedo, Thiago Oliveira, Lucas Harada
   coaches: Germano Hüning e Enrique Junchaya
   img: images/world_finals/ribamar_wf.jpg
@@ -49,6 +51,7 @@ history:
 
 - title: Dhaka, Bangladesh, Novembro de 2022
   year: 2022
+  name: KondZhiLa
   members: Jiang Zhi, Lucas Harada e Victor Lamarca
   coaches: Nathan Proença
   img: images/world_finals/hazila_wf.jpg
@@ -58,6 +61,7 @@ history:
 
 - title: Moscou, Rússia, Outubro de 2021
   year: 2021
+  name: Time com T
   members: Arthur Nascimento, César Guimarães e Giovanna Kobus Conrado
   coaches: Nathan Proença e Renzo Gómez
   img: images/time-com-T-world-finals-2021.jpg
@@ -67,6 +71,7 @@ history:
 
 - title: Pequim, China, abril de 2018
   year: 2018
+  name: "¯\\_(ツ)_/¯"
   members: Arthur Nascimento, Yan Soares Couto e Victor Sena Molero
   coaches: Renzo Gomez e Marcos Kawakami
   img: images/shrug_world_finals_2018.jpg
@@ -228,6 +233,7 @@ Os resultados de times da USP (Campus Butantã) nas [Finais Mundiais do ICPC](ht
 {% endfor %} {% endfor %}
 {% endif %}
 <a href="{% if item.score %}{{ item.score }}{% else %}http://static.kattis.com/icpc/wf{{ item.year }}/{% endif %}" title="placar"><i class="fa fa-th-list" title="Placar"></i> Colocação: {{ item.place }}</a><br>
+{% if item.name %}<b>{{ item.name }}</b><br>{% endif %}
 Time: {{ item.members }}. <br>
 Coaches: {{ item.coaches }}.
 {% if item.text %}<br>{{ item.text }}{% endif %}

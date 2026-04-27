@@ -2,7 +2,7 @@
 title: Sobre o MaratonUSP
 layout: page
 comments: true
-modified: '2023-06-06 13:00:00'
+modified: '2026-04-27 13:00:00'
 ---
 O MaratonUSP visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para programação competitiva, especialmente para a [Maratona SBC de Programação](http://maratona.sbc.org.br) e a [Olimpíada Brasileira de Informática (OBI)](https://olimpiada.ic.unicamp.br).
 

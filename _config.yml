@@ -41,6 +41,10 @@ owner:
   facebook:       maratonUSP
 
 social:
+  - title: "instagram"
+    url: "https://www.instagram.com/maratonusp/"
+  - title: "telegram"
+    url: "https://t.me/maratonusp"
   - title: "github"
     url: "https://github.com/maratonusp/blog"
 
