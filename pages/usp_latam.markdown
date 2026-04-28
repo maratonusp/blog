@@ -29,7 +29,7 @@ awards:
     color: green
     name: Classificado para a WF
 history:
-- title: Asunción, Paraguai, Março de 2026
+- title: Santiago, Chile, Março de 2026
   year: 2026
   name: "Here's my number: 998244353, so call me maybe"
   members: Pedro Miguelez, Cauê Fornielles da Costa e Pedro Matheus Simões Ferreira
