@@ -14,7 +14,7 @@ A II Maratona Paulista de Programação aconteceu na Unicamp (Campinas). Abaixo 
 
 ## Times da USP (Butantã)
 
-O time **ACes High**, formado por **Fernando Graminholi Gonçalves**, **Lucas Batista Mesquita** e **Pedro Suyama Leston Rey**, foi o campeão, em primeiro lugar.
+O time **ACes High**, formado por **Fernando Graminholi Gonçalves**, **Lucas Batista Mesquita** e **Pedro**, foi o campeão, em primeiro lugar.
 
 O time **bing bing bing bong**, formado por **Guilherme Kiyotoshi Kavakami**, **Murilo Maeda Kataoka** e **Pedro Pinheiro Tsuchie**, obteve medalha de prata, em oitavo lugar.
 
