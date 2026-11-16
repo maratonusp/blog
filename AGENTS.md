@@ -14,20 +14,28 @@ Instructions for AI coding agents working in `maratonusp/blog` (`https://www.ime
   ```
   Visit `http://localhost:4000/~maratona/` (note the `/~maratona/` suffix).
   - Note: `Dockerfile` uses `jekyll/jekyll:4`, while `Gemfile` pins `jekyll ~> 3`. If running in Docker for local testing, prefer a `ruby:3.1` container running `bundle install && bundle exec jekyll serve --host 0.0.0.0`.
-- **JS/Assets** (theme pipeline): `npx grunt jshint` / `npx grunt` (see `.github/copilot-instructions.md`). There is no automated test suite; after editing posts or history pages, validate YAML frontmatter (e.g., with `yaml.safe_load`) and run `bundle exec jekyll build` when Ruby is available.
+- **JS/Assets** (theme pipeline):
+  - Install Node deps: `npm install`
+  - Lint JS: `npx grunt jshint` (or targeted `npx jshint assets/js/<file>.js --config .jshintrc`)
+  - Rebuild minified JS + optimize images/SVG: `npx grunt` (watch mode: `npx grunt dev`)
+- **Verification**: There is no automated test suite; after editing posts or history pages, validate YAML frontmatter (e.g., with `yaml.safe_load`) and run `bundle exec jekyll build` when Ruby is available.
 
-## Repository Structure
+## Repository Structure & Conventions
 
-- `_posts/`: Blog posts (`YYYY-MM-DD-slug.md` or `.markdown`) with `layout: post`.
-- `pages/`: Static pages (`layout: page`), including the history cluster:
+- `_posts/`: Blog posts (`YYYY-MM-DD-slug.md` or `.markdown`) with `layout: post` (default permalink `/:categories/:title/`, often overridden with `permalink:`; category archives come from `site.categories`).
+  - Use `{% youtube VIDEO_ID %}` (`_plugins/youtube.rb`) for embedded lecture videos instead of raw `<iframe>` HTML when possible.
+- `pages/`: Static pages (`layout: page`), including the history cluster linked via `autohub` frontmatter (`autohub.category`, `autohub.text`, `autohub.img`, optional `autohub.img_position`) and `hubs` in `_config.yml`:
   - `pages/usp_historia.markdown` — Sub-regional and Brazilian Finals history (USP Campus Butantã).
   - `pages/usp_latam.markdown` — ICPC Latin America Championship (`Programadores de América`, 2024+).
   - `pages/usp_mundial.markdown` — ICPC World Finals history.
   - `pages/seletivas.markdown` — List of Seletiva USP editions and Gym/mirror links.
   - `pages/historia.markdown` — Alumni testimonials (`_includes/depoimentos.html`).
+- `categories/index.html`, `tags/index.html`, `search/index.html`: Listing pages using `layout: post-index` (`_layouts/post-index.html`).
+- `index.html`: Homepage pinned event cards (`<section id="events">`, updated manually) and hub tiles (`hubs` / `hubs_class` rendered by `_includes/hubs.html`, which resolves `$` placeholders to `baseurl`).
+- Navigation comes from `site.menu` in `_config.yml` rendered in `_includes/header.html` (not `_data/navigation.yml`, which is a theme leftover).
 - `images/`: Contest and event photos (kept lightweight; large multi-MB originals can link directly to external URLs like `maratona.sbc.org.br` instead of being committed).
 - `assets/standings/`: Optional archived BOCA scoreboard HTML snapshots embedded via `<iframe>`.
-- `index.html`: Homepage pinned event cards (`<section id="events">`) and hub tiles (`_includes/hubs.html`).
+- Legacy scripts exist in `_scripts/` (`build.sh`, `deploy.sh`, `check_new_posts.sh`), while `.github/workflows/jekyll.yml` is the active CI/CD source of truth.
 
 ## Contest Updates Workflow (Sub-regional, Final Brasileira, LATAM)
 
