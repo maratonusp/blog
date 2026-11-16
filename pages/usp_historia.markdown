@@ -34,6 +34,42 @@ awards:
     name: Classificado para a WF
 history:
 
+- title: Uberlândia, Novembro 2026
+  url: /~maratona/brasileira-2026
+  year: 2026
+  coaches: Yan Soares Couto
+  text: Sobre a [sub-regional](/~maratona/subregional-2026). Essa foi a final brasileira de 2026.
+  teams:
+  - members: Pedro Matheus Simões Ferreira, Cauê Fornielles da Costa e Pedro Miguelez
+    name: "Em minha defesa, ainda tava tentando resolver o warm-up"
+    img: https://maratona.sbc.org.br/relatorio-icpc-latam-finals-2026/fotos/06.jpg
+    rank-final: 6
+    rank-sub: 16
+    awards:
+    - silver
+    - latam
+  - members: Vinícius Lira de Freitas, Arthur Henrique Paixão Santos e Vladimir Arauzo Huisa
+    name: Peste bubônica
+    rank-sub: 22
+  - members: Guilherme Kiyotoshi Kavakami, Murilo Maeda Kataoka e Pedro Pinheiro Tsuchie
+    name: Tung Tung Tung Six Seven
+    rank-sub: 29
+  - members: Daniel Yugo Sesoko, Guilherme Ryuji Osato e Sara Miyuka Abe
+    name: "You seem pretty sad for a girl so in log(N)"
+    rank-sub: 90
+  - members: Lucas Huang, André Luis Neves e Gabriela Kwong Yamaguti
+    name: "#include&lt;milagre&gt;"
+    rank-sub: 91
+  - members: Marcelo Zhang, Leandro Takara e Marcos Akira Ogasawara
+    name: Não Sabemos Grafos
+    rank-sub: 106
+  - members: Mariana Tiemi Silva Misu, Rachel Loriato Nazareth Franco e Nathália Yukimi Uchiyama Tsuno
+    name: A História Da Iguana Espacial Que Foi Comer Caqui Fuyu E Pastel De Feira
+    rank-sub: 190
+  - members: Vinícius Santo, Daniel Christi Bento e Vinícius Kasahara
+    name: "Sobra = NULL"
+    rank-sub: 394
+
 - title: São Paulo, Novembro 2025
   url: /~maratona/brasileira-2025
   year: 2025
@@ -59,7 +95,7 @@ history:
   - members: Arthur Henrique Paixão Santos, Marcelo Machado Lage e Vladimir Arauzo Huisa
     name: Torcicolo
     rank-sub: 40
-  - members: Vinícius Lira de Freiras, Octavio Gomes Carneiro e Fernando Gouveia Lima
+  - members: Vinícius Lira de Freitas, Octavio Gomes Carneiro e Fernando Gouveia Lima
     name: "/\\_/\\ (= ._.) / >  \\>"
     rank-sub: 43
   - members: Daniel Yugo Sesoko, Guilherme Ryuji Osato e Sara Miyuka Abe
